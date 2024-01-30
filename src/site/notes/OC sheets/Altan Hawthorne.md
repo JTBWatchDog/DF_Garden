@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oc-sheets/altan-hawthorne/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/oc-sheets/altan-hawthorne/","metatags":" description: \"Altan Hawthorne\"\n \"og:image\": \"https://imgur.com/a/ucYRibt\"","tags":["gardenEntry"]}
 ---
 
 Name: Altan Janus Hawthorne
