@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"characters/hawthorne-altan.md","dg-permalink":"characters/hawthorne-altan","permalink":"/characters/hawthorne-altan/","title":"\"Altan Hawthorne\"","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-path":"characters/hawthorne-altan.md","dg-permalink":"characters/hawthorne-altan","permalink":"/characters/hawthorne-altan/","title":"Altan Hawthorne","tags":["gardenEntry"]}
 ---
 
 Name: Altan Janus Hawthorne
