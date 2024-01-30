@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"/Home","dg-permalink":"Home","permalink":"/Home/","title":"Home","pinned":"true","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-permalink":"Home","permalink":"/Home/","title":"Home","pinned":"true","tags":["gardenEntry"]}
 ---
 
 Aaaawagga
