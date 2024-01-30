@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Hawthorne-Altan.md","dg-permalink":"Characters/hawthorne-altan","permalink":"/Characters/hawthorne-altan/","title":"Altan Hawthorne"}
+{"dg-publish":true,"dg-path":"Characters/Hawthorne-Altan.md","dg-permalink":"Characters/hawthorne-altan","permalink":"/Characters/hawthorne-altan/","title":"Altan Hawthorne","metatags":"description: \"Altan Hawthorne\"\r \"og:image\": \"https://imgur.com/a/ucYRibt\""}
 ---
 
 Name: Altan Janus Hawthorne
