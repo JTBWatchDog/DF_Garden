@@ -4,7 +4,7 @@
 
 ## Sounds
 All possible consonants: 
-`m, n, p, b, t, d, k, g, ', s, z, sh, zh, th, h, r, rr`'
+`m, n, p, b, t, d, k, g, ?, s, z, sh, zh, th, h, r, rr`
 All possible vowels: 
 `i, e, a, uh, u, o, ough, ah`
 ![Pasted image 20240104110208.png](/img/user/Media/Pasted%20image%2020240104110208.png)
