@@ -15,10 +15,10 @@ Trust is hard to gain, and heavens forbid you break it. But once you're inside t
 
 
 ### A Quick History
-
+(WIP)
 
 ##### Notable Figures
-
+(WIP)
 ### The People
 The Akeraan, as in the People and Nation simultaneously, is built on the foundation that every single person shares the same blood. The touch of this idea can be found *everywhere*, from their native tongue *Roknerua*, which holds many words such as *rengurra* (Literally "oathbreaker") and *so'ezil* (Literally "blood sibling", an affectionate term any Akerr can use to recognize another); To the structure of their government, their literature, and the list goes on.
 This idea is only one of many remnants from their near-extinction at the hands of the Zulthanian Empire. 
@@ -28,12 +28,12 @@ But for those on the *outside* of that family, getting 'in' can be... *Difficult
 Trust is hard to gain, and the breakage of that trust is not easily forgotten. 
 
 ### Notable Regions, their Geography & their Culture
-
+(WIP)
 
 
 
 ### Akeraan as a country / Government
-
+(WIP)
 
 ### The Ishuan Coastal Trade Area
-
+(WIP)
