@@ -13,6 +13,11 @@ The Akeraan can be described, mainly, as a militaristic and tightly knit people.
 All Akerr view each other as if they were blood related, leading to a sense of them being one large family. Those on the outside of that family, however, often find themselves... 'Disliked', to put it softly. 
 Trust is hard to gain, and heavens forbid you break it. But once you're inside the family, you're *inside the family*, to put it simply. Flaky Akerr are surprisingly rare. This is, in part, due to the militaristic nature of their culture.
 
+The society of the Akeraan is really a militaristic, tightly knit meritocracy. Social standing is dependent on, including but not limited to: 
+- Ability in whatever profession they choose to pursue, whether they be a simple carpenter, or a scientist, or in the army.
+- Combative ability, whether it be in strategy, or martial arts, or magic, or weapon mastery, as every able Akerr is expected to serve should the need rise. 
+- 
+
 That militaristic nature is in large part an effect of the *Co'arradur* or "Calamity", in reference to their near-extinction at the hand of the Zulthanian Empire. 
 ### A Quick History
 (WIP)
