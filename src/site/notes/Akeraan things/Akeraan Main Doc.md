@@ -9,9 +9,8 @@
 Translated excerpt from the Akeraan epic *Durma Mai'im*, which many of the Akeraan people recant prior to every new year.
 
 ### An Introduction
-The Akeraan, as in the People and Nation simultaneously, is built on the foundation that every single person shares the same blood. The touch of this idea can be found *everywhere*, from their native tongue *Roknerua*, which holds many words such as *rengurra* (Literally "oathbreaker") and *so'ezil* (Literally "blood sibling", an affectionate term any Akerr can use to recognize another); To the structure of their government, their culture, and the list goes on.
-This idea is only one of many remnants from their near-extinction at the hands of the Zulthanian Empire. 
-
+The Akeraan can be described, mainly, as a militaristic and tightly knit people. All Akerr view each other as if they were blood related, leading to a sense of them being one large family. Those on the outside of that family, however, often find themselves... 'Disliked', to put it softly. 
+Trust is hard to gain, and heavens forbid you break it. But once you're inside the family, you're *inside the family*, to put it simply. 
 
 ### A Quick History
 
@@ -19,7 +18,12 @@ This idea is only one of many remnants from their near-extinction at the hands o
 ##### Notable Figures
 
 ### The People
+The Akeraan, as in the People and Nation simultaneously, is built on the foundation that every single person shares the same blood. The touch of this idea can be found *everywhere*, from their native tongue *Roknerua*, which holds many words such as *rengurra* (Literally "oathbreaker") and *so'ezil* (Literally "blood sibling", an affectionate term any Akerr can use to recognize another); To the structure of their government, their literature, and the list goes on.
+This idea is only one of many remnants from their near-extinction at the hands of the Zulthanian Empire. 
+It's thanks to this cultural foundation that the entire Akeraan people *is* like one large family. 
 
+But for those on the *outside* of that family, getting 'in' can be... *Difficult*. 
+Trust is hard to gain, and the breakage of that trust is not easily forgotten. 
 
 ### Notable Regions, their Geography & their Culture
 
