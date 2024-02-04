@@ -12,7 +12,7 @@ All possible vowels:
 ![Pasted image 20240104113757.png](/img/user/Media/Pasted%20image%2020240104113757.png)
 ɹ is normal 'r' and r is a trill
 ## Phonotactics rules
-1. Syllable structure is (C)(C)V(C)(C)
+1. Word structure is (C)(C)(V)(ʔ)V(C)(C)
 2. ʔ must be between vowels
 3. Onset: Everything except /l/
 4. Nucleus: All vowels, /R/
