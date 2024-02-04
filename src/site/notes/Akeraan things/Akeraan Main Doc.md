@@ -13,7 +13,7 @@ The Akeraan can be described, mainly, as a militaristic and tightly knit people.
 All Akerr view each other as if they were blood related, leading to a sense of them being one large family. Those on the outside of that family, however, often find themselves... 'Disliked', to put it softly. 
 Trust is hard to gain, and heavens forbid you break it. But once you're inside the family, you're *inside the family*, to put it simply. Flaky Akerr are surprisingly rare. This is, in part, due to the militaristic nature of their culture.
 
-
+That militaristic nature is in large part an effect of the *Co'arradur* or "Calamity", in reference to their near-extinction at the hand of the Zulthanian Empire. 
 ### A Quick History
 (WIP)
 
