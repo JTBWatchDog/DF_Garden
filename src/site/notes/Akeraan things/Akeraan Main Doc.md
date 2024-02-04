@@ -16,7 +16,8 @@ Trust is hard to gain, and heavens forbid you break it. But once you're inside t
 The society of the Akeraan is really a militaristic, tightly knit meritocracy. Social standing is dependent on, including but not limited to: 
 - Ability in whatever profession they choose to pursue, whether they be a simple carpenter, or a scientist, or in the army.
 - Combative ability, whether it be in strategy, or martial arts, or magic, or weapon mastery, as every able Akerr is expected to serve should the need rise. 
-- 
+- Adherence to, but especially preservation of, tradition. Their reverence for their culture and traditions is profound, considering how close they came to losing it. Those that stray from it may be ostracized.
+
 
 That militaristic nature is in large part an effect of the *Co'arradur* or "Calamity", in reference to their near-extinction at the hand of the Zulthanian Empire. 
 ### A Quick History
