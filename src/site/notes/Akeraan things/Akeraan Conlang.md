@@ -22,3 +22,11 @@ All possible vowels:
 	- A sonorant can only be paired with an obstruent and vice versa
 	- Consonant onsets started by Nasals can only be followed by another non-nasal sonorant
 8. A consonant must not be followed by a voiced stop or voiced fricative
+
+
+## Writing rules
+- Left-to-right, top-to-bottom
+- Little to no curves 
+- Based off of Cuneiform, the Futhark runes, & the writing style of Dovahzul
+- No straight horizontal lines
+- 
