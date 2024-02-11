@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"characters/Amvera-Yuurik.md","permalink":"/characters/amvera-yuurik/","title":"Amvera Yuurik"}
+{"dg-publish":true,"dg-path":"Characters/Amvera-Yuurik.md","permalink":"/characters/amvera-yuurik/","title":"Amvera Yuurik"}
 ---
 
 Name: Amvera Yuu'rik
