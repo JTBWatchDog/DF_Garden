@@ -24,7 +24,7 @@ The human side of her biology has become more subdued as her body developed over
 Personality: The majority will only ever see the 'legit' side of Amvera, which really is only *partially* fabricated. She can be quite restrained, not in that she's averse to socializing but that she keeps much close to her chest. 
 
 Behind that quiet and solid reservation lies a wild ferocity. Two seemingly contradictory sides of the same coin: Gentleness, but also cruelty; Brutality, but also gentility; As able to mend wounds as she is to deal them. 
-Despite lying beyond the pale without doubt, her moral compass is specifically defined, inflexible, and she adheres to it stubbornly. Perhaps because it's now her only anchor— Perhaps not. 
+Despite lying beyond the pale without doubt, her moral code is specifically defined and she adheres to it stubbornly. Perhaps because it's now her only anchor— Perhaps not. 
 
 Likes/Dislikes: 
 
