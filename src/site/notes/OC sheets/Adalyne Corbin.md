@@ -18,10 +18,12 @@ Eye Color: Amber/Gold-ish brown
 Weight: 198 lb. / 90 kg.
 Height: 6'5" / 195 cm
 ##### Physical description
-Adalynes form is the result of 18 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
+Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
 Her body reflects this, in every aspect. 
+She looks like a woman who has picked heavy things up, put them down again, and then done that a few tens of billions of times over the past 17 or so years.
 
-
+Adalyne possesses a large pair of ram-esque horns, made of a dark gray type of keratin. The tip of her right horn is broken off. This was purposeful and self-inflicted:
+It is the custom of the Viara Du'ul clan, that any who become a widow do such to themselves— This breaks the marital ring inserted into the horn during the marriage ceremony. This is the only case in which it can be removed, as the ring is heated and closed after being placed.
 ### Info
 
 Personality: 
