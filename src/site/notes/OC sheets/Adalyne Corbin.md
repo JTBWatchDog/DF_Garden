@@ -30,6 +30,7 @@ This is the only case in which it can be removed, as the ring is heated and weld
 ### Info
 
 Personality: 
+Adalyne has little time for nonsense. 
 Likes/Dislikes:
 
 #### Backstory
