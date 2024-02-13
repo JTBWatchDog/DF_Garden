@@ -30,6 +30,7 @@ Likes/Dislikes:
 
 #### Backstory
 
+From the moment she appeared on the doorstep of Skyridge home with nothing but a basket, a blanket, and a note with her name on it, she didn't really have a lot going for her. 
 
 
 
