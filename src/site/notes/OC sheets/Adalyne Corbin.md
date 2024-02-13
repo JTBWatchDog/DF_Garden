@@ -18,7 +18,9 @@ Eye Color: Amber/Gold-ish brown
 Weight: 198 lb. / 90 kg.
 Height: 6'5" / 195 cm
 ##### Physical description
-Adalynes form is the result of 18 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zelous and frenzied. Her body reflects this, in every aspect.
+Adalynes form is the result of 18 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
+Her body reflects this, in every aspect. 
+
 
 ### Info
 
