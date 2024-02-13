@@ -24,7 +24,7 @@ She looks like a woman who has picked heavy things up, put them down again, and 
 
 Adalyne possesses a large pair of ram-esque horns, made of a dark gray type of keratin. The tip of her right horn is broken off. This was purposeful and self-inflicted:
 It is the custom of the Viara Du'ul clan, that any who become a widow do such to themselves— This breaks the marital ring inserted into the horn during the marriage ceremony. 
-This is the only case in which it can be removed, as the ring is heated and welded shut after being placed. A Viara Du'ul clan with a broken horn will never re-marry.
+This is the only case in which it can be removed, as the ring is heated and welded shut after being placed. A Viara Du'ul kobold with a broken horn will never re-marry.
 ### Info
 
 Personality: 
