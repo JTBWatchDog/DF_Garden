@@ -30,9 +30,12 @@ $\quad$This is the only case in which it can be removed, as the ring is heated a
 ### Info
 
 Personality: 
-Adalyne has little time for nonsense. 
-Likes/Dislikes:
+$\quad$Adalyne contains a broiling and seething wrath within her that burns at her gut, eternal. Threatening to consume her, and everyone around her, it is only held captive by adamantine command over herself. Yet still it burns, unquenchable. 
+$\quad$Even so, she gives her utmost to not let her wrath control nor define her soul. No matter how she might feel to be curt, or brusque, or even tactless. No matter her impatience. No matter the silence of her home, where once was so much joy. No matter how difficult it is to control that anger, when it feels she's being flayed from within, and make that decision to be kind.
+$\quad$But the devil yet festers in still water.
 
+Likes/Dislikes:
+$\quad$
 #### Backstory
 
 
