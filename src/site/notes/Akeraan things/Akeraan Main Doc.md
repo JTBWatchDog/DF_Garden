@@ -17,7 +17,7 @@ The society of the Akeraan is really a militaristic, tightly knit meritocracy. S
 - Ability in whatever profession they choose to pursue, whether they be a simple carpenter, or a scientist, or in the army.
 - Combative ability, whether it be in strategy, or martial arts, or magic, or weapon mastery, as every able Akerr is expected to serve should the need rise. 
 - Adherence to, but especially preservation of, tradition. Their reverence for their culture and traditions is profound, considering how close they came to losing it. Those that stray from it may be ostracized, or even outright punished depending on circumstance.
-Perhaps the best example of their society's unique facets would be their *Chihuas 
+Perhaps the best example of their society's unique facets would be their *Chihuas * 
 ### A Quick History
 (WIP)
 
