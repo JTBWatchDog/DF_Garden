@@ -35,9 +35,9 @@ $\quad$Even so, she gives her utmost to not let her wrath control nor define her
 $\quad$But the devil yet festers in still water.
 
 Likes/Dislikes:
-$\quad$
+$\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. Say anything negative about her daughters and she'll break your face.
 #### Backstory
-
+$\quad$
 
 
 
