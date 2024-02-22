@@ -47,7 +47,8 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$
 >$\quad$
 >$\quad$Quantifying with words alone the depth to which this event, and everything leading up to it, affected Adalyne is difficult. "Impossible" may be an apt word. The misandry of the Viara Du'ul clan (and several others,) like a late-stage infection, is deep and wide spread — And throughout her adolescence, every single rearing of its ugly head made Adalynes blood boil. 
->$\quad$
+>$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
+>$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several 'likeminded' clans) meritocracy.
 
 
 
