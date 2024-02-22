@@ -38,7 +38,7 @@ Likes/Dislikes:
 $\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. Say anything negative about her daughters and she'll break your face.
 #### Backstory
 
-> [!EXAMPLE]- Childhood to Pre-Dragonfall
+> [!EXAMPLE]+ Childhood to Pre-Dragonfall
 > $\quad$The aging kobolds life is one that can best be described as "tumultuous." 
 $\quad$Her home life, during her childhood, was adequate — for a time. Until she learned her version of "adequate" was *very* different from others. Until she told father what mother had done to her. Until she woke up one night to the sound of her father, Dolais, screaming at her mother, Urmin.
 $\quad$Until Adalyne heard that, if she ever so much as looked at Adalyne again, he'd kill her. Mother left that night. 
@@ -48,8 +48,12 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$
 >$\quad$Quantifying with words alone the depth to which this event, and everything leading up to it, affected Adalyne is difficult. "Impossible" may be an apt word. The misandry of the Viara Du'ul clan (and several others,) like a late-stage infection, is deep and wide spread — And throughout her adolescence, every single rearing of its ugly head made Adalynes blood boil. 
 >$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
->$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several 'likeminded' clans) meritocracy.
-
+>$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several 'likeminded' clans) meritocracy. 
+>$\quad$And she did. 
+>$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions.
+>>[!NOTE]-
+>>$\quad$These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland Federation.
+> $\quad$A
 
 
 
