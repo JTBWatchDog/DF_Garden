@@ -50,10 +50,11 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
 >$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several 'likeminded' clans) meritocracy. 
 >$\quad$And she did. 
->$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions.
->>[!NOTE]-
->>$\quad$These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland Federation.
-> $\quad$A
+>$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions. 
+>$\quad$$\quad$These wargames are exactly what they sound like: Standardized combat designed to 
+>$\quad$$\quad$settle disputes between several notoriously squabbly factions and regions, developed to 
+>$\quad$$\quad$make sure they weren't annihilated by a (then) recently formed United Mainland 
+>$\quad$$\quad$Federation
 
 
 
