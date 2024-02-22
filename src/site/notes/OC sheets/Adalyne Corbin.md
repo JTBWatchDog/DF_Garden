@@ -59,6 +59,12 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >
 >$\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory—small and large, personal and on the battlefield—piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, gradually, eventually, Adalyne woke up to find a miniature movement had built up around her. 
 >$\quad$Now, the wargames weren't *just* what she enjoyed doing—Every game she won became another statement. Now, an off-hand comment was no longer *just* an off-hand comment—Everything she said now seemed to spread through the grapevine.
+>$\quad$By her late 30s she had people, people she *knew*, asking her when she was going to challenge the position of Shul Rosen — And she hadn't known she was, apparently, planning to.
+>
+>$\quad$
+
+
+
 
 
 
