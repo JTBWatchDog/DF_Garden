@@ -38,12 +38,18 @@ Likes/Dislikes:
 $\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. Say anything negative about her daughters and she'll break your face.
 #### Backstory
 
-> [!EXAMPLE]- Childhood
+> [!EXAMPLE]- Childhood to Pre-Dragonfall
 > $\quad$The aging kobolds life is one that can best be described as "tumultuous." 
 $\quad$Her home life, during her childhood, was adequate — for a time. Until she learned her version of "adequate" was *very* different from others. Until she told father what mother had done to her. Until she woke up one night to the sound of her father, Dolais, screaming at her mother, Urmin.
 $\quad$Until Adalyne heard that, if she ever so much as looked at Adalyne again, he'd kill her. Mother left that night. 
 $\quad$That following morning, when the sun was rising, Adalyne woke up to a bunch of noise outside: Mother had come back with five of her friends, and they were all standing together. Then Adalyne saw father on the ground, in the middle of them. She never really could remember anything past that point, except for hearing the sound of her own heartbeat and seeing red. 
 $\quad$She killed mother that day, and all five of mothers friends. She had been fifteen.
+>$\quad$
+>$\quad$
+>$\quad$A
+
+
+
 
 
 
