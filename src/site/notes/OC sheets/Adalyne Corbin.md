@@ -52,13 +52,11 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$
 >$\quad$Quantifying with words alone the depth to which this event, and everything leading up to it, affected Adalyne is difficult. "Impossible" may be an apt word. The misandry of the Viara Du'ul clan (and several others,) like a late-stage infection, is deep and wide spread — And throughout her adolescence, every single rearing of its ugly head made Adalynes blood boil. 
 >$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
->$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several 'likeminded' clans) meritocracy. 
+>$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several likeminded clans) meritocracy. 
 >$\quad$And she did. 
 >$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions. 
-><ul><small> Author's note: These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland federation
-></small></ul>
-> 
-> $\quad$
+><ul><small> Author's note: These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland federation> </small></ul>
+> $\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory—small and large, personal and on the battlefield—piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, gradually, eventually, Adalyne woke up to find a miniature movement had built up around her. Now, the wargames weren't *just* what she enjoyed doing—Every game she won became another statement.  
 
 
 
