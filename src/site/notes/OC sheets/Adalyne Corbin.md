@@ -3,9 +3,9 @@
 ---
 
 
-| Name           | Age | Sex | Species                              |
-| -------------- | --- | --- | ------------------------------------ |
-| Adalyne Corbin | 86  | F   | Dorraul Kobold<br>(Viara Du'ul clan) |
+|      Name      | Age | Sex | Mage Rank |               Species                |
+| :------------: | :-: | :-: | :-------: | :----------------------------------: |
+| Adalyne Corbin | 86  |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |
 
 Name: Adalyne Corbin 
 Age: 86
