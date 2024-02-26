@@ -3,9 +3,9 @@
 ---
 
 
-| <div align=center>Name                 | <div align=center>Age      | <div align=center>Sex     | <div align=center>Species                              |
-| -------------------------------------- | -------------------------- | ------------------------- | ------------------------------------------------------ |
-| <div align=center>Adalyne Corbin</div> | <div align=center>86</div> | <div align=center>F</div> | <div align=center>Dorraul Kobold<br>(Viara Du'ul clan) |
+| Name           | Age | Sex | Species                              |
+| -------------- | --- | --- | ------------------------------------ |
+| Adalyne Corbin | 86  | F   | Dorraul Kobold<br>(Viara Du'ul clan) |
 
 Name: Adalyne Corbin 
 Age: 86
