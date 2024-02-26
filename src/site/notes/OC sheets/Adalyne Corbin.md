@@ -2,6 +2,11 @@
 {"dg-publish":true,"dg-path":"Characters/Adalyne-Corbin.md","permalink":"/characters/adalyne-corbin/"}
 ---
 
+
+| <div align=center>Name                 | <div align=center>Age      | <div align=center>Sex     | <div align=center>Species                              |
+| -------------------------------------- | -------------------------- | ------------------------- | ------------------------------------------------------ |
+| <div align=center>Adalyne Corbin</div> | <div align=center>86</div> | <div align=center>F</div> | <div align=center>Dorraul Kobold<br>(Viara Du'ul clan) |
+
 Name: Adalyne Corbin 
 Age: 86
 Sex: Female
@@ -73,7 +78,7 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
-
+>$\quad$
 
 
 
