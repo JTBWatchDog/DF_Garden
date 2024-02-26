@@ -78,7 +78,7 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
->$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. Compared to Absalem, who had worked as a mage hunter[^[1]]
+>$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. Compared to Absalem, who had worked as a mage hunter[^1]
 >
 >Adalyne and her husband Absalem were *effectively* retired, even if they did still work: Adalyne with her work in bespoke tailoring and Absalem with his work in yoga instruction. 
 
