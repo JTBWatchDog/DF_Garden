@@ -107,4 +107,4 @@ OC Using this magic:
 
 
 
-[^1]: This is in reference to a group which existed prior to the ATDF's existence, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who had crossed borders.
+[^1]:This is in reference to a group which existed prior to the ATDF's existence, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who had crossed borders.
