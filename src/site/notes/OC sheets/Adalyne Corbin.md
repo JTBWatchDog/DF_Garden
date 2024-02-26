@@ -3,9 +3,9 @@
 ---
 
 
-|      Name      | Age | Sex | Mage Rank |               Species                |
-| :------------: | :-: | :-: | :-------: | :----------------------------------: |
-| Adalyne Corbin | 86  |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |
+|      Name      |         Age         | Sex | Mage Rank |               Species                |
+| :------------: | :-----------------: | :-: | :-------: | :----------------------------------: |
+| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |
 
 Name: Adalyne Corbin 
 Age: 86
@@ -78,7 +78,9 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
->$\quad$
+>$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. Compared to Absalem, who had worked as a mage hunter[^[1]]
+>
+>Adalyne and her husband Absalem were *effectively* retired, even if they did still work: Adalyne with her work in bespoke tailoring and Absalem with his work in yoga instruction. 
 
 
 
@@ -97,3 +99,12 @@ OC Using this magic:
 
 
 ### Gear
+
+
+
+
+
+
+
+
+[^1]: This is in reference to a group which existed prior to the ATDF's existence, whose purpose was to track down and detain dangerous magi within and around Acuria.
