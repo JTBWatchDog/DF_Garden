@@ -78,9 +78,17 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
->$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. Compared to Absalem, who had worked as a mage hunter[^1]
->
->Adalyne and her husband Absalem were *effectively* retired, even if they did still work: Adalyne with her work in bespoke tailoring and Absalem with his work in yoga instruction. 
+>$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. In contrast to Absalem, who had worked as a mage hunter[^1] and thus had traveled plenty, this was Adalynes first time being outside of Dorma Zaul for any significant period. 
+>$\quad$Despite her efforts in learning Yexvian, acclimating would prove to be far more difficult for her than for her husband — regardless, she got it eventually. That was a good few hectic months of their life: Between moving in, acclimating to the change in not just language but also culture, and Adalynes pregnancy, this was one of the most stressful periods of her life — Even including the previous assassination attempts on her husband and father.
+>$\quad$Yet in other ways, it was also one of the least stressful. Even to the present day, it's difficult to explain. Perhaps the best way to explain it is that this new stress, despite being no lesser or greater than that previous stress, was *smaller* in scale. Or perhaps there is no good way to explain it. Perhaps it doesn't matter.
+>$\quad$
+>$\quad$What does matter is that, one day, Adalyne woke up. She had a home, not just a place she lived but a *home*, untouched by shadows of the past; And she had a husband, who no longer *needed* to carry a weapon with him at all hours, who no longer needed to be forever *vigilant* even within his own home; And she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
+>$\quad$And for the first time, it felt... real. That shadow no longer hovered over her. And for the first time in a long time, she knew peace.
+>$\quad$How she wishes it could have lasted, but some things are not meant to be.
+>$\quad$
+>$\quad$
+>$\quad$It happened in 710 AE, in Blaises first year at DFMA. The thrice-damned image is etched onto her mind, preserved forevermore. The cold blood pooling. It was supposed to be a day for joy. A day for celebration of new life. Only there was no joy.
+>$\quad$Mother and child came home to a mess of broken furniture and torn flesh.
 
 
 
@@ -107,4 +115,4 @@ OC Using this magic:
 
 
 
-[^1]:This is in reference to a group which existed prior to the ATDF's existence, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who had crossed borders.
+[^1]:This is in reference to a group which existed prior to the ATDF's inception, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who have crossed borders.
