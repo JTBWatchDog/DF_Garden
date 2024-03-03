@@ -9,8 +9,8 @@ This event came to be known simply as “The Calamity”, or “Krymorax” in t
 
 In the present day, the Akeraan is a mostly neutral state in the grand scheme of things. So long as your name doesn’t include “Zulth”, if you stay off of their-and their allies-toes then they’ll stay off of yours. 
 Entirely secular, highly family-oriented, intoxicatingly patriotic, and militaristic to the extreme, the Akeraan are a tightly-knit group. Their loyalty to their people and their devotion to their “Omnattan”, or “Allfather” Abias Theou, is likely only second to the utterly deranged (and, debatably, the Hashinese.)  
-As far as economics goes, the Akeraan and their allies* likely possess one of the largest-spanning railway systems on the continent, if not period, spanning much of western Eiyora. (*Really, the Akeraan are the ones in control of it.) Their understanding of Metallurgy and Metalworking is also highly advanced.  
+As far as economics goes, the Akeraan and their allies* likely possess one of the largest-spanning railway systems on the continent, if not period, spanning much of western Eiyora. (*Really, the Akeraan are the ones in control of it.*) Their understanding of Metallurgy and Metalworking is also highly advanced.  
 However unknown to the world, in the modern age their true prowess flourishes: Subterfuge. Be it through sleeper agents, hidden deep, acting as an early warning system in the face of aggression; Or more traditional agents, actively collecting in the field; Or, their latest addition to their ranks, their experts in cyber warfare and recon; Their reach—while never particularly deep, due to the presence of mind magic—is vast.  
 An Akeraan agent has never been caught alive.
 
-“Heart under blade; Fire and flame, we are one.” —A translated piece of their anthem.**
+*“Heart under blade; Fire and flame, we are one.” —A translated piece of their anthem.*
