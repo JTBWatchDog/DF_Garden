@@ -96,7 +96,12 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$It was her child that finally pulled her out of it. What a mother she was.
 >Adalyne can still remember when Blaise woke her, begging her to get up and eat. He had cooked for her. He didn't leave her alone until she'd eaten it all. She can't remember when she fell asleep again, holding onto him for dear life. Nor can she remember how many times she apologized to him. 
 >$\quad$
->$\quad$She never let the darkness take her again. She got up. She shaved her head, her neck, and her collarbone. Taking a hammer and an awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. 
+>$\quad$Blaise made her promise something that following day. He made her promise that, even in her grief, she would not lose her will to live. Absalem would not want it; so she got up. She shaved her head, her neck, and her collarbone. Taking a hammer and an awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. She did not let that darkness consume her again.
+>$\quad$Perhaps in time she would have moved on properly, and continued to live in spite of this pain. Fate, however, had different plans for her.
+>$\quad$
+>$\quad$
+>$\quad$Adalyne and Blaise were shopping together when they encountered an odd kobold. She can still remember him vividly. He struck a wrong chord in her, but she couldn't explain why at the time. If only she'd known. He would've been dead on the spot. 
+>$\quad$Regardless they were talking, and Adalyne was trying to exit the conversation. 
 
 
 
