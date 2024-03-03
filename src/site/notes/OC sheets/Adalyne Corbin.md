@@ -82,21 +82,21 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$Despite her efforts in learning Yexvian, acclimating would prove to be far more difficult for her than for her husband — regardless, she got it eventually. That was a good few hectic months of their life: Between moving in, acclimating to the change in not just language but also culture, and Adalynes pregnancy, this was one of the most stressful periods of her life — Even including the previous assassination attempts on her husband and father.
 >$\quad$Yet in other ways, it was also one of the least stressful. Even to the present day, it's difficult to explain. Perhaps the best way to explain it is that this new stress, despite being no lesser or greater than that previous stress, was *smaller* in scale. Or perhaps there is no good way to explain it. Perhaps it doesn't matter.
 >$\quad$
->$\quad$What does matter is that, one day, Adalyne woke up. She had a home, not just a place she lived but a *home*, untouched by shadows of the past; And she had a husband, who no longer *needed* to carry a weapon with him at all hours, who no longer needed to be forever *vigilant* even within his own home; And she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
+>$\quad$What does matter is that one day, Adalyne woke up. She had a home, not just a place she lived but a *home*, untouched by shadows of the past; she had a husband, who no longer *needed* to carry a weapon with him at all hours, who no longer needed to be forever *vigilant* even within his own home; she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
 >$\quad$And for the first time, it felt... real. That shadow no longer hovered over her. And for the first time in a long time, she knew peace.
 >$\quad$How she wishes it could have lasted, but some things are not meant to be.
 >$\quad$
 >$\quad$
->$\quad$It happened in 710 AE, in Blaises first year at DFMA. The thrice-damned image is etched onto her mind, preserved forevermore. The cold blood pooling. It was supposed to be a day for joy. A day for celebration of new life. 
+>$\quad$It happened in 709 AE, in Blaise's first year at DFMA when he was 18. The thrice-damned image is etched onto her mind, preserved forevermore. The cold blood pooling. It was supposed to be a day for joy. A day for celebration of new life. 
 >$\quad$Mother and child came home to a mess of broken furniture and torn flesh.
 >$\quad$
 >$\quad$Those days were the worst of her life.
 >$\quad$Were it not that Blaise, and the little one within her womb, needed her, Adalyne would not have survived those weeks. She almost didn't anyway. Most of those days she has no memory of, except for the last day of that depressive episode. It had been three weeks, and a half perhaps. She hadn't left her bed for close to two days. She hadn't showered in even longer. 
->Adalyne didn't remember the last time she had eaten. 
+>Adalyne didn't remember the last time she had eaten. Perhaps a week ago.
 >$\quad$It was her child that finally pulled her out of it. What a mother she was.
 >Adalyne can still remember when Blaise woke her, begging her to get up and eat. He had cooked for her. He didn't leave her alone until she'd eaten it all. She can't remember when she fell asleep again, holding onto him for dear life. Nor can she remember how many times she apologized to him. 
 >$\quad$
->$\quad$She never let the darkness take her again. She got up. She shaved her head, her neck, and her collarbone. Taking a hammer and an awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, letting the scar set. 
+>$\quad$She never let the darkness take her again. She got up. She shaved her head, her neck, and her collarbone. Taking a hammer and an awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. 
 
 
 
