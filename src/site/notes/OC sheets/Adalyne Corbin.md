@@ -55,8 +55,7 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
 >$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several likeminded clans) meritocracy. 
 >$\quad$And she did. 
->$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions. 
-><ul><small> Author's note: These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland federation> </small></ul>
+>$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions.[^1]
 >
 >$\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory—small and large, personal and on the battlefield—piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, eventually, Adalyne woke up to find a miniature movement had built up around her. 
 >$\quad$Now, the wargames weren't *just* a job that she both enjoyed doing and *happened* to be very good at—Every game she won became another statement. Now, an off-hand comment was no longer *just* an off-hand comment—Everything she said now seemed to spread through the grapevine.
@@ -78,25 +77,26 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
->$\quad$Once upon a time, Adalyne and her family were at peace. Perhaps not everything was perfect, but they were happy. They had moved to Dragonfall in 690, while Adalyne was two months pregnant with Blaise. In contrast to Absalem, who had worked as a mage hunter[^1] and thus had traveled plenty, this was Adalynes first time being outside of Dorma Zaul for any significant period. 
->$\quad$Despite her efforts in learning Yexvian, acclimating would prove to be far more difficult for her than for her husband — regardless, she got it eventually. That was a good few hectic months of their life: Between moving in, acclimating to the change in not just language but also culture, and Adalynes pregnancy, this was one of the most stressful periods of her life — Even including the previous assassination attempts on her husband and father.
->$\quad$Yet in other ways, it was also one of the least stressful. Even to the present day, it's difficult to explain. Perhaps the best way to explain it is that this new stress, despite being no lesser or greater than that previous stress, was *smaller* in scale. Or perhaps there is no good way to explain it. Perhaps it doesn't matter.
+>$\quad$Once upon a time, Adalyne and her family were at peace. They had moved in 690, while Adalyne was two months pregnant with Blaise. In contrast to Absalem, who had who had traveled plenty as a mage hunter[^2], this was Adalynes first time being outside of Dorma Zaul for any significant period. 
+>$\quad$Despite her efforts, acclimating would prove to be far more difficult for her than for her husband — regardless, she got it eventually. That was a good few hectic months of their life: Between moving in, acclimating to the change in not just language but also culture, and Adalynes pregnancy, this was one of the most stressful periods of her life — Even including the previous assassination attempts on her husband and father.
+>Yet in other ways, it was also the least stressful. Even to the present day, it's difficult to explain. Perhaps it doesn't matter.
 >$\quad$
->$\quad$What does matter is that one day, Adalyne woke up. She had a home, not just a place she lived but a *home*, untouched by shadows of the past; she had a husband, who no longer *needed* to carry a weapon with him at all hours, who no longer needed to be forever *vigilant* even within his own home; she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
->$\quad$And for the first time, it felt... real. That shadow no longer hovered over her. And for the first time in a long time, she knew peace.
->$\quad$How she wishes it could have lasted, but some things are not meant to be.
+>$\quad$What does matter is that one day, Adalyne woke up. She had not just a place she lived but a *home*, untouched by shadows of the past; she had a husband, who no longer *needed* to carry a weapon at all hours, no longer needed to be forever *vigilant*; she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
+>And for the first time, it felt... real. That shadow no longer hovered over her. And for the first time in a long time, she knew peace.
+>$\quad$How she wishes it could have lasted.
 >$\quad$
 >$\quad$
->$\quad$It happened in 709 AE, in Blaise's first year at DFMA when he was 18. The thrice-damned image is etched onto her mind, preserved forevermore. The cold blood pooling. It was supposed to be a day for joy. A day for celebration of new life. 
+>$\quad$It happened in 709 AE, in Blaise's first year at DFMA when he was 18. The cold blood pooling. It was supposed to be a day for celebration of new life. Absalem's birthday was four days away.
 >$\quad$Mother and child came home to a mess of broken furniture and torn flesh.
 >$\quad$
 >$\quad$Those days were the worst of her life.
->$\quad$Were it not that Blaise, and the little one within her womb, needed her, Adalyne would not have survived those weeks. She almost didn't anyway. Most of those days she has no memory of, except for the last day of that depressive episode. It had been three weeks, and a half perhaps. She hadn't left her bed for close to two days. She hadn't showered in even longer. 
+>Were it not that Blaise, and the little one within her womb, needed her, Adalyne would not have survived those weeks. Most of those days she has no memory of, except for the last day of that depressive episode. Three weeks, perhaps. She hadn't left her bed for close to two days. She hadn't showered in even longer. 
 >Adalyne didn't remember the last time she had eaten. Perhaps a week ago.
+>
 >$\quad$It was her child that finally pulled her out of it. What a mother she was.
 >Adalyne can still remember when Blaise woke her, begging her to get up and eat. He had cooked for her. He didn't leave her alone until she'd eaten it all. She can't remember when she fell asleep again, holding onto him for dear life. Nor can she remember how many times she apologized to him. 
 >$\quad$
->$\quad$Blaise made her promise something that following day. He made her promise that, even in her grief, she would not lose her will to live. Absalem would not want it; so she got up. She shaved her head, her neck, and her collarbone. Taking a hammer and an awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. She did not let that darkness consume her again.
+>$\quad$Blaise made her promise something that following day. He made her promise that, even in her grief, she would not lose her will to live. Absalem would not want it; so she got up. She shaved her head, her neck, and her collarbone. Taking hammer and awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. She did not let that darkness consume her again.
 >$\quad$Perhaps in time she would have moved on properly, and continued to live in spite of this pain. Fate, however, had different plans for her.
 >$\quad$
 >$\quad$
@@ -104,12 +104,13 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$While she was trying to exit conversation with the odd fellow, he said something that stopped her. 
 >>"Doesn't it bother you?" He had asked Adalyne. When asked what he was talking about, the odd man went on and said, 
 >>"That I killed your husband."
+> 
 >$\quad$
->$\quad$Surprisingly enough, as stunned as she was it wasn't Adalyne that attacked him first; it was Blaise. It happened so fast, and (what Adalyne now knew was) the demon didn't even use magic. One moment Blaise was attacking with a blade of wind, and then her arm was broken. (Several weeks prior to this, Blaise had come out as trans, to Adalyne's nonexistent surprise.) As easy as a snake lies, the demon put her out of the fight. 
+>$\quad$As stunned as she was, it wasn't Adalyne that attacked him first; it was Blaise. It happened so fast, and (what Adalyne now knew was) the demon didn't even use magic. One moment Blaise was attacking, and then her arm was broken. (Several weeks prior to this, Blaise had come out as trans, to Adalyne's nonexistent surprise.) Blaise was out of the fight.
 >$\quad$Between the devils abilities scaling evenly to Adalyne's own, and having to defend Blaise on top of that, it was a hard fight. Were it not for her child's genius and sacrifice, she would have lost. 
 >$\quad$
->$\quad$As Adalyne faced off against the devil, Blaise focused all of has magic into an infinitesimal point in his left hand. When he reached the end of his reserves, he committed all the power of his tattoos, leaving them a dull black. Perhaps that would have been enough, but he didn't stop there. He dug deeper.
->$\quad$In his rage he dug so deep, searching for every spare scrap of mana, that he began sacrificing the mass of his body. First the fat, then the muscle when that was depleted. Blaise atrophied before their very eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
+>$\quad$As Adalyne faced off against the devil, Blaise focused all of her magic into an infinitesimal point in her left hand. When she reached the end of her reserves, she retrieved the power in her tattoos, leaving them a dull black. Perhaps that would have been enough. She didn't stop there. She dug deeper.
+>$\quad$In her rage she dug so deep, searching for every spare scrap of mana, that she began sacrificing the mass of her body. First the fat, then the muscle. Blaise atrophied before their eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
 >$\quad$
 >$\quad$
 
@@ -137,4 +138,5 @@ OC Using this magic:
 
 
 
-[^1]:This is in reference to a group which existed prior to the ATDF's inception, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who have crossed borders.
+[^1]:These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland federation
+[^2]:This is in reference to a group which existed prior to the ATDF's inception, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who have crossed borders.
