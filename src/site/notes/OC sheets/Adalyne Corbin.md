@@ -3,15 +3,9 @@
 ---
 
 
-|      Name      |         Age         | Sex | Mage Rank |               Species                |
-| :------------: | :-----------------: | :-: | :-------: | :----------------------------------: |
-| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |
-
-Name: Adalyne Corbin 
-Age: 86
-Sex: Female
-Species: Dorraul Kobold (Viara Du'ul clan)
-Mage rank: A
+|        Name        |           Age           |  Sex  | Mage Rank |                 Species                  | Affiliations & Rank |
+| :----------------: | :---------------------: | :---: | :-------: | :--------------------------------------: | :-----------------: |
+| **Adalyne Corbin** | **86**<br>(Born 641 AE) | **F** |   **A**   | **Dorraul Kobold**<br>(Viara Du'ul clan) | **ATDF**<br>Knight  |
 
 ### Appearance 
 Scale/skin color: Silver body, gray bi-color across her face, the front of her torso, and the underside of her tail.
@@ -120,10 +114,12 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 
-### Magic Name:
-Overall place in type triad:
-Elemental Properties:
-OC Using this magic:
+### Magic Name: Terran Will
+OC Using this magic: Adalyne Corbin
+Overall place in type triad: Offensive
+**Elemental Properties** 
+Base: Earth, Water, Lightning
+Conceptual Elements: Strength(Earth), Speed(Water), Might(Lightning)
 #### Description
 
 
