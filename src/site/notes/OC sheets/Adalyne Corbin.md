@@ -53,26 +53,26 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$
 >$\quad$Quantifying with words alone the depth to which this event, and everything leading up to it, affected Adalyne is difficult. "Impossible" may be an apt word. The misandry of the Viara Du'ul clan (and several others,) like a late-stage infection, is deep and wide spread — And throughout her adolescence, every single rearing of its ugly head made Adalynes blood boil. 
 >$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
->$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, including tactics both technical and martial, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several likeminded clans) meritocracy. 
+>$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several likeminded clans) meritocracy. 
 >$\quad$And she did. 
 >$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions.[^1]
 >
->$\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory—small and large, personal and on the battlefield—piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, eventually, Adalyne woke up to find a miniature movement had built up around her. 
+>$\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, eventually, Adalyne woke up to find a miniature movement had built up around her. 
 >$\quad$Now, the wargames weren't *just* a job that she both enjoyed doing and *happened* to be very good at—Every game she won became another statement. Now, an off-hand comment was no longer *just* an off-hand comment—Everything she said now seemed to spread through the grapevine.
 >$\quad$By her late 30s she had people asking her when she was going to challenge the position of Shul Rosen — And she hadn't known that she was, apparently, planning to.
 >
 >$\quad$Adalyne still can't remember what she felt at 45, when she defeated the previous Shul Rosen in a final trial of martial combat. Perhaps because she didn't feel anything. 
 >$\quad$However, regardless of the adamancy of the movement she now found herself the spearhead for, there was one issue that they had forgotten about: Her ability to politick; Or, more accurately, her lack thereof. 
->$\quad$For the small yet fervent group that had centered themselves around her, this was the one obstacle that she—and by extension *they*—could not get around. Adalyne could not sway the minds of the elders, nor the minds of the people at large, when push came to shove. 
+>For the small yet fervent group that had centered themselves around her, this was the one obstacle that she—and by extension *they*—could not get around. Adalyne could not sway the minds of the elders, nor the minds of the people at large, when push came to shove. 
 >$\quad$And so it would remain.
 >$\quad$
 >$\quad$
->$\quad$It's hard for Adalyne to say when, or why, she really took up that quest for change. After the attempt on her husband's life, perhaps; Or the attempt on her father's life, before that. But, she remembers very vividly the day she "woke up."
->$\quad$The day she realized that none of it meant anything to her. Not the movement behind her, not the title of Shul Rosen, not even the prospect of change in the clan. None of it mattered to her, not at all.
+>$\quad$It's hard for Adalyne to say when, or why, she really took up that quest. After the attempt on her husband's life, perhaps; Or the attempt on her father's life, before that. But, she remembers very vividly the day she "woke up."
+>The day she realized that none of it meant anything to her. Not the movement behind her, not the title, not even the prospect of change in the clan. None of it mattered to her, not at all.
 >$\quad$Adalyne had followed this quest for change, filled the role other people had prepared for her, because the people she cared about had been harmed by an unjust system. But, blindsided by the people that surrounded her, she'd never realized there had been a simpler option:
->$\quad$There's a large, large world out there. Outside these old stone walls and their old, carcinogenic ways. 
->$\quad$She could have left. Her, and her family—They'd never been rich (prior to her political ascension and the opportunities it offered her,) but a move had never been possible. 
->$\quad$And so she did. With her husband, and her child barely a month in the womb, they left for Dragonfall.
+>$There's a large, large world out there. Outside these old stone walls and their old, carcinogenic ways. 
+>$\quad$She could have left. Her, and her family—They'd never been rich (prior to her political ascension and the opportunities it offered her,) but a move had never been impossible. 
+>And so she did. With her husband, and her child barely a month in the womb, they left for Dragonfall.
 
 
 
@@ -110,9 +110,10 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$Between the devils abilities scaling evenly to Adalyne's own, and having to defend Blaise on top of that, it was a hard fight. Were it not for her child's genius and sacrifice, she would have lost. 
 >$\quad$
 >$\quad$As Adalyne faced off against the devil, Blaise focused all of her magic into an infinitesimal point in her left hand. When she reached the end of her reserves, she retrieved the power in her tattoos, leaving them a dull black. Perhaps that would have been enough. She didn't stop there. She dug deeper.
->$\quad$In her rage she dug so deep, searching for every spare scrap of mana, that she began sacrificing the mass of her body. First the fat, then the muscle. Blaise atrophied before their eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
+>In her rage she dug so deep, searching for every spare scrap of mana, that she began sacrificing the mass of her body. Blaise atrophied before their eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
 >$\quad$
->$\quad$
+>$\quad$Blaise was kept in the ICU for three weeks. Every bone in her left arm had been reduced to shards. For Adalyne, several days passed in a red haze. Somewhere toward the end of that haze, she noticed something:
+>Once more, she could see the cross symbol on her right arm. The one she had lost, when she had failed her destiny and duty to reform her clan. It had returned, and right away she knew what her purpose was. She was going to kill Neloth.
 
 
 
