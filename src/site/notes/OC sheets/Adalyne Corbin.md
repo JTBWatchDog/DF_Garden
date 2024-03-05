@@ -117,8 +117,11 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 OC Using this magic: Adalyne Corbin
 Overall place in type triad: Offensive
 **Elemental Properties** 
-Base: Earth, Water, Lightning
-Conceptual Elements: Strength(Earth), Speed(Water), Might(Lightning)
+Earth, Water, Lightning
+Strength(Earth), Speed(Water), Might(Lightning)
+#### Racial Perk: Dorraul Markan
+$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct meeting of magic and biology, growing with a mage as they age and develop.
+Adalyne has exceedingly large markan, covering extensive portions of her arms, legs, and collarbone. 
 #### Description
 
 
