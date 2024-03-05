@@ -63,7 +63,7 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$It's hard for Adalyne to say when, or why, she really took up that quest. After the attempt on her husband's life, perhaps; Or the attempt on her father's life, before that. But, she remembers very vividly the day she "woke up."
 >The day she realized that none of it meant anything to her. Not the movement behind her, not the title, not even the prospect of change in the clan. None of it mattered to her, not at all.
 >$\quad$Adalyne had followed this quest for change, filled the role other people had prepared for her, because the people she cared about had been harmed by an unjust system. But, blindsided by the people that surrounded her, she'd never realized there had been a simpler option:
->$There's a large, large world out there. Outside these old stone walls and their old, carcinogenic ways. 
+>There's a large, large world out there. Outside these old stone walls and their old, carcinogenic ways. 
 >$\quad$She could have left. Her, and her family—They'd never been rich (prior to her political ascension and the opportunities it offered her,) but a move had never been impossible. 
 >And so she did. With her husband, and her child barely a month in the womb, they left for Dragonfall.
 
