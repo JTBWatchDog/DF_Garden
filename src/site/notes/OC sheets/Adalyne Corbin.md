@@ -100,9 +100,18 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$Perhaps in time she would have moved on properly, and continued to live in spite of this pain. Fate, however, had different plans for her.
 >$\quad$
 >$\quad$
->$\quad$Adalyne and Blaise were shopping together when they encountered an odd kobold. She can still remember him vividly. He struck a wrong chord in her, but she couldn't explain why at the time. If only she'd known. He would've been dead on the spot. 
->$\quad$Regardless they were talking, and Adalyne was trying to exit the conversation. 
-
+>$\quad$Adalyne and Blaise were shopping together when they encountered an odd kobold. She can still remember him vividly. He struck a wrong chord in her, but she couldn't explain why at the time.
+>$\quad$While she was trying to exit conversation with the odd fellow, he said something that stopped her. 
+>>"Doesn't it bother you?" He had asked Adalyne. When asked what he was talking about, the odd man went on and said, 
+>>"That I killed your husband."
+>$\quad$
+>$\quad$Surprisingly enough, as stunned as she was it wasn't Adalyne that attacked him first; it was Blaise. It happened so fast, and (what Adalyne now knew was) the demon didn't even use magic. One moment Blaise was attacking with a blade of wind, and then her arm was broken. (Several weeks prior to this, Blaise had come out as trans, to Adalyne's nonexistent surprise.) As easy as a snake lies, the demon put her out of the fight. 
+>$\quad$Between the devils abilities scaling evenly to Adalyne's own, and having to defend Blaise on top of that, it was a hard fight. Were it not for her child's genius and sacrifice, she would have lost. 
+>$\quad$
+>$\quad$As Adalyne faced off against the devil, Blaise focused all of has magic into an infinitesimal point in his left hand. When he reached the end of his reserves, he committed all the power of his tattoos, leaving them a dull black. Perhaps that would have been enough, but he didn't stop there. He dug deeper.
+>$\quad$In his rage he dug so deep, searching for every spare scrap of mana, that he began sacrificing the mass of his body. First the fat, then the muscle when that was depleted. Blaise atrophied before their very eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
+>$\quad$
+>$\quad$
 
 
 
