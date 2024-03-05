@@ -5,7 +5,7 @@
 
 |      Name      |         Age         | Sex | Mage Rank |               Species                | Affiliations & Rank |
 | :------------: | :-----------------: | :-: | :-------: | :----------------------------------: | :-------------------: |
-| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |      ATDF<br>       |
+| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |   ATDF<br>Knight    |
 ### Appearance 
 Scale/skin color: Silver body, gray bi-color across her face, the front of her torso, and the underside of her tail.
 
