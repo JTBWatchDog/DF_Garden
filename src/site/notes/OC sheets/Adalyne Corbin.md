@@ -99,14 +99,10 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >>"That I killed your husband."
 > 
 >$\quad$
->$\quad$As stunned as she was, it wasn't Adalyne that attacked him first; it was Blaise. It happened so fast, and (what Adalyne now knew was) the demon didn't even use magic. One moment Blaise was attacking, and then her arm was broken. (Several weeks prior to this, Blaise had come out as trans, to Adalyne's nonexistent surprise.) Blaise was out of the fight.
->$\quad$Between the devils abilities scaling evenly to Adalyne's own, and having to defend Blaise on top of that, it was a hard fight. Were it not for her child's genius and sacrifice, she would have lost. 
->$\quad$
->$\quad$As Adalyne faced off against the devil, Blaise focused all of her magic into an infinitesimal point in her left hand. When she reached the end of her reserves, she retrieved the power in her tattoos, leaving them a dull black. Perhaps that would have been enough. She didn't stop there. She dug deeper.
->In her rage she dug so deep, searching for every spare scrap of mana, that she began sacrificing the mass of her body. Blaise atrophied before their eyes. [[Flashbacks/Flashback scenes\|What happened next is beyond summarization.]] 
->$\quad$
->$\quad$Blaise was kept in the ICU for three weeks. Every bone in her left arm had been reduced to shards. For Adalyne, several days passed in a red haze. Somewhere toward the end of that haze, she noticed something:
->Once more, she could see the cross symbol on her right arm. The one she had lost, when she had failed her destiny and duty to reform her clan. It had returned, and right away she knew what her purpose was. She was going to kill Neloth.
+>$\quad$In the fight that ensued, with her mother stunned in that moment, Blaise was the first to attack. In a single viperous movement, the devil redirected her attack and broke her dominant arm; Blaise was taken out of the fight. Worse than this, Adalyne now had to defend her whilst contending with the devil whose abilities scaled to her own. From the first exchange, the battle was lost.
+>Or so Adalyne thought.
+>$\quad$Whilst her mother contended with the demon, Blaise was not idle. She decided she was going to use everything. Every scrap of mana she had access to, including the energy contained within her *markana.* And then she went deeper, converting the mass of her body into energy. Blaise began to atrophy before their eyes. 
+>[[Flashbacks/Flashback scenes\|What happened next is almost beyond Adalyne's Ability to describe.]]
 
 
 
