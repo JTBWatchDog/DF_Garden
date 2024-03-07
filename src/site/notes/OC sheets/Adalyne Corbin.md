@@ -94,32 +94,55 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 >$\quad$
 >$\quad$
 >$\quad$Adalyne and Blaise were shopping together when they encountered an odd kobold. She can still remember him vividly. He struck a wrong chord in her, but she couldn't explain why at the time.
->$\quad$While she was trying to exit conversation with the odd fellow, he said something that stopped her. 
+>$\quad$While she was trying to exit the conversation the odd fellow forced upon them, he said something that stopped her. 
 >>"Doesn't it bother you?" He had asked Adalyne. When asked what he was talking about, the odd man went on and said, 
 >>"That I killed your husband."
 > 
 >$\quad$
->$\quad$In the fight that ensued, with her mother stunned in that moment, Blaise was the first to attack. In a single viperous movement, the devil redirected her attack and broke her dominant arm; Blaise was taken out of the fight. Worse than this, Adalyne now had to defend her whilst contending with the devil whose abilities scaled to her own. From the first exchange, the battle was lost.
+>$\quad$Blaise was the first to attack. In a single viperous movement, the devil redirected her attack and broke her dominant arm; Blaise was taken out of the fight, while Adalyne was too stunned to react. Worse than this, Adalyne now had to defend her whilst contending with the devil whose abilities scaled to her own. From the first exchange, the battle was lost.
 >Or so Adalyne thought.
->$\quad$Whilst her mother contended with the demon, Blaise was not idle. She decided she was going to use everything. Every scrap of mana she had access to, including the energy contained within her *markana.* And then she went deeper, converting the mass of her body into energy. Blaise began to atrophy before their eyes. 
+>$\quad$Whilst her mother contended with the demon, Blaise was not idle. She decided she was going to use everything. Every scrap of mana she had access to, including the energy contained within her *markana.* And then she went deeper, converting the mass of her body into energy. Blaise began to atrophy before their eyes.
 >[[Flashbacks/Flashback scenes\|What happened next is almost beyond Adalyne's Ability to describe.]]
+>$\quad$When the smoke cleared, the devil's dominant arm had been obliterated up to the shoulder. Part of the scorched, blackened humerus bone were visible. The devil was down, but not dead nor defeated. 
+>Taking her daughter, Adalyne fled.
+>$\quad$
+>$\quad$Blaise was held in the ICU for three weeks. Every bone in her left arm had been reduced to shards, and had to be regrown from scratch; in addition to this, she had lost ~27% of her body weight. And Adalyne...
+>Seeing her daughter through the window of the door, connected to wires upon wires and tubes upon tubes, standing at the door of death. . . Words could not then, and cannot now, suffice. 
+>Adalyne returned home in a thick, red haze.
+>$\quad$
+>$\quad$Decades as a prodigy in combat of many forms, despite her rust, had not been lost to Adalyne. This whirlwind of fear, rage, sorrow, and so many other emotions was something she could deal with in spite of how it threatened to drown her. She had dealt with it before. She would deal with it again.
+>$\quad$For much of those three weeks, Adalyne did little more than eat, sleep, and meditate. Day after day, she spent parsing her thoughts and emotions. Fear, dread, sorrow, and so much chaff was cast aside. All that remained was absolute wrath and absolute determination. 
+>$\quad$Adalyne found the conclusion she needed: This devil had taken her husband from her, and now it had almost taken her child. 
+>There was only one path that would not lead to her own self-destruction.
+>The devil would die at her hand, or she would die at his. 
 
 
 
 
 
 
-### Magic Name: Terran Will
+### Magic Name: Absolute Wrath
 OC Using this magic: Adalyne Corbin
 Overall place in type triad: Offensive
 **Elemental Properties** 
 Earth, Water, Lightning
 Strength(Earth), Speed(Water), Might(Lightning)
-#### Racial Perk: Dorraul Markan
-$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct meeting of magic and biology, growing with a mage as they age and develop.
-Adalyne has exceedingly large markan, covering extensive portions of her arms, legs, and collarbone. 
+> [!EXAMPLE]- Racial Perk: Dorraul Markana
+>$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, growing with a mage as they age and develop. These markings have a metallic appearance.
+>
+>$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing blue bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
+>$\quad$This interfacing of biology with her Conceptual Elements has led to the creation of (Insert wolf names here), which are manifestations of her Strength and Speed elements respectively.
 #### Description
+$\quad$ 17 years prior, in her rust (as she was effectively retired,) she had lost true combative ability in her base elements. Now, however, she has rectified this; she had returned to her fundamentals to reestablish and regain her control over Earth and Water. 
+Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity changed and developed into a Lightning affinity as she exited retirement. Regardless, she has now established control over Lightning.
+$\quad$
 
+
+> [!EXAMPLE]- A note on Might
+>$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved a Gold grade elemental cloak, which is the highest grade, with both. This was not the case. 
+>Shortly after Blaise's hospitalization at the hands of Neloth, Adalyne comprehended something further: "Strength" and "Speed", or her understanding of both, combined to bring forth "Might", a 'second grade' Conceptual Element in that it is derived from other Conceptual Element(s) and thus literally "larger" in scope (though this does not make it inherently better.)
+>$\quad$Might is the Conceptual Element of insurmountable force and change, causing uncontrollable rage in its wielders; that is, *nigh*-uncontrollable, as Adalyne asserted control over it and changed GOMA's definition of the element. 
+>Adalyne is the only currently known Might user who has done this.
 
 #### Techniques
 
