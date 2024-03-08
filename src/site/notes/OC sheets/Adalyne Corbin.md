@@ -3,9 +3,9 @@
 ---
 
 
-|      Name      |         Age         | Sex | Mage Rank |               Species                | Affiliations & Rank |
-| :------------: | :-----------------: | :-: | :-------: | :----------------------------------: | :-------------------: |
-| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) |   ATDF<br>Knight    |
+|      Name      |         Age         | Sex | Mage Rank |               Species                |               Affiliations & Rank                |
+| :------------: | :-----------------: | :-: | :-------: | :----------------------------------: | :----------------------------------------------: |
+| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) | ATDF<br>Knight<br>**Enlistment Date:**<br>711 AE |
 ### Appearance 
 Scale/skin color: Silver body, gray bi-color across her face, the front of her torso, and the underside of her tail.
 
@@ -135,8 +135,8 @@ Strength(Earth), Speed(Water), Might(Lightning)
 #### Description
 $\quad$ 17 years prior, in her rust (as she was effectively retired,) she had lost true combative ability in her base elements. Now, however, she has rectified this; she had returned to her fundamentals to reestablish and regain her control over Earth and Water. 
 Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity changed and developed into a Lightning affinity as she exited retirement. Regardless, she has now established control over Lightning.
-$\quad$
 
+$\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
 
 > [!EXAMPLE]- A note on Might
 >$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved a Gold grade elemental cloak, which is the highest grade, with both. This was not the case. 
@@ -145,7 +145,7 @@ $\quad$
 >Adalyne is the only currently known Might user who has done this.
 
 #### Techniques
-
+\[Spell/Form/Ability Name] (Triad | Element)
 
 ### Gear
 
