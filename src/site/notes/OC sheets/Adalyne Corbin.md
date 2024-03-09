@@ -121,7 +121,7 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 
 
 
-### Magic Name: Absolute Wrath
+### Magic Name: Wrath of The World
 OC Using this magic: Adalyne Corbin
 Overall place in type triad: Offensive
 **Elemental Properties** 
@@ -138,6 +138,8 @@ Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a P
 
 $\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
 
+$\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World.
+
 > [!EXAMPLE]- A note on Might
 >$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved a Gold grade elemental cloak, which is the highest grade, with both. This was not the case. 
 >Shortly after Blaise's hospitalization at the hands of Neloth, Adalyne comprehended something further: "Strength" and "Speed", or her understanding of both, combined to bring forth "Might", a 'second grade' Conceptual Element in that it is derived from other Conceptual Element(s) and thus literally "larger" in scope (though this does not make it inherently better.)
@@ -145,7 +147,7 @@ $\quad$Now, much of her magic revolves around her elemental cloaks. By a specifi
 >Adalyne is the only currently known Might user who has done this.
 
 #### Techniques
-\[Spell/Form/Ability Name] (Triad | Element)
+\[] (Triad | Element)
 
 ### Gear
 
