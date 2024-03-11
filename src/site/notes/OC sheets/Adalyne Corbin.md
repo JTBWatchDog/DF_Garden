@@ -131,12 +131,13 @@ Strength(Earth), Speed(Water), Might(Lightning)
 >$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, growing with a mage as they age and develop. These markings have a metallic appearance.
 >
 >$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing blue bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
->$\quad$This interfacing of biology with her Conceptual Elements has led to the creation of (Insert wolf names here), which are manifestations of her Strength and Speed elements respectively.
+>$\quad$This interfacing of biology with her Conceptual Elements has led to the creation of Boris and Ilja, which are manifestations of her Strength and Speed elements respectively. They are summons directly bound to the markana on her arms and legs. Summoning them prevents her from using their respective element entirely until they return to her and join back again to their respective tattoo, which effectively act as their housing. 
 #### Description
 $\quad$ 17 years prior, in her rust (as she was effectively retired,) she had lost true combative ability in her base elements. Now, however, she has rectified this; she had returned to her fundamentals to reestablish and regain her control over Earth and Water. 
 Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity changed and developed into a Lightning affinity as she exited retirement. Regardless, she has now established control over Lightning.
 
 $\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
+Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a **three turn cool-down** before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, **the effects of that spell will immediately end.** 
 
 $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World.
 
@@ -147,7 +148,20 @@ $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary)
 >Adalyne is the only currently known Might user who has done this.
 
 #### Techniques
-\[] (Triad | Element)
+[Cloak of Strength] (**S**tate **T**ransformation | Strength) **{Perfect Grade}**
+$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with **golden embers**. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
+$\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
+
+$\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
+Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
+$\quad$ Spells requiring this to be active will be marked with **{STR}**.
+
+[Crushing Mass] (Hex | Strength&Earth) {Cooldown: 12 turns | Effect period: 8 turns} **{STR}**
+$\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
+- Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
+- The effect of enemy movement-focused abilities are (mildly) reduced.
+- At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
+  This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. **There is a maximum force that the Anchor can put on any single entity;** if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
 
 ### Gear
 
@@ -158,5 +172,6 @@ $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary)
 
 
 
-[^1]:These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland federation
+[^1]:These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland Federation.
 [^2]:This is in reference to a group which existed prior to the ATDF's inception, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who have crossed borders.
+[^3]:Variable Arcane Kinetic Training, Overweight Verticality, and Iterative Addon
