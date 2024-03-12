@@ -7,16 +7,12 @@
 | :------------: | :-----------------: | :-: | :-------: | :----------------------------------: | :----------------------------------------------: |
 | Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) | ATDF<br>Knight<br>**Enlistment Date:**<br>711 AE |
 ### Appearance 
-Scale/skin color: Silver body, gray bi-color across her face, the front of her torso, and the underside of her tail.
-
-Hair color: Blond/Pale gold 
-Hair style:
+|    Height     |     Weight      | Hair color  |  Eye color   | Scale/skin color                                                                      |
+| :-----------: | :-------------: | :---------: | :----------: | :-------------------------------------------------------------------------------------: |
+| 6'5<br>195 cm | 198 lb<br>90 kg | Blonde gold | Golden Amber | Silver body<br>Gray bi-color across face,<br>front of torso, and underside<br>of tail |
+ Hair style:
 $\quad$Texture and styling is extremely similar to a lion’s mane, growing not only over the top of her head but also over the back of her neck and around her collarbone. 
 $\quad$After Absalems death (and her becoming a widow,) in the custom of the Viara Du'ul clan, she shaved all of her previous hair off and began growing her dreadlocks once more, in the fashion of the clans warriors. 
-
-Eye Color: Amber/Gold-ish brown
-Weight: 198 lb. / 90 kg.
-Height: 6'5" / 195 cm
 ##### Physical description
 $\quad$Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
 $\quad$Her body reflects this, in every aspect. 
