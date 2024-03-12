@@ -3,9 +3,9 @@
 ---
 
 
-|      Name       |              Age              | Sex  | Species | Mage Rank |            Affiliations & Rank             |
-| :-------------: | :---------------------------: | :--: | :-----: | :-------: | :----------------------------------------: |
-| Logan Hawthorne | 57<br>(DOB: March 15, 670 AE) | Male |  Human  |     B     | ATDF<br>Knight<br>(Enlistment date:703 AE) |
+|      Name       |              Age              | Sex  |
+| :-------------: | :---------------------------: | :--: |
+| Logan Hawthorne | 57<br>(DOB: March 15, 670 AE) | Male |
 
 | Species | Mage Rank |            Affiliations & Rank             |
 | :-----: | :-------: | :----------------------------------------: |
