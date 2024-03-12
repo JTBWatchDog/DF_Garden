@@ -10,6 +10,7 @@
 |    Height     |     Weight      | Hair color  |  Eye color   | Scale/skin color                                                                      |
 | :-----------: | :-------------: | :---------: | :----------: | :-------------------------------------------------------------------------------------: |
 | 6'5<br>195 cm | 198 lb<br>90 kg | Blonde gold | Golden Amber | Silver body<br>Gray bi-color across face,<br>front of torso, and underside<br>of tail |
+ 
  Hair style:
 $\quad$Texture and styling is extremely similar to a lion’s mane, growing not only over the top of her head but also over the back of her neck and around her collarbone. 
 $\quad$After Absalems death (and her becoming a widow,) in the custom of the Viara Du'ul clan, she shaved all of her previous hair off and began growing her dreadlocks once more, in the fashion of the clans warriors. 
