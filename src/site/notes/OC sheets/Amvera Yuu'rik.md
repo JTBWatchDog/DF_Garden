@@ -2,19 +2,15 @@
 {"dg-publish":true,"dg-path":"Characters/Amvera-Yuurik.md","permalink":"/characters/amvera-yuurik/","title":"Amvera Yuurik"}
 ---
 
-Name: Amvera Yuu'rik
-Age: 39 (born 688 AE)
-Sex: Female
-Species: Kobold-human hybrid
-Mage rank: B
+|      Name      |      Age       | Sex |          Species          | Mage Rank | Affiliations & Rank |
+| :------------: | :------------: | :-: | :-----------------------: | :-------: | :-----------------: |
+| Amvera Yuu'rik | 39<br>DOB: 688 |  F  | Half-kobold<br>Half-human |     B     |                     |
 
 ### Appearance 
-Hair color: Charcoal gray w/ thick white stripe above right eye
-Scale/skin color: Pale gray / Cloud gray / # C5C6D0
-Eye Color (Normal): White, shot through with webs of pale, faded green
-Eye Color (Aizura): Super-luminous white, faded green bismuth fractal
-Weight: 178 lb. / 81 kg.
-Height: 6'0 / 182 cm
+|    Height     |     Weight      | Scale/skin color |                      Hair color                       |                                            Eye color                                             |
+| :-----------: | :-------------: | :--------------: | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| 6'0<br>182 cm | 178 lb<br>81 kg |    Pale gray     | Charcoal gray<br>Thick white strip<br>above right eye | White, faded green accent<br>**Aizura:**<br>Super-luminous white,<br>faded green bismuth fractal |
+
 #### Description
 Amvera has not been idle since her graduation from the academy. Hers is a form forged in nigh ceaseless combat. Lean, dense. 
 The human side of her biology has become more subdued as her body developed over time, likely due to the influence of daemonic mana. Claws, once barely-existent, are now far more pronounced. The same extends to her horns, but especially her facial structure. Where once before was an awkward half-muzzle there now exists a proper draconic snout, equipped with the expected razor-esque teeth. 
