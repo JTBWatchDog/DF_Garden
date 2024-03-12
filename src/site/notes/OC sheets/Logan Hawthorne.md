@@ -3,18 +3,18 @@
 ---
 
 
-|      Name       |              Age              | Sex  |
-| :-------------: | :---------------------------: | :--: |
-| Logan Hawthorne | 57<br>(DOB: March 15, 670 AE) | Male |
+|      Name       |              Age              | Sex  | Species | Mage Rank |            Affiliations & Rank             |
+| :-------------: | :---------------------------: | :--: | :-----: | :-------: | :----------------------------------------: |
+| Logan Hawthorne | 57<br>(DOB: March 15, 670 AE) | Male |  Human  |     B     | ATDF<br>Knight<br>(Enlistment date:703 AE) |
 
 | Species | Mage Rank |            Affiliations & Rank             |
 | :-----: | :-------: | :----------------------------------------: |
 |  Human  |     B     | ATDF<br>Knight<br>(Enlistment date:703 AE) |
 ### Appearance 
 
-| Height | Weight | Hair color | Eye color |
-| :----: | :----: | :--------: | :-------: |
-|        |        |            |           |
+| Height | Weight |   Hair color    |       Eye color        |
+| :----: | :----: | :-------------: | :--------------------: |
+|  6'4"  | 170 lb | Light Ash brown | Cinnamon/red-ish brown |
 
 
 
