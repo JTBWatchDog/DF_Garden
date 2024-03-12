@@ -2,18 +2,14 @@
 {"dg-publish":true,"dg-path":"Characters/Hawthorne-Altan.md","dg-permalink":"Characters/Hawthorne-Altan","permalink":"/Characters/Hawthorne-Altan/","title":"Altan Hawthorne","metatags":"description: \"Altan Hawthorne\"\r \"og:image\": \"https://imgur.com/a/ucYRibt\""}
 ---
 
-Name: Altan Janus Hawthorne
-Age: 19 y/o (d.o.b here)
-Sex: Female
-Species: Human
-Mage rank: C
+|         Name          |         Age         | Sex | Species | Mage Rank | Affiliations & Rank |
+| :-------------------: | :-----------------: | :-: | :-----: | :-------: | :-----------------: |
+| Altan Janus Hawthorne | 19<br>DOB:Mar14 712 |  F  |  Human  |     C     |   DFMA<br>Student   |
+
 ### Appearance 
-
-Hair color: Black
-Eye Color: Black
-Weight: 140 lb, or 63 kg
-Height: 5'4", or 162 cm
-
+|    Height     |     Weight      | Hair color | Eye color |
+| :-----------: | :-------------: | :--------: | :-------: |
+| 5'4<br>162 cm | 140 lb<br>63 kg |   Black    |   Black   |
 Altan is mesomorphic & toned by exercise from the time she was eight, with a heart-shaped face and eyes that are only slightly larger than they should be. Her jet black hair, one of her greatest prides that she's taken great care of from her youth, reaches down to her waist— It's so dark that it often looks like a hole in the world. Her eyes are the same way: It can actually be hard to see where her pupil starts unless you're really close.
 She is also extremely pale, almost disturbingly so, in direct contrast to her extremely dark hair.
 
