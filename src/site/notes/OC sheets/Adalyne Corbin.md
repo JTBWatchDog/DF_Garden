@@ -135,7 +135,7 @@ $\quad$ 17 years prior, in her rust (as she was effectively retired,) she had lo
 Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity changed and developed into a Lightning affinity as she exited retirement. Regardless, she has now established control over Lightning.
 
 $\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
-Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a **three turn cool-down** before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, **the effects of that spell will immediately end.** 
+Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a <small>**three turn cool-down**</small> before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, <small>**the effects of that spell will immediately end.**</small> 
 
 $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World.
 
