@@ -147,7 +147,7 @@ $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary)
 
 #### Techniques
 [Cloak of Strength] (<small>**S**</small>tate <small>**T**</small>ransformation | Strength) <small>**{Perfect Grade}**</small>
-$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with **golden embers**. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
+$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
 $\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
 
 $\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
@@ -159,7 +159,7 @@ $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generatin
 - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
 - The effect of enemy movement-focused abilities are (mildly) reduced.
 - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
-  This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. **There is a maximum force that the Anchor can put on any single entity;** if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
+  This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
 
 [] (|Strength)
 
