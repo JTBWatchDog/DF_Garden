@@ -146,7 +146,7 @@ $\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary)
 >Adalyne is the only currently known Might user who has done this.
 
 #### Techniques
-[Cloak of Strength] (**S**tate **T**ransformation | Strength) <b>{Perfect Grade}</b>
+[Cloak of Strength] (<b>S</b>tate <b>T</b>ransformation | Strength) <b>{Perfect Grade}</b>
 $\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with **golden embers**. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
 $\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
 
@@ -154,7 +154,7 @@ $\quad$While in this state, Adalyne's physical strength is vastly increased. Her
 Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
 $\quad$ Spells requiring this to be active will be marked with <b>{STR}</b>.
 
-[Crushing Mass] (Hex | Strength&Earth) {Cooldown: 12 turns | Effect period: 8 turns} <b>{STR}</b>
+[Crushing Mass] (Hex | Strength&Earth) {Cooldown: 12 turns | Effect period: 8 turns} <small>**{STR}**</small>
 $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
 - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
 - The effect of enemy movement-focused abilities are (mildly) reduced.
