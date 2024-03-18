@@ -123,7 +123,6 @@ $\quad$She killed mother that day, and all five of mothers friends. She had been
 OC Using this magic: Adalyne Corbin
 Overall place in type triad: Offensive
 **Elemental Properties** 
-Earth, Water, Lightning
 Strength(Earth), Speed(Water), Might(Lightning)
 > [!EXAMPLE]- Racial Perk: Dorraul Markana
 >$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, growing with a mage as they age and develop. These markings have a metallic appearance.
@@ -169,10 +168,8 @@ $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generatin
 $\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
 $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
 - [Hold the Line] (Buff | Earth) {CD: None | EP: None} <small>**{STR}**</small>
-	$\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them the effects of [Foundation]. In allies with Earth, or any element derived from it, this effect will be amplified.
+	$\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
 	$\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
-- [Valley of Thorns] (Defense | Earth) <small>**{STR}**</small>
-	$\quad$
 
 [Resonant Redirection] (Def. | <small>**{STR}**</small>) {CT: 1 tr | CD: 8 tr | EP: 4 tr} **{ZEN}**
 $\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
