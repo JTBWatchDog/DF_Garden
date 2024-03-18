@@ -131,16 +131,20 @@ Strength(Earth), Speed(Water), Might(Lightning)
 >$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing blue bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
 >$\quad$This interfacing of biology with her Conceptual Elements has led to the creation of Boris and Ilja, which are manifestations of her Strength and Speed elements respectively. They are summons directly bound to the markana on her arms and legs. Summoning them prevents her from using their respective element entirely until they return to her and join back again to their respective tattoo, which effectively act as their housing. 
 #### Description
-$\quad$ 17 years prior, in her rust (as she was effectively retired,) she had lost true combative ability in her base elements. Now, however, she has rectified this; she had returned to her fundamentals to reestablish and regain her control over Earth and Water. 
-Over time, she "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity changed and developed into a Lightning affinity as she exited retirement. Regardless, she has now established control over Lightning.
+Over time, Adalyne "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity matured into a Lightning affinity as she exited retirement. Regardless, in addition to clearing her rust & re-establishing control over her base elements, Adalyne possesses control over Lightning.
 
 $\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
-Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a <small>**three turn cool-down**</small> before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, <small>**the effects of that spell will immediately end.**</small> 
+Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a <small>**three turn cool-down**</small> before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, <small>**all effects of that spell will immediately end.**</small> 
 
-$\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World.
+$\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World. 
+
+$\quad$Be aware, several spells have additional information attached to them. These include:
+- Cooldown, abbreviated "CD", before a spell can be used again
+- Effect Period, abbreviated "EP", or how long the effect of a spell lasts
+- Cast time, abbreviated "CT", or how long a spell must be charged before it can be used
 
 > [!EXAMPLE]- A note on Might
->$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved a Gold grade elemental cloak, which is the highest grade, with both. This was not the case. 
+>$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved the highest grade cloak with both. This would not be the case for long.
 >Shortly after Blaise's hospitalization at the hands of Neloth, Adalyne comprehended something further: "Strength" and "Speed", or her understanding of both, combined to bring forth "Might", a 'second grade' Conceptual Element in that it is derived from other Conceptual Element(s) and thus literally "larger" in scope (though this does not make it inherently better.)
 >$\quad$Might is the Conceptual Element of insurmountable force and change, causing uncontrollable rage in its wielders; that is, *nigh*-uncontrollable, as Adalyne asserted control over it and changed GOMA's definition of the element. 
 >Adalyne is the only currently known Might user who has done this.
@@ -154,15 +158,26 @@ $\quad$While in this state, Adalyne's physical strength is vastly increased. Her
 Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
 $\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
 
-[Crushing Mass] (Hex | Strength&Earth) {Cooldown: 12 turns | Effect period: 8 turns} <small>**{STR}**</small>
+[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} <small>**{STR}**</small>
 $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
 - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
 - The effect of enemy movement-focused abilities are (mildly) reduced.
 - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
   This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
 
-[] (|Strength)
+[Foundation] (Passive | Earth) <small>**{STR}**</small>
+$\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
+$\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
+- [Hold the Line] (Buff | Earth) {CD: None | EP: None} <small>**{STR}**</small>
+	$\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them the effects of [Foundation]. In allies with Earth, or any element derived from it, this effect will be amplified.
+	$\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
+- [Valley of Thorns] (Defense | Earth) <small>**{STR}**</small>
+	$\quad$
 
+[Resonant Redirection] (Def. | <small>**{STR}**</small>) {CT: 1 tr | CD: 8 tr | EP: 4 tr} **{ZEN}**
+$\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
+$\quad$The kinetic energy of the attack will be perfectly redirected. In the case of a projectile, this will cause it to be sent back to its source with the exact same speed. The type of the attack being redirected is very important: Some, for example beam attacks, cannot be redirected at all. 
+$\quad$If it is imbued with extraplanar magic weak to her Earth element, the redirected attack will never miss and entirely ignore her opponents elemental resistances. If it is instead resistant, redirection will fail entirely.
 ### Gear
 
 
