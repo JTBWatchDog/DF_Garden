@@ -150,7 +150,11 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 
 #### Techniques
 > [!TIP]+ Tome of Strength
-[Cloak of Strength] (<small>**S**</small>tate <small>**T**</small>ransformation | Strength) <small>**{Perfect Grade}**</small>
+>[Boris] (Summon | Strength) 
+>$\quad$Boris is the first of Adalyne's two summons. Housed within the markana on her arms, Boris is the manifestation of her Strength element; When he is on the field, she loses all access to it.
+>$\quad$
+> 
+> [Cloak of Strength] (<small>**S**</small>tate <small>**T**</small>ransformation | Strength) <small>**{Perfect Grade}**</small>
 $\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
 $\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
 >
