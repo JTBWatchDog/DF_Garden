@@ -150,14 +150,6 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 
 #### Techniques
 > [!TIP]+ Tome of Strength
->
-<small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}</small>**
-$\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
-> - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
-> - The effect of enemy movement-focused abilities are (mildly) reduced.
-> - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
-  This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
-> 
 <small>**[Foundation] (Passive | Earth) {STR}</small>**
 $\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
 > $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
