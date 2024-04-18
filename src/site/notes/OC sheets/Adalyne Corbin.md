@@ -143,10 +143,7 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 - Cast time, abbreviated "CT", or how long a spell must be charged before it can be used
 
 > [!EXAMPLE]- A note on Might
->$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved the highest grade cloak with both. This would not be the case for long.
->Shortly after Blaise's hospitalization at the hands of Neloth, Adalyne comprehended something further: "Strength" and "Speed", or her understanding of both, combined to bring forth "Might", a 'second grade' Conceptual Element in that it is derived from other Conceptual Element(s) and thus literally "larger" in scope (though this does not make it inherently better.)
->$\quad$Might is the Conceptual Element of insurmountable force and change, causing uncontrollable rage in its wielders; that is, *nigh*-uncontrollable, as Adalyne asserted control over it and changed GOMA's definition of the element. 
->Adalyne is the only currently known Might user who has done this.
+
 
 #### Techniques
 > [!TIP]+ Tome of Strength
