@@ -150,16 +150,14 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 
 #### Techniques
 > [!TIP]+ Tome of Strength
-><small>**[Boris] (Summon | Strength)**</small> 
->$\quad$Boris is the first of Adalyne's two summons. Housed within the markana on her arms, Boris is the manifestation of her Strength element; When he is on the field, she loses all access to it. However, Boris may be on the field while Adalyne is in a different cloak. 
->If Boris is defeated in battle, he will instantly return to Adalyne's body and she will lose all access to Strength magic for 24 hours, which is the time it takes for Boris to recover his strength,
->$\quad$Boris's appearance is like that of a direwolf, constructed of scarlet energy, with a shoulder height of 4'8" and a body length of 10' 8".
->$\quad$
->$\quad$In addition to, and because of, his sheer size Boris's physical prowess is immense. His jaws are capable of ripping through solid steel, and his headbutt is able to deform actively charged, high-grade catalyst alloys. His tail is able to be used as a club or as a shield.
->$\quad$On top of his destructive capabilities Boris is deceptively mobile; he *is* physically fast, but it goes much further than that. Boris is capable of rapid forward and backward movement thanks to a technique of his own invention, *Makhnami*, which allows him to close or create even vast distances before immediately going on the offensive or defensive. 
->$\quad$It should be noted, he can only do this forward and backward, and is vulnerable if caught unaware in the middle of it.
 >
-> 
+> **<small>[Cloak of Strength] (State Transformation | Strength) {Perfect Grade}</small>**
+$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
+$\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
+>
+$\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
+Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
+$\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
 >
 <small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}</small>**
 $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
