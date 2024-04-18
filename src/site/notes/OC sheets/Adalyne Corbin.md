@@ -161,19 +161,19 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 >
 > 
 > **<small>[Cloak of Strength] (State Transformation | Strength) {Perfect Grade}</small>**
-$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
-$\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
+>$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
+>$\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
 >
-$\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
-Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
-$\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
+>$\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
+>Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
+>$\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
 >
-<small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}</small>**
-$\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
+><small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}</small>**
+>$\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
 > - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
 > - The effect of enemy movement-focused abilities are (mildly) reduced.
 > - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
-  This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
+ > This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
 > 
 ><small>**[Foundation] (Passive | Earth) {STR}**</small>
 >$\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
