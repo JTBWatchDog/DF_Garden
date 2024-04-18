@@ -150,21 +150,6 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 
 #### Techniques
 
-
-> [!TIP]+ Tome of Speed
-> **<small>[Ilya] (Summon | Speed)</small>**
->$\quad$
->**<small>[Speed Cloak] (State Transformation | Speed) 3rd Grade</small>**
->$\quad$Upon activation, Adalyne is engulfed in a verdant flame-like aura, extending four to five inches from her body. This aura is purely visual, a by-product Adalyne hasn't taken the time to stamp out. 
->$\quad$This state heightens Adalyne's mobility considerably including her overall speed as well as dexterity, allowing her to be at the right place, at the right time, all the time. 
->In testing, on flat ground in a straight line, Adalyne has a 0-to-96 KPH time of eight seconds; her sprint PB rests at 10 km in three-and-a-half minutes, with her highest speed at 165 KPH. 
->While not able to maintain such high speeds at all times, testing on standardized agility courses shows high levels of maneuverability.
->- <small>**[Blade of Volos] (Attack | Water) {CD: 2 tr}**</small>
->$\quad$While [Speed Cloak] is active, Adalyne has the ability to fire projectiles of water from her polearm; the shape of the projectile, and its properties, depend on which part they originate from. 
->$\quad$The axhead of her poleaxe will fire blades of water (obvious enough,) which have a limited range; the spike at the top will fire beams of water, which have less power but greater range; the hammer/beak will fire short range spikes of water which are better for breaking through defenses, arcane and mundane.
->
-><small>[]( | ) </small>
->
 ### Gear
 
 
