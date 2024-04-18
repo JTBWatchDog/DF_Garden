@@ -158,34 +158,33 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 >$\quad$In addition to, and because of, his sheer size Boris's physical prowess is immense. His jaws are capable of ripping through solid steel, and his headbutt is able to deform actively charged, high-grade catalyst alloys. His tail is able to be used as a club or as a shield.
 >$\quad$On top of his destructive capabilities Boris is deceptively mobile; he *is* physically fast, but it goes much further than that. Boris is capable of rapid forward and backward movement thanks to a technique of his own invention, *Makhnami*, which allows him to close or create even vast distances before immediately going on the offensive or defensive. 
 >$\quad$It should be noted, he can only do this forward and backward, and is vulnerable if caught unaware in the middle of it.
+> $\quad$
+> <small>**[Cloak of Strength] (State Transformation | Strength) {Perfect Grade}**</small>
+> $\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
+> $\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
+> $\quad$
+> $\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
+> Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
+> $\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
 >
-> 
-> **<small>[Cloak of Strength] (State Transformation | Strength) {Perfect Grade}</small>**
->$\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
->$\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
->
->$\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
->Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
->$\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
->
-><small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}</small>**
->$\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
+> <small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}**</small>
+> $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
 > - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
 > - The effect of enemy movement-focused abilities are (mildly) reduced.
 > - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
  > This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
-> 
-><small>**[Foundation] (Passive | Earth) {STR}**</small>
->$\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
+> $\quad$
+> <small>**[Foundation] (Passive | Earth) {STR}**</small>
+> $\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
 > $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
 >- [Hold the Line] (Buff | Earth) {CD: None | EP: None} <small>**{STR}**</small>
->$\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
->$\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
->
-><small>**[Resonant Redirection] (Def. | STR}) {CT: 1 tr | CD: 8 tr | EP: 4 tr} {ZEN}**</small>
->$\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
->$\quad$The kinetic energy of the attack will be perfectly redirected. In the case of a projectile, this will cause it to be sent back to its source with the exact same speed. The type of the attack being redirected is very important: Some, for example beam attacks, cannot be redirected at all. 
->$\quad$If it is imbued with extraplanar magic weak to her Earth element, the redirected attack will never miss and entirely ignore her opponents elemental resistances. If it is instead resistant, redirection will fail entirely.
+> $\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
+> $\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
+> $\quad$
+> <small>**[Resonant Redirection] (Def. | STR}) {CT: 1 tr | CD: 8 tr | EP: 4 tr} {ZEN}**</small>
+> $\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
+> $\quad$The kinetic energy of the attack will be perfectly redirected. In the case of a projectile, this will cause it to be sent back to its source with the exact same speed. The type of the attack being redirected is very important: Some, for example beam attacks, cannot be redirected at all. 
+> $\quad$If it is imbued with extraplanar magic weak to her Earth element, the redirected attack will never miss and entirely ignore her opponents elemental resistances. If it is instead resistant, redirection will fail entirely.
 
 > [!TIP]+ Tome of Speed
 > **<small>[Ilya] (Summon | Speed)</small>**
