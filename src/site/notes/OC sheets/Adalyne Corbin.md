@@ -174,18 +174,7 @@ $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generatin
 > - The effect of enemy movement-focused abilities are (mildly) reduced.
 > - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
   This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
-> 
-<small>**[Foundation] (Passive | Earth) {STR}</small>**
-$\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
-> $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
->- [Hold the Line] (Buff | Earth) {CD: None | EP: None} <small>**{STR}**</small>
-$\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
-$\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
->
-><small>**[Resonant Redirection] (Def. | STR}) {CT: 1 tr | CD: 8 tr | EP: 4 tr} {ZEN}**</small>
-$\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
-$\quad$The kinetic energy of the attack will be perfectly redirected. In the case of a projectile, this will cause it to be sent back to its source with the exact same speed. The type of the attack being redirected is very important: Some, for example beam attacks, cannot be redirected at all. 
-$\quad$If it is imbued with extraplanar magic weak to her Earth element, the redirected attack will never miss and entirely ignore her opponents elemental resistances. If it is instead resistant, redirection will fail entirely.
+
 
 > [!TIP]+ Tome of Speed
 > **<small>[Ilya] (Summon | Speed)</small>**
