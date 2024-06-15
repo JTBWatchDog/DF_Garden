@@ -177,7 +177,7 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 > <small>**[Foundation] (Passive | Earth) {STR}**</small>
 > $\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
 > $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
->- [Hold the Line] (Buff | Earth) {CD: None | EP: None} <small>**{STR}**</small>
+>- <small>**[Hold the Line] (Buff | Earth) {CD: None | EP: None} {STR}**</small>
 > $\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
 > $\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
 > $\quad$
@@ -194,11 +194,12 @@ $\quad$Be aware, several spells have additional information attached to them. Th
 >$\quad$This state heightens Adalyne's mobility considerably including her overall speed as well as dexterity, allowing her to be at the right place, at the right time, all the time. 
 >In testing, on flat ground in a straight line, Adalyne has a 0-to-96 KPH time of eight seconds; her sprint PB rests at 10 km in three-and-a-half minutes, with her highest speed at 165 KPH. 
 >While not able to maintain such high speeds at all times, testing on standardized agility courses shows high levels of maneuverability.
->- <small>**[Blade of Volos] (Attack | Water) {CD: 2 tr}**</small>
+>$\quad$
+><small>**[Blade of Volos] (Attack | Water) {CD: 2 tr} {SPD}**</small>
 >$\quad$While [Speed Cloak] is active, Adalyne has the ability to fire projectiles of water from her polearm; the shape of the projectile, and its properties, depend on which part they originate from. 
->$\quad$The axhead of her poleaxe will fire blades of water (obvious enough,) which have a limited range; the spike at the top will fire beams of water, which have less power but greater range; the hammer/beak will fire short range spikes of water which are better for breaking through defenses, arcane and mundane.
+>$\quad$The axhead of her poleaxe will fire blades of water (obvious enough,) which have a limited range (8m); the spike at the top will fire beams of water, which have less power but greater range (12m); the hammer/beak will fire short range (4m) spikes of water which are better for breaking through defenses, arcane and mundane.
 >
-><small>[]( | ) </small>
+><small>**[](Defense | Speed) {SPD}**</small>
 >
 ### Gear
 
