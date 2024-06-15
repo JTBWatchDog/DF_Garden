@@ -14,7 +14,7 @@ All possible vowels:
 
 ## Phonotactics rules
 1. syllable structure is (C)(C)(V)(ʔ)V(C)(C)
-2. ʔ must be between vowels
+2. ʔ can only be between vowels
 3. Onset: Everything except /l/
 4. Nucleus: All vowels, /R/
 5. Coda: Everything 
