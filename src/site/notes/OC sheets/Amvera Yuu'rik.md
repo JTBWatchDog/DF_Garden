@@ -23,8 +23,8 @@ $\quad$Dementedly loyal to her inner circle, her people come first always.
 #### Backstory
 $\quad$Growing up an orphan in Skyridge Home, Amvera never had much more than the people around her. She had a fierce streak to her, even back then. She was born blind before her magic awakened at the age of 9, revealing a unique form of magesight; the fact that these were the rare Aizurra of the Akerr wouldn't be revealed until much later in her life.
 $\quad$Raised primarily by Imani Moore, who was manager and main caretaker of Skyridge Home from 620 to 707, and a woman named Cassandra (who died to a form of arcane-resistant cancer in 701,) Amvera was both rebel and guardian by birth. Imani often said the girls heart was bigger than her head. With hindsight Amvera can agree with that. 
-$\quad$From highschool into college at DFMA, those aspects grew. Even after aging out of Skyridge she continued to spend a lot of time there, picking up a part time job; really, she was just doing what she'd always done. At the same time, however, she'd gotten into a more... lucrative, per say, side business. Nothing extreme, but before getting into DFMA she *had* helped friends of hers peddle inhalants.
-$\quad$
+$\quad$From highschool into college at DFMA, those aspects grew. Even after aging out of Skyridge she continued to spend a lot of time there, picking up a part time job; really, she was just doing what she'd always done. At the same time, however, she'd gotten into a more... lucrative, per say, side business—never anything extreme, at least to start. Through her last two years in highschool, she'd helped some friends peddle inhalants to fools who didn't know better, with her mainly handling the grunt work. Not much, but it paid. 
+$\quad$She craved more though, and she got her chance for just that when she entered DFMA. At the start of her first year she met one Riot Azorin, immediately being endeared to the autistic skeleton. Yes, that's weird. Amvera stopped questioning things soon after entering the mage world proper.
 
 
 
