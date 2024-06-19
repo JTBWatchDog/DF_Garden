@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Adalyne-Corbin.md","permalink":"/characters/adalyne-corbin/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Adalyne-Corbin.md","permalink":"/dfma/characters/adalyne-corbin/"}
 ---
 
 
