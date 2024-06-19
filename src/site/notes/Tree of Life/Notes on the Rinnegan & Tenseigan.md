@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beta/Rinne.md","dg-permalink":"Beta/Rinne","permalink":"/Beta/Rinne/"}
+{"dg-publish":true,"dg-path":"Tree of Life/Beta/Rinne.md","dg-permalink":"Tree of Life/Beta/Rinne","permalink":"/Tree of Life/Beta/Rinne/"}
 ---
 
 #rewrite
