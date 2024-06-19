@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Amvera-Yuurik.md","permalink":"/dfma/characters/amvera-yuurik/","title":"Amvera Yuurik"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Amvera-Yuurik.md","dg-permalink":"DFMA/Characters/Amvera-Yuurik","permalink":"/DFMA/Characters/Amvera-Yuurik/","title":"Amvera Yuurik"}
 ---
 
 |      Name      |      Age       | Sex |          Species          | Mage Rank | Affiliations & Rank |
