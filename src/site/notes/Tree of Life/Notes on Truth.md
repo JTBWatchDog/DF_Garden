@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beta/Truth.md","dg-permalink":"Beta/Truth","permalink":"/Beta/Truth/"}
+{"dg-publish":true,"dg-path":"Tree of Life/Beta/Truth.md","dg-permalink":"Tree of Life/Beta/Truth","permalink":"/Tree of Life/Beta/Truth/"}
 ---
 
 #perfect
