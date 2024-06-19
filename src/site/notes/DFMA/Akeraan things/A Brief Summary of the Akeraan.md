@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Akeraan/Summary.md","dg-permalink":"Akeraan/Summary","permalink":"/Akeraan/Summary/"}
+{"dg-publish":true,"dg-path":"DFMA/Akeraan/Summary.md","dg-permalink":"DFMA/Akeraan/Summary","permalink":"/DFMA/Akeraan/Summary/"}
 ---
 
 While one of many peoples displaced by the efforts of the Zulthanian Empire, the Akerr are likely the most radically changed by it. While their history will not be fully extrapolated on here, in summary: They were absorbed into the Empire, but when asked to attack another group they were allied with prior to their absorption, they were unable to do so.  
