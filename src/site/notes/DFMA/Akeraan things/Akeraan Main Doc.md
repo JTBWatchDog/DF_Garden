@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Akeraan/Main.md","permalink":"/akeraan/main/","title":"Main Document","pinned":"true"}
+{"dg-publish":true,"dg-path":"DFMA/Akeraan/Main.md","permalink":"/dfma/akeraan/main/","title":"Main Document","pinned":"true"}
 ---
 
 > *. . . So let this be known by all Akeraan forevermore: When the calamity fell upon us, there was no aid from so-called "gods." No self-proclaimed deities stepped down from their lofty heights to save us, as our families were annihilated and our homes were burned and our lands were salted. 
