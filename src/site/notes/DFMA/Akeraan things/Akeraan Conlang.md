@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Akeraan/Conlang.md","permalink":"/dfma/akeraan/conlang/"}
+{"dg-publish":true,"dg-path":"DFMA/Akeraan/Conlang.md","dg-permalink":"DFMA/Akeraan/Conlang","permalink":"/DFMA/Akeraan/Conlang/"}
 ---
 
 ## Sounds
