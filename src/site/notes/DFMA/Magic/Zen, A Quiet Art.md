@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Magic/Zen","dg-permalink":"DFMA/Magic/Zen","permalink":"/DFMA/Magic/Zen/","title":"Zen, A Quiet Art"}
+{"dg-publish":true,"dg-path":"DFMA/Magic/Zen.md","dg-permalink":"DFMA/Magic/Zen","permalink":"/DFMA/Magic/Zen/","title":"Zen, A Quiet Art"}
 ---
 
 Considered by some to be "An 'endangered' arcane practice," Zen is a peculiar field of anomalous magic. It has a long history involving many stories, and now is utilized as a lever against Extraplanar forces by its practitioners. 
