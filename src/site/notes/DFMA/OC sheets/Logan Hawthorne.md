@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Characters/Hawthorne-Logan.md","permalink":"/characters/hawthorne-logan/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Hawthorne-Logan.md","permalink":"/dfma/characters/hawthorne-logan/"}
 ---
 
 
