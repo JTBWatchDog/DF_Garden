@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Beta/Synopsis.md","dg-permalink":"Beta/Synopsis","permalink":"/Beta/Synopsis/"}
+{"dg-publish":true,"dg-path":"Tree of Life/Beta/Synopsis.md","dg-permalink":"Tree of Life/Beta/Synopsis","permalink":"/Tree of Life/Beta/Synopsis/"}
 ---
 
 #beta
