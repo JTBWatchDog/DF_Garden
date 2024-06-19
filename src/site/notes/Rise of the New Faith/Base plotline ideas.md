@@ -9,6 +9,7 @@ $\quad$It's from Ratau that she begins to learn more about the Red Crown, and wh
 - Introduce Flinky, Shrumy, and Klunko as other mentors
 - Ratau tries to help Nymeria through her trauma over what happened, while simultaneously training her
 - Ratau learns some of what happened to her & her parents during the Hunt
-	- The Hunt is the 
+	- "The Hunt" is the Sheepfolk name for the Bishops war and genocide against them
+	- 
 
 # Arc 1 — 
