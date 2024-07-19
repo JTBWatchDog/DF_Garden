@@ -24,11 +24,15 @@ $\quad$Dementedly loyal to her inner circle, her people come first always.
 $\quad$Growing up an orphan in Skyridge Home, Amvera never had much more than the people around her. She had a fierce streak to her, even back then. She was born blind before her magic awakened at the age of 9, revealing a unique form of magesight; the fact that these were the rare Aizurra of the Akerr wouldn't be revealed until much later in her life.
 $\quad$Raised primarily by Imani Moore, who was manager and main caretaker of Skyridge Home from 620 to 707, and a woman named Cassandra (who died to a form of arcane-resistant cancer in 701,) Amvera was both rebel and guardian by birth. Imani often said the girls heart was bigger than her head. With hindsight Amvera can agree with that. 
 $\quad$From highschool into college at DFMA, those aspects grew. Even after aging out of Skyridge she continued to spend a lot of time there, picking up a part time job; really, she was just doing what she'd always done. At the same time, however, she'd gotten into a more... lucrative, per say, side business—never anything extreme, at least to start. Through her last two years in highschool, she'd helped some friends peddle inhalants to fools who didn't know better, with her mainly handling the grunt work. Not much, but it paid. 
-$\quad$She craved more though, and she got her chance for just that when she entered DFMA. At the start of her first year she met one Riot Azorin, immediately being endeared to the autistic skeleton. Yes, that's weird. Amvera stopped questioning things soon after entering the mage world proper.
 
+$\quad$She craved more though, and she got her chance for just that when she entered DFMA. At the start of her first year she met one Riot Azorin, immediately being endeared to the autistic skeleton. Yes, that's weird. Amvera stopped questioning things after entering the mage world proper.
+$\quad$From there she got close with Riot's brother, Afuro, and the Azorin brothers' mutual friend Logan Greenwood. They had a pretty good run, for a while. 
+$\quad$It was Logan's idea; being an alchemist, he was the one to formulate their planned product with Riot's help. Afuro was the brains behind the actual op, and the main pusher. As for Amvera, she helped with the grunt work, getting word out and stomping whoever she had to. (Actual fights were rare, all things considered.)
+$\quad$Don't get it wrong: the group absolutely had problems. Logan could be an ignorant aggravating shithead, Riot was naive and clueless, Afuro could be a real asshole when he felt like it, and Amvera had a truckload of her own baggage. There were fights. But they all had each other's backs whenever shit went down. They all knew what it was like, coming from jack shit. 
+$\quad$Then Riot went missing.
 
-
-
+$\quad$She can't say how much sleep she and Afuro both lost. (Logan went on being Logan.) Some nights, she just didn't sleep. Nights spent roaming the streets not giving a shit who wants to start something, trying to beat or bribe a lead out of someone, anyone at all. Those were some of the worst months of her life. She knows Afuro can say the same. 
+$\quad$
 
 
 ### Magic Name:
