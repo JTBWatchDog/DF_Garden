@@ -67,14 +67,13 @@ Kiai has a very hefty mana cost, and Altan is only able to use it five times bef
 
 -Flame Proficiency- (Offense ; Fire)
 Altan's primary offensive element is fire, and while skilled she's far from being an expert. Her control over fire, while more adept than some, needs work as her flames will harm her allies as well as her enemies if she's not careful with its usage. She's able to create and manipulate it freely outside of proper techniques, but for several reasons (focus and control, to name two,) properly practiced techniques remain preferred. 
-
-	-Phoenix Song- (Offense ; Fire)
-	This technique can be actuated by 4 two-handed seals or 9 one-handed seals.
-	Altan focuses fire magic within her gut, concentrating and pressurizing it before she releases it up through her throat in the form of a fire breath attack. The pressurized breath attack flies forward, blanketing a conical area up to twenty feet long, six feet wide. Altan can sustain this attack for several seconds.
-	-Phoenix Bullet Dance- (Offense ; Fire)
+- -Phoenix Song- (Offense ; Fire)
+	 This technique can be actuated by 4 two-handed seals or 9 one-handed seals.
+	 Altan focuses fire magic within her gut, concentrating and pressurizing it before she releases it up through her throat in the form of a fire breath attack. The pressurized breath attack flies forward, blanketing a conical area up to twenty feet long, six feet wide. Altan can sustain this attack for several seconds.
+- -Phoenix Bullet Dance- (Offense ; Fire)
 	This technique can be actuated by 6 two-handed seals. 
-	 Bullet Dance operates the same way as Phoenix song, with fire magic condensed in and then released from the gut. Only this time, Altan will 'set' the target in her mind, and then release five fireballs from her mouth. While obviously not perfect, since they have weight and momentum, these fireballs will follow and track their set target. They will release small, fiery explosions when they hit something, be it their target, themselves, or anything else.
-	 It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is less efficient, and has a brief cooldown period.
+	Bullet Dance operates the same way as Phoenix song, with fire magic condensed in and then released from the gut. Only this time, Altan will 'set' the target in her mind, and then release five fireballs from her mouth. While obviously not perfect, since they have weight and momentum, these fireballs will follow and track their set target. They will release small, fiery explosions when they hit something, be it their target, themselves, or anything else.
+	It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is less efficient, and has a brief cooldown period.
 
 -Spear of the Sun- (Offense ; Fire&Light ; **Zen**)
 This is often the bread and butter of Altans fighting style. It is actuated without seals. 
