@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"DFMA/Characters/Blaise-Corbin","permalink":"/DFMA/Characters/Blaise-Corbin/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Blaise-Corbin.md","dg-permalink":"DFMA/Characters/Blaise-Corbin","permalink":"/DFMA/Characters/Blaise-Corbin/"}
 ---
 
-
-|     Name      |         Age         | Sex |               Species                | Mage Rank |                Affiliations & Rank                 |
-| :-----------: | :-----------------: | :-: | :----------------------------------: | :-------: | :------------------------------------------------: |
-| Blaise Corbin | 35<br>DOB:FEB15 698 |  F  | Dorraul Kobold<br>(Viara Du'ul clan) |     B     | ATDF<br>Rook <br>(Medic and Counterhex specialist) |
+**Age**: 35        || **Sex**: F$\quad$   $\quad$$\quad$|| **Mage Rank**: B 
+**DOB**:2/15/698 || Dorraul Kobold || **ATDF Rook** (Medic)
 
 ## Appearance 
 **Height**: 5'9" / 175cm || **Weight**: 135lb / 61kg || **Tail length**: 2'3" / 68cm 
