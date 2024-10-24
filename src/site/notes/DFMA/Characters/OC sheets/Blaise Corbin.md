@@ -7,7 +7,7 @@
 
 ## Appearance 
 **Height**: 5'9" / 175cm || **Weight**: 135lb / 61kg || **Tail length**: 2'3" / 68cm 
-**Prim.wingspan**:&thinsp;14'&emsp;&thinsp;|| **Sec.wingspan**:&thinsp;9'$\quad$&nbsp;||
+**Prim.wingspan**:&thinsp;14'&emsp;&thinsp;|| **Sec.wingspan**:&thinsp;9'$\quad$&emsp;||
 
 
 ## Info
