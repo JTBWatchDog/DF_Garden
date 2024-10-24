@@ -3,10 +3,11 @@
 ---
 
 **Age**: 35 $\quad$ $\quad$&thinsp; || **Sex**: F $\qquad$ $\quad$ || **Mage Rank**: B 
-**DOB**:2/15/698 || Dorraul Kobold || **ATDF Rook** (Medic, )
+**DOB**:2/15/698 || Dorraul Kobold || **ATDF Rook** (Medic)
 
 ## Appearance 
 **Height**: 5'9" / 175cm || **Weight**: 135lb / 61kg || **Tail length**: 2'3" / 68cm 
+**Prim. wingspan**: 14'$\quad$|| **Sec. wingspan**: 9' $\quad$||
 
 
 ## Info
