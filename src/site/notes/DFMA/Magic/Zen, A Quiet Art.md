@@ -21,7 +21,7 @@ Realizing Zen techniques requires understanding an 'aspect' of nature (the ocean
 
 > *A collection of excerpts from Logan Hawthornes paper, "Zen: A Quiet Art"*
 
-%%
+
 ### Zen: A Summary
 
 Zen, explained simply, is a method of magic whose purpose is to ward off, contain, or otherwise deal with Extraplanar entities or affinities of any flavor, exacerbating elemental disparities in the process, by "embodying" an aspect of Nature. Though some consider it to be an art either dead or dying, and it is somewhat rare to encounter in the modern day, it may be worth knowing about to some degree for those it's designed to "deal with". A paper written by one Logan Hawthorne (INSERT LINK HERE) may prove informative. 
