@@ -31,88 +31,76 @@ $\quad$Even so, she gives her utmost to not let her wrath control nor define her
 $\quad$But the devil yet festers in still water.
 
 Likes/Dislikes:
-$\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. Say anything negative about her daughters and she'll break your face.
+$\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. She'll break the face of anyone who speaks negatively of her daughters.
 #### Backstory
 
 > [!EXAMPLE]- Childhood to Pre-Dragonfall (OPTIONAL)
-> $\quad$The aging kobolds life is one that can best be described as "tumultuous." 
-$\quad$Her home life, during her childhood, was adequate — for a time. Until she learned her version of "adequate" was *very* different from others. Until she told father what mother had done to her. Until she woke up one night to the sound of her father, Dolais, screaming at her mother, Urmin.
-$\quad$Until Adalyne heard that, if she ever so much as looked at Adalyne again, he'd kill her. Mother left that night. 
-$\quad$That following morning, when the sun was rising, Adalyne woke up to a bunch of noise outside: Mother had come back with five of her friends, and they were all standing together. Then Adalyne saw father on the ground, in the middle of them. She never really could remember anything past that point, except for hearing the sound of her own heartbeat and seeing red. 
-$\quad$She killed mother that day, and all five of mothers friends. She had been fifteen.
->$\quad$
->$\quad$
->$\quad$Quantifying with words alone the depth to which this event, and everything leading up to it, affected Adalyne is difficult. "Impossible" may be an apt word. The misandry of the Viara Du'ul clan (and several others,) like a late-stage infection, is deep and wide spread — And throughout her adolescence, every single rearing of its ugly head made Adalynes blood boil. 
->$\quad$That rage, instead of disappearing like several of her relatives hoped, persisted. It fermented. A punk (the closest Acurian equivalent, anyway) through school, and later her arcane tutelage, Adalyne was like a magnet to likeminded clanmates. Without any effort, they flocked to her. 
->$\quad$Her anger and her bullheaded refusal to be quiet were polarizing; Combined with her prodigal skill in combat, one could say she was destined to climb the ranks of *Dorma Zaul's* (the home citystate of Viara Du'ul and several likeminded clans) meritocracy. 
->$\quad$And she did. 
->$\quad$What teachers once believed was only "prodigal" skill quickly revealed itself to be so much more, when Adalyne joined into the 'wargames' hosted between *Dorma Zaul*, its factions, and the factions of neighboring regions.[^1]
->
->$\quad$Throughout her 20s and 30s the climb she made up the ranks was meteoric, as victory after victory piled up at her feet like so much chaff. And gradually, she found more and more people like her. And, eventually, Adalyne woke up to find a miniature movement had built up around her. 
->$\quad$Now, the wargames weren't *just* a job that she both enjoyed doing and *happened* to be very good at—Every game she won became another statement. Now, an off-hand comment was no longer *just* an off-hand comment—Everything she said now seemed to spread through the grapevine.
->$\quad$By her late 30s she had people asking her when she was going to challenge the position of Shul Rosen — And she hadn't known that she was, apparently, planning to.
->
->$\quad$Adalyne still can't remember what she felt at 45, when she defeated the previous Shul Rosen in a final trial of martial combat. Perhaps because she didn't feel anything. 
->$\quad$However, regardless of the adamancy of the movement she now found herself the spearhead for, there was one issue that they had forgotten about: Her ability to politick; Or, more accurately, her lack thereof. 
->For the small yet fervent group that had centered themselves around her, this was the one obstacle that she—and by extension *they*—could not get around. Adalyne could not sway the minds of the elders, nor the minds of the people at large, when push came to shove. 
->$\quad$And so it would remain.
->$\quad$
->$\quad$
->$\quad$It's hard for Adalyne to say when, or why, she really took up that quest. After the attempt on her husband's life, perhaps; Or the attempt on her father's life, before that. But, she remembers very vividly the day she "woke up."
->The day she realized that none of it meant anything to her. Not the movement behind her, not the title, not even the prospect of change in the clan. None of it mattered to her, not at all.
->$\quad$Adalyne had followed this quest for change, filled the role other people had prepared for her, because the people she cared about had been harmed by an unjust system. But, blindsided by the people that surrounded her, she'd never realized there had been a simpler option:
->There's a large, large world out there. Outside these old stone walls and their old, carcinogenic ways. 
->$\quad$She could have left. Her, and her family—They'd never been rich (prior to her political ascension and the opportunities it offered her,) but a move had never been impossible. 
->And so she did. With her husband, and her child barely a month in the womb, they left for Dragonfall.
+> When she was fourteen, Adalyne's mother assaulted her. Her father kicked the woman out of their house. 
+> Three months later, a judge dismissed the case her father raised against the woman. "Not enough evidence," the judge said.
+> Every attempt her father made at legal action ended the same way.
+> 
+> A year later, her mother came back, and dragged her father out of the house with the help of seven friends. He almost died from the attack; Adalyne stopped them. She cemented her status as a combative prodigy, at age fifteen, in a haze of red. Eight adults, arrayed against one child. 
+> 
+> Adalyne killed them. 
+> 
+> That was the day she manifested her first conceptual element; she asked herself, what did it mean to be strong?
+> "Not this."
+> 
+> At age nineteen Adalyne joined the local magi police force; this was before the ATDF was formed. She flew up the ranks as the years passed, on the rails laid for her by her father. Rails laid during late nights spent studying tactics and days spent sparring with her father. 
+> Steeped in the rising counterculture of her region from her days in school, Adalyne unintentionally became a figurehead of revolution in a region where matriarchy and misandry had been the norm for generations. 
+> All she ever wanted to do was help the people around her.
+> 
+> Her strength and experience grew as if it would never stop. At some point, she can't say when, she began fighting more political battles than on the field. She thought she was carving her own path forward. At some point, she became the equivalent of a regional Bishop. 
+> 
+> At some point, she began to ask herself if she ever really wanted this. 
+> 
+> More battles and more victories passed in a gray haze. She lost the will to, as she'd seen it before, "fight the good fight." So many interviews, so many arguments, so many attacks. The endless political nonsense grated at her until she couldn't take it anymore, and she stopped fighting on the political front.
+> 
+> Then she met Absalem.
+> He was from the same clan as her; they'd went to school together, even been friends, only he'd moved away. He was in the proto-ATDF of a nearby region, the two different forces working together to tackle the rise of a demonic cult between the two areas.
+> They fell in love. In time, he transferred back to their home region. They got married. It's as if his just being there burned away the fog that had settled over her mind. She was happy; truly, for the first time in years. She began "fighting the good fight" again, speaking out for outdated, bigoted legislature to be appealed or reworked. Adalyne was determined and on the path to win once and for all.
+> 
+> Then someone tried to kill Absalem.
+> 
+> Someone tried to kill her husband.
+> 
+> In time, she became pregnant. Adalyne asked herself, why should she put her family, her child at risk for this vile, bigoted, backwater clan? She couldn't answer. They left for Dragonfall.
+> She wept when the cross on her tattoo turned from white to black. 
+> But she never looked back.
 
 
 
 > [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
->$\quad$Once upon a time, Adalyne and her family were at peace. They had moved in 690, while Adalyne was two months pregnant with Blaise. In contrast to Absalem, who had who had traveled plenty as a mage hunter[^2], this was Adalynes first time being outside of Dorma Zaul for any significant period. 
->$\quad$Despite her efforts, acclimating would prove to be far more difficult for her than for her husband — regardless, she got it eventually. That was a good few hectic months of their life: Between moving in, acclimating to the change in not just language but also culture, and Adalynes pregnancy, this was one of the most stressful periods of her life — Even including the previous assassination attempts on her husband and father.
->Yet in other ways, it was also the least stressful. Even to the present day, it's difficult to explain. Perhaps it doesn't matter.
->$\quad$
->$\quad$What does matter is that one day, Adalyne woke up. She had not just a place she lived but a *home*, untouched by shadows of the past; she had a husband, who no longer *needed* to carry a weapon at all hours, no longer needed to be forever *vigilant*; she had a beautiful baby boy, who would never know the dreadful darkness within those old stone walls.
->And for the first time, it felt... real. That shadow no longer hovered over her. And for the first time in a long time, she knew peace.
->$\quad$How she wishes it could have lasted.
->$\quad$
->$\quad$
->$\quad$It happened in 709 AE, in Blaise's first year at DFMA when he was 18. The cold blood pooling. It was supposed to be a day for celebration of new life. Absalem's birthday was four days away.
->$\quad$Mother and child came home to a mess of broken furniture and torn flesh.
->$\quad$
->$\quad$Those days were the worst of her life.
->Were it not that Blaise, and the little one within her womb, needed her, Adalyne would not have survived those weeks. Most of those days she has no memory of, except for the last day of that depressive episode. Three weeks, perhaps. She hadn't left her bed for close to two days. She hadn't showered in even longer. 
->Adalyne didn't remember the last time she had eaten. Perhaps a week ago.
->
->$\quad$It was her child that finally pulled her out of it. What a mother she was.
->Adalyne can still remember when Blaise woke her, begging her to get up and eat. He had cooked for her. He didn't leave her alone until she'd eaten it all. She can't remember when she fell asleep again, holding onto him for dear life. Nor can she remember how many times she apologized to him. 
->$\quad$
->$\quad$Blaise made her promise something that following day. He made her promise that, even in her grief, she would not lose her will to live. Absalem would not want it; so she got up. She shaved her head, her neck, and her collarbone. Taking hammer and awl, Adalyne broke her right horn where the marital ring was embedded and let it bleed, allowing the scar to set. She did not let that darkness consume her again.
->$\quad$Perhaps in time she would have moved on properly, and continued to live in spite of this pain. Fate, however, had different plans for her.
->$\quad$
->$\quad$
->$\quad$Adalyne and Blaise were shopping together when they encountered an odd kobold. She can still remember him vividly. He struck a wrong chord in her, but she couldn't explain why at the time.
->$\quad$While she was trying to exit the conversation the odd fellow forced upon them, he said something that stopped her. 
->>"Doesn't it bother you?" He had asked Adalyne. When asked what he was talking about, the odd man went on and said, 
->>"That I killed your husband."
+>Moving to Dragonfall brought with it one of the most hectic periods of Adalyne's life, but in a good way. Between acclimating to an entirely new culture, so radically different from what had been her norm; adjusting to the new language, which her husband had far more experience in; and now becoming a mother; 
+>Adalyne was busier in those months than the entire rest of her life. 
 > 
->$\quad$
->$\quad$Blaise was the first to attack. In a single viperous movement, the devil redirected her attack and broke her dominant arm; Blaise was taken out of the fight, while Adalyne was too stunned to react. Worse than this, Adalyne now had to defend her whilst contending with the devil whose abilities scaled to her own. From the first exchange, the battle was lost.
->Or so Adalyne thought.
->$\quad$Whilst her mother contended with the demon, Blaise was not idle. She decided she was going to use everything. Every scrap of mana she had access to, including the energy contained within her *markana.* And then she went deeper, converting the mass of her body into energy. Blaise began to atrophy before their eyes.
->[[DFMA/Characters/Flashbacks/Flashback scenes\|What happened next is almost beyond Adalyne's Ability to describe.]]
->[](Flashback%20scenes.md)shoulder. Part of the scorched, blackened humerus bone were visible. The devil was down, but not dead nor defeated. 
->Taking her daughter, Adalyne fled.
->$\quad$
->$\quad$Blaise was held in the ICU for three weeks. Every bone in her left arm had been reduced to shards, and had to be regrown from scratch; in addition to this, she had lost ~27% of her body weight. And Adalyne...
->Seeing her daughter through the window of the door, connected to wires upon wires and tubes upon tubes, standing at the door of death. . . Words could not then, and cannot now, suffice. 
->Adalyne returned home in a thick, red haze.
->$\quad$
->$\quad$Decades as a prodigy in combat of many forms, despite her rust, had not been lost to Adalyne. This whirlwind of fear, rage, sorrow, and so many other emotions was something she could deal with in spite of how it threatened to drown her. She had dealt with it before. She would deal with it again.
->$\quad$For much of those three weeks, Adalyne did little more than eat, sleep, and meditate. Day after day, she spent parsing her thoughts and emotions. Fear, dread, sorrow, and so much chaff was cast aside. All that remained was absolute wrath and absolute determination. 
->$\quad$Adalyne found the conclusion she needed: This devil had taken her husband from her, and now it had almost taken her child. 
->There was only one path that would not lead to her own self-destruction.
->The devil would die at her hand, or she would die at his. 
+>Some day, she woke up, and reality at last set in.
+>For the first time, it felt real.
+For the first time she realized the shadows, which had plagued her for so long, were gone. Her husband no longer had need to carry a weapon at all times. 
+She no longer had need to be ever vigilant.
+Her son, her beautiful baby boy, would never know the darkness within those dreadful old stone walls.
+>
+>Adalyne was at peace. 
+>
+>- - -
+>It all fucking fell apart in 709, in Blaise's first year at DFMA. It always had to.
+>It was inevitable.
+>
+>Absalem's birthday had been four days away. She was pregnant. He had always wanted a little girl. It would've been perfect. It would've been too perfect. So of course it couldn't be allowed to happen.
+>
+Mother and child came home to a horror of torn flesh and broken bones. Cold blood pooled on the kitchen floor. She couldn't breathe. She couldn't move. It was so quiet. The entire left side of his skull had been caved in, shards of bone and brain matter spread across the floor in a befouling halo. She held her breath and waited for it to stop. His sword was broken. Metal dotted the floor, shaved off bit by bit. The broken and battered blade laid beside his leg, broken bone piercing the flesh parallel with the blade. The smell of blood filled her head. She held her breath and waited for it to stop.
+The floor rose to meet her. 
+>- - -
+>What other course was available to her? 
+>The demon killed her husband.
+>To take revenge against the man which had sealed it away in Cerberus Keep, the demon killed her husband. The demon killed the light of her life. Nevermore will she hear his singing; nevermore know his reassurance; nevermore feel his touch.
+>Absalem, oh Absalem.
+>
+>The demon took part of her soul and sold it to the reaper for his revenge. 
+>What other course could there be for her?
+>
+>She's already dug two graves.
+>Adalyne will take her own revenge.
 
 
 
