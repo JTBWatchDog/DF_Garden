@@ -30,14 +30,14 @@ Things worsened about four years before Altan was born. To put it simply, Cyrun 
 
 Then, inexplicably, Cyrun disappeared. This was about two years before Altan was born.
 
-Despite the vigorous search that ensued, she was never found. Somehow, she had managed to leave the compound alone without anyone noticing her, either directly or via the wards that engulf the entire estate. 
+Despite the vigorous search that ensued, she was never found.
 The search never turned up any concrete details.
-It was like she simply vanished.
+It was like she vanished into the air.
 
-She wouldn't be found for over a year until she miraculously reappeared within the Hawthorne compound, entirely unharmed. Where one would have expected Cyrun to be in awful condition, she was fine. If anything, she was the healthiest she had ever been: Her worsening condition, prior to her disappearance, had reversed course.
-The strangest thing though, which she refused to explain or elaborate on, was the fact she was four months pregnant. Despite the pressure and the endless stream of questions, Cyrun would never explain what happened. Not where she went, not how she disappeared, not who the father was. 
-She answered one question. When asked by Thanasia, the head of the Hawthorne family at the time, "What have you done?" she answered,
-"I did what I had to do."
+She wouldn't be found for over a year until she miraculously reappeared within the Hawthorne compound. Where one would have expected Cyrun to be in awful condition, she was fine. If anything, she was the healthiest she had ever been: Her worsening condition, prior to her disappearance, had reversed course.
+The strangest thing though, which she refused to explain or elaborate on, was the fact she was four months pregnant. Despite the pressure and the endless stream of questions, Cyrun would never explain what happened.
+She answered one question. When asked by Thanasia, the head of the Hawthorne family at the time, "What have you done?" Cyrun answered,
+"What I had to."
 
 Altan was born completely healthy. Her mother, however, died in her sleep the following day.
 
@@ -66,7 +66,7 @@ Being hit with this attack is extremely disorienting, fulfilling the role Altan 
 Kiai has a very hefty mana cost, and Altan is only able to use it five times before it exhausts her stamina. In addition to this, it has a 3-turn cooldown period, as condensing mana to this degree is straining on the body.
 
 -Flame Proficiency- (Offense ; Fire)
-Altan's primary offensive element is fire, and while skilled she's far from being an expert. Her control over fire, while more adept than some, needs work as her flames will harm her allies as well as her enemies if she's not careful with its usage. She's able to create and manipulate it freely outside of proper techniques, but for several reasons (focus and control, to name two,) properly practiced techniques remain preferred. 
+Altan's primary offensive element is fire, and while skilled she's far from being an expert. Her control over fire, while adept, needs further work as her flames can harm her allies if she's not careful with its usage. She's able to create and manipulate it freely outside of proper techniques, but for several reasons (focus and control, to name two,) properly practiced techniques remain preferred. 
 - -Phoenix Song- (Offense ; Fire)
 	 This technique can be actuated by 4 two-handed seals or 9 one-handed seals.
 	 Altan focuses fire magic within her gut, concentrating and pressurizing it before she releases it up through her throat in the form of a fire breath attack. The pressurized breath attack flies forward, blanketing a conical area up to twenty feet long, six feet wide. Altan can sustain this attack for several seconds.
