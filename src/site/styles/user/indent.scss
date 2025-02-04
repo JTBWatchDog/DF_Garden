@@ -4,4 +4,8 @@
   display: block;
   line-height: 1px;
   padding-inline-start: var(--custom-line-indent);
+  p {
+    word-break: break-all;
+    white-space: normal;
+}
 }
