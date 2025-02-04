@@ -1,4 +1,7 @@
-body {
-.cm-s-obsidian span.cm-inline-code{
-color: var(–text-normal);}
+.markdown-preview-view ul {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  display: block;
+  line-height: 0px;
+  padding-inline-start: var(--custom-line-indent);
 }
