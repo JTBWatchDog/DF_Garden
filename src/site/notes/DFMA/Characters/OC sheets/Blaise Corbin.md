@@ -9,7 +9,7 @@
 **Height**: 5'9" / 175cm || **Weight**: 135lb / 61kg || **Tail length**: 2'3" / 68cm 
 **Prim.wingspan**:&thinsp;14'&emsp;&thinsp;|| **Sec.wingspan**:&thinsp;9'$\quad$&ensp;&thinsp;&thinsp;||
 
-Following her metamorphosis, Blaise has taken on an *extremely* avian appearance. Feathers cover most of her body, with scales only visible in a few key areas; around the face, her hands and wrists, among others. The sclera of her eyes have become a shockingly vibrant red with a blue irirs. 
+Following her metamorphosis, Blaise has taken on an *extremely* avian appearance. Feathers cover most of her body, with scales only visible in a few key areas; around the face, her hands and wrists, among others. The sclera of her eyes have become a shockingly vibrant red with a blue iris. 
 The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip.
 
 Her body coloration is divided into two cohesive regions: "underside" or "inner" areas, which are cerulean with white undertones which include the insides of her wings and underside of her tail but also the front of her torso, her legs, arms, and neck; and "topside" or "outer" areas, which include the outerside of her wings and topside of her tail, but also her back, shoulders, and collarbone.
