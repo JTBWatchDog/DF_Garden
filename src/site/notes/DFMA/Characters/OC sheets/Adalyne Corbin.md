@@ -13,6 +13,7 @@ Scale color & Pattern:
 
 Hair Pattern:
 <ul>Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.</ul>
+
 ##### Physical description
 $\quad$Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
 $\quad$Her body reflects this, in every aspect. 
