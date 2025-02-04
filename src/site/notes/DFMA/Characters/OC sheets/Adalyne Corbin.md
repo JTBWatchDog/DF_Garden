@@ -85,7 +85,7 @@ Her son, her beautiful baby boy, would never know the darkness within those drea
 >
 >Absalem's birthday had been four days away. She was pregnant. He had always wanted a little girl. It would've been perfect. It would've been too perfect. So of course it couldn't be allowed to happen.
 > 
- Mother and child came home to a horror of torn flesh and broken bones. Cold blood pooled on the kitchen floor. She couldn't breathe. She couldn't move. It was so quiet. The entire left side of his skull had been caved in, shards of bone and brain matter spread across the floor in a befouling halo. She held her breath and waited for it to stop. His sword was broken. Metal dotted the floor, shaved off bit by bit. The broken and battered blade laid beside his leg, broken bone piercing the flesh parallel with the blade. The smell of blood filled her head. She held her breath and waited for it to stop.
+> Mother and child came home to a horror of torn flesh and broken bones. Cold blood pooled on the kitchen floor. She couldn't breathe. She couldn't move. It was so quiet. The entire left side of his skull had been caved in, shards of bone and brain matter spread across the floor in a befouling halo. She held her breath and waited for it to stop. His sword was broken. Metal dotted the floor, shaved off bit by bit. The broken and battered blade laid beside his leg, broken bone piercing the flesh parallel with the blade. The smell of blood filled her head. She held her breath and waited for it to stop.
 > The floor rose to meet her. 
 >
 >What other course was available to her? 
