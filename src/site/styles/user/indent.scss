@@ -2,10 +2,14 @@
   padding-top: 0px;
   padding-bottom: 0px;
   display: block;
-  line-height: 20px;
+  line-height: 1.756666em;
   padding-inline-start: var(--custom-line-indent);
   p {
     word-break: break-all;
     white-space: normal;
+}
+  ul {
+    margin-block-start: 0.55em;
+    margin-block-end: 0.55em;
 }
 }
