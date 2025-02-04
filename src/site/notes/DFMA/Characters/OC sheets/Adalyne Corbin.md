@@ -2,19 +2,16 @@
 {"dg-publish":true,"dg-path":"DFMA/Characters/Adalyne-Corbin.md","dg-permalink":"DFMA/Characters/Adalyne-Corbin","permalink":"/DFMA/Characters/Adalyne-Corbin/"}
 ---
 
+Age: 86 || Female || Mage Rank: A
+Sp: Dorraul Kobold || ATDF Knight (Enlistment Date: 711)
 
-|      Name      |         Age         | Sex | Mage Rank |               Species                |               Affiliations & Rank                |
-| :------------: | :-----------------: | :-: | :-------: | :----------------------------------: | :----------------------------------------------: |
-| Adalyne Corbin | 86<br>(Born 641 AE) |  F  |     A     | Dorraul Kobold<br>(Viara Du'ul clan) | ATDF<br>Knight<br>**Enlistment Date:**<br>711 AE |
 ### Appearance 
-|    Height     |     Weight      | Hair color  |  Eye color   | Scale/skin color                                                                      |
-| :-----------: | :-------------: | :---------: | :----------: | :-----------------------------------------------------------------------------------: |
-| 6'5<br>195 cm | 198 lb<br>90 kg | Blonde gold | Golden Amber | Silver body<br>Gray bi-color across face,<br>front of torso, and underside<br>of tail |
- 
- Hair style:
-$\quad$Texture and styling is extremely similar to a lion’s mane, growing not only over the top of her head but also over the back of her neck and around her collarbone. 
-$\quad$After Absalems death (and her becoming a widow,) in the custom of the Viara Du'ul clan, she shaved all of her previous hair off and began growing her dreadlocks once more, in the fashion of the clans warriors. 
-
+H: 6'5/195cm || W: 198lb/90kg
+Eye C: Amber || Hair: Gold Blonde
+Scale color & Pattern:
+	Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)
+Hair Pattern:
+	Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.
 ##### Physical description
 $\quad$Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
 $\quad$Her body reflects this, in every aspect. 
@@ -34,7 +31,7 @@ Likes/Dislikes:
 $\quad$She enjoys meditation and the art of making tea, but cannot stand to hear silence for any considerable length of time. She'll break the face of anyone who speaks negatively of her daughters.
 #### Backstory
 
-> [!EXAMPLE]- Childhood to Pre-Dragonfall (OPTIONAL)
+> [!EXAMPLE]- Childhood to Pre-Dragonfall
 > When she was fourteen, Adalyne's mother assaulted her. Her father kicked the woman out of their house. 
 > Three months later, a judge dismissed the case her father raised against the woman. "Not enough evidence," the judge said.
 > Every attempt her father made at legal action ended the same way.
@@ -70,7 +67,7 @@ $\quad$She enjoys meditation and the art of making tea, but cannot stand to hear
 
 
 
-> [!EXAMPLE]+ Post-Dragonfall (THE ACTUAL NEW STUFF)
+> [!EXAMPLE]+ Post-Dragonfall
 >Moving to Dragonfall brought with it one of the most hectic periods of Adalyne's life, but in a good way. Between acclimating to an entirely new culture, so radically different from what had been her norm; adjusting to the new language, which her husband had far more experience in; and now becoming a mother; 
 >Adalyne was busier in those months than the entire rest of her life. 
 > 
