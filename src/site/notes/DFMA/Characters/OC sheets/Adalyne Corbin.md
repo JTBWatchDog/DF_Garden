@@ -79,8 +79,7 @@ She no longer had need to be ever vigilant.
 Her son, her beautiful baby boy, would never know the darkness within those dreadful old stone walls.
 >
 >Adalyne was at peace. 
->
->- - -
+> 
 >It all fucking fell apart in 709, in Blaise's first year at DFMA. It always had to.
 >It was inevitable.
 >
@@ -88,7 +87,7 @@ Her son, her beautiful baby boy, would never know the darkness within those drea
 >
  Mother and child came home to a horror of torn flesh and broken bones. Cold blood pooled on the kitchen floor. She couldn't breathe. She couldn't move. It was so quiet. The entire left side of his skull had been caved in, shards of bone and brain matter spread across the floor in a befouling halo. She held her breath and waited for it to stop. His sword was broken. Metal dotted the floor, shaved off bit by bit. The broken and battered blade laid beside his leg, broken bone piercing the flesh parallel with the blade. The smell of blood filled her head. She held her breath and waited for it to stop.
 The floor rose to meet her. 
->- - -
+>
 >What other course was available to her? 
 >The demon killed her husband.
 >To take revenge against the man which had sealed it away in Cerberus Keep, the demon killed her husband. The demon killed the light of her life. Nevermore will she hear his singing; nevermore know his reassurance; nevermore feel his touch.
