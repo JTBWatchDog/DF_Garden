@@ -8,11 +8,11 @@ Sp: Dorraul Kobold || ATDF Knight (Enlistment Date: 711)
 ### Appearance 
 H: 6'5/195cm || W: 198lb/90kg
 Eye C: Amber || Hair: Gold Blonde
-Scale color & Pattern:
-> Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)
+Scale color & Pattern: <ul>
+Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)</ul>
 
 Hair Pattern:
-> Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.
+	Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.
 ##### Physical description
 $\quad$Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
 $\quad$Her body reflects this, in every aspect. 
