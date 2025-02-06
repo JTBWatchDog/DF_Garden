@@ -4,7 +4,28 @@ table {
     width: unset !important;
     max-width: 100%;
   };
+
 /* Bold header row */
 .cm-s-obsidian .cm-table-widget th {
     font-weight:normal;
 };
+
+/* Bold header row */
+.markdown-preview-view th {
+    font-weight:normal;
+}
+
+.theme-dark {
+    // Change table header background
+--background-primary-alt: var(--background-primary);
+    // Change Table Background color
+--text-muted:
+hsla(
+    var(--base-h),
+    calc(var(--base-s) + 45%),
+    calc(var(--base-d) + 92%),
+    0.9
+  );
+}
+
+
