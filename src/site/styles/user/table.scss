@@ -10,6 +10,7 @@ table {
 }
 // Responsible for Table Background color 1
 // --background-primary-alt: hsla( 205, 23%, calc(5% + 5%), 0.8 );
+
 // Responsible for the gray text in table headers
 // hsla(
 //    var(--base-h),
@@ -17,6 +18,11 @@ table {
 //    calc(var(--base-d) + 58%),
 //    1
 //  )
+
+// Change Table Background color
+--background-primary-alt: hsl(var(--base-h), var(--base-s), var(--base-d));
+    
+
 --text-muted:
 hsla(
     var(--base-h),
