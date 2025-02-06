@@ -5,7 +5,16 @@
 **Age**: 35 $\quad$ $\quad$&thinsp; || **Sex**: F $\qquad$ $\quad$ || **Mage Rank**: B 
 **DOB**:2/15/698 || Dorraul Kobold || **ATDF Rook** (Medic)
 
-## Appearance 
+| **Age**: 35      | **Sex**: F     | **Mage Rank**: B      |
+| ---------------- | -------------- | --------------------- |
+| **DOB**:2/15/698 | Dorraul Kobold | **ATDF Rook** (Medic) |
+
+
+| A   | A   | A   |
+| --- | --- | --- |
+| A   |     | A   |
+
+### ✦Appearance 
 **Height**: 5'9" / 175cm || **Weight**: 135lb / 61kg || **Tail length**: 2'3" / 68cm 
 **Prim.wingspan**:&thinsp;14'&emsp;&thinsp;|| **Sec.wingspan**:&thinsp;9'$\quad$&ensp;&thinsp;&thinsp;||
 
@@ -13,23 +22,24 @@ Following her metamorphosis, Blaise has taken on an *extremely* avian appearance
 The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip.
 
 Her body coloration is divided into two cohesive regions: "underside" or "inner" areas, which are cerulean with white undertones which include the insides of her wings and underside of her tail but also the front of her torso, her legs, arms, and neck; and "topside" or "outer" areas, which include the outerside of her wings and topside of her tail, but also her back, shoulders, and collarbone.
-## Info
+### ✦Info
 
 Personality: 
 Likes/Dislikes:
 
-#### Backstory
+#### ¶ Backstory
 
 
 
 
 
-### ¶Magic Name: Witchdoctor
+### ✦ Magic Name: Witchdoctor
 Overall place in type triad: Support
 Elemental Properties: Metal, Wind, Spirit
-#### ¶Description
+#### ¶ Description
 
-##### ¶Racial Perk
+> [!EXAMPLE]- ¶ Racial Perk: Dorraul Markana
+> $\quad$Blaise's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, developing with the mage throughout life. These markings have a metallic appearance.
 
 
 #### ¶Techniques
@@ -49,7 +59,8 @@ Elemental Properties: Metal, Wind, Spirit
 	It cannot be recreated by any means.
 #### ¶Gear
 » Wand
-
+	A
 » War Scythe
-
+	A
 » Bow
+	A
