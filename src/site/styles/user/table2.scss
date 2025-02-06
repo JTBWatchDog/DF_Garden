@@ -1,3 +1,4 @@
+.theme-dark {
 --background-primary-alt: var(--background-primary);
     
 --text-muted:
@@ -7,3 +8,4 @@ hsla(
     calc(var(--base-d) + 92%),
     0.9
   );
+}
