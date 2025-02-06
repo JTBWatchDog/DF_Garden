@@ -3,11 +3,11 @@ table {
     table-layout: auto !important;
     width: unset !important;
     max-width: 100%;
-  }
+  };
 /* Bold header row */
 .cm-s-obsidian .cm-table-widget th {
     font-weight:normal;
-}
+};
 // Responsible for Table Background color 1
 // --background-primary-alt: hsla( 205, 23%, calc(5% + 5%), 0.8 );
 
@@ -20,7 +20,7 @@ table {
 //  )
 
 // Change Table Background color
---background-primary-alt: var(--background-primary)
+--background-primary-alt: var(--background-primary);
     
 
 --text-muted:
