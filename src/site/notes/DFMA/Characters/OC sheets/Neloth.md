@@ -39,12 +39,12 @@ After his escape, he wandered without direction. Maybe, to anyone on the outside
 
 
 
-### Magic Name: Chasing Eternity
+### ✦ Magic Name: Chasing Eternity
 Overall place in type triad: Undefined
-#### Elemental Properties: 
+#### ¶ Elemental Properties: 
 Dark || Bone (Earth) || **Underworld** 
 **Obdurate** (Conceptual, Earth & Underworld)
-#### Description
+#### ¶ Description
 Obdurate is the element of unchanging, stability, and permanence.
 Neloth started on the path to realizing it within a scroll stolen from the Hawthorne library, and he found what he had been chasing from the moment he'd gained sentience. He found what he'd had all along.
 
@@ -53,13 +53,13 @@ Neloth's expression of Obdurate is bounded by several rules:
   If the spell is interrupted and fails, the channeled mana is lost.
 - Spells using Obdurate cannot be "dismissed" or ended prematurely.
   Spells with a continuous drain are impossible because they would kill the user.
-#### Racial Perk: Aizura
+> [!EXAMPLE]- ¶ Racial Perk: Aizura
 The Aizura are a form of magesight specific to the Akerr, rare and nearly extinct.
 When the Aizura are activated, the sclera and iris of the eye are overrun by a fractal-esque pattern unique to the user, the primary color of which is usually the same as the normal eye color.
 While active, the user gains the ability to see magic as well as a greatly enhanced field of view. Regardless of activation, Akerr with the Aizura are able to see extensive portions of the UV and infrared spectrums at all times.
-#### ¶Techniques
-**§ Immolation** (Self||Bone)
-Neloth's ability to create and manipulate bone. It is most potent when using his own skeletal structure as a catalyst, however, he can create bone from the earth itself if he so chooses. The manipulation of foreign living skeletal structure is impossible, because the latent mana within rejects his control. 
-Foreign dead bones do not share this, but hold the most power when used within the context of ritual magic.
-	**µ ** 
+#### ¶ Techniques
+**» Immolation** (Self||Bone)
+	Neloth's ability to create and manipulate bone. It is most potent when using his own skeletal structure as a catalyst, however, he can create bone from the earth itself if he so chooses. The manipulation of foreign living skeletal structure is impossible, because the latent mana within rejects his control. 
+	Foreign dead bones do not share this, but hold the most power when used within the context of ritual magic.
+		**µ ** 
 ### Gear
