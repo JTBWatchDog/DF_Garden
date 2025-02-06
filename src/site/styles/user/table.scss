@@ -1,5 +1,10 @@
+/* Fixes table width Issue*/
 table {
     table-layout: auto !important;
     width: unset !important;
     max-width: 100%;
   }
+/* Bold header row */
+.cm-s-obsidian .cm-table-widget th {
+    font-weight:normal;
+}
