@@ -8,3 +8,19 @@ table {
 .cm-s-obsidian .cm-table-widget th {
     font-weight:normal;
 }
+// Responsible for Table Background color 1
+// --background-primary-alt: hsla( 205, 23%, calc(5% + 5%), 0.8 );
+// Responsible for the gray text in table headers
+// hsla(
+//    var(--base-h),
+//    calc(var(--base-s) - 1%),
+//    calc(var(--base-d) + 58%),
+//    1
+//  )
+--text-muted:
+hsla(
+    var(--base-h),
+    calc(var(--base-s) + 45%),
+    calc(var(--base-d) + 92%),
+    0.9
+  );
