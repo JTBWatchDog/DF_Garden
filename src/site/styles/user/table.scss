@@ -18,9 +18,9 @@ table {
 //    calc(var(--base-d) + 58%),
 //    1
 //  )
-body{
+
 // Change Table Background color
---background-primary-alt: var(--background-primary);
+--background-primary-alt: var(--background-primary)
     
 
 --text-muted:
@@ -30,4 +30,4 @@ hsla(
     calc(var(--base-d) + 92%),
     0.9
   );
-);
+
