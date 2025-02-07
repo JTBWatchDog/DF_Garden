@@ -8,7 +8,7 @@ table {
     width: unset !important;
     max-width: 100%;
     /*Change this to 0px to hide tables*/
-    --table-border-width: 1.1em;
+    --table-border-width: 0px;
     --table-white-space: normal;
     --table-header-border-width: var(--table-border-width);
     --table-column-first-border-width: var(--table-border-width);
