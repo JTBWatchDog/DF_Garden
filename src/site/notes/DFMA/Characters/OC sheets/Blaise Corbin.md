@@ -4,13 +4,13 @@
 
 
 | **Age**: 35<br>  |   **Sex**: F   | **Mage Rank**: B      |
-|:----------------:|:--------------:| --------------------- |
+|:---------------- |:--------------:| --------------------- |
 | **DOB**:2/15/698 | Dorraul Kobold | **ATDF Rook** (Medic) |
 ### ✦Appearance 
 
 | **Height**: 5'9" / 175cm | **Weight**: 135lb / 61kg | **Tail length**: 2'3" / 68cm |
-|:------------------------:| ------------------------ | ---------------------------- |
-|  **Prim.wingspan**: 14'  | **Sec.wingspan**: 9'     |                              |
+|:------------------------ | ------------------------ | ---------------------------- |
+| **Prim.wingspan**: 14'   | **Sec.wingspan**: 9'     |                              |
 Following her metamorphosis, Blaise has taken on an *extremely* avian appearance. Feathers cover most of her body, with scales only visible in a few key areas; around the face, her hands and wrists, among others. The sclera of her eyes have become a shockingly vibrant red with a blue iris. 
 The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip.
 
