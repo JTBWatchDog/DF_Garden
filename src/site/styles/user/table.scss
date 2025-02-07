@@ -3,7 +3,25 @@ table {
     table-layout: auto !important;
     width: unset !important;
     max-width: 100%;
+    --table-border-width: 1px;
+    table-layout: auto !important;
+    width: unset !important;
+    max-width: 100%;
+    /*Change this to 0px to hide tables*/
+    --table-border-width: 1.1em;
+    --table-white-space: normal;
+    --table-header-border-width: var(--table-border-width);
+    --table-column-first-border-width: var(--table-border-width);
+    --table-column-last-border-width: var(--table-border-width);
+    --table-row-last-border-width: var(--table-border-width);
   };
+
+.markdown-preview-view table {
+    width: 100%;
+    border: 0px solid var(--background-modifier-border);
+    border-spacing: 0;
+    overflow: hidden;
+}
 
 /* Bold header row */
 .markdown-rendered th {
