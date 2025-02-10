@@ -2,17 +2,22 @@
 {"dg-publish":true,"dg-path":"DFMA/Characters/Hawthorne-Logan.md","dg-permalink":"DFMA/Characters/Hawthorne-Logan","permalink":"/DFMA/Characters/Hawthorne-Logan/"}
 ---
 
-**Age**: 57 || **Sex**: M || **Species**: Human
-**Rank**: B || **Occupation**: ATDF Rook (Enlistment date: 703AE)
+
+| **Male, Human, Age 57** | **ATDF Rook**    |
+| ----------------------- | ---------------- |
+| **DOB**: March 16, 670  | **Mage Rank: B** |
+
 ### ✦ Appearance 
-Height: 6'3" or 193cm || Weight: 170lb or 77kg
-Hair color: Ash brown || Eye color: Cinnamon/red-ish brown
+
+| **Height**   | **Weight**    | **Hair Color**: Ash Brown |
+| ------------ | ------------- | ------------------------- |
+| 6'3<br>193cm | 170lb<br>77kg | **Eye color**: Brown      |
+
 
 
 ### ✦ Info
-Personality:
-Logan is very levelheaded 
-Likes/Dislikes:
+**Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be really fucking goofy. He's good at knowing the right time to crack a joke.
+**Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee.
 
 #### ¶ Backstory
 
