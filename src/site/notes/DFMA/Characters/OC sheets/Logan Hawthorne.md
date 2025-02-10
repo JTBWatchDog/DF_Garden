@@ -3,9 +3,9 @@
 ---
 
 
-| **Male, Human, Age 57** | **ATDF Rook**    |
-| ----------------------- | ---------------- |
-| **DOB**: March 16, 670  | **Mage Rank: B** |
+| **Male, Human, Age:** 57 | **ATDF Rook**    |
+| ------------------------ | ---------------- |
+| **DOB**: March 16th, 670 | **Mage Rank: B** |
 
 ### ✦ Appearance 
 
