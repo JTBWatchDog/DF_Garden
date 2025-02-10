@@ -9,9 +9,9 @@
 
 ### Appearance 
 
-| **Height**   | **Weight**    | **Eye**: Amber        |
-| ------------ | ------------- | --------------------- |
-| 6'5<br>195cm | 198lb<br>90kg | **Hair**: Gold Blonde |
+| **Height**   | **Weight**    | **Tail Length:** 3'1"/93cm              |
+| ------------ | ------------- | --------------------------------------- |
+| 6'5<br>195cm | 198lb<br>90kg | **Hair**: Gold Blonde<br>**Eye**: Amber |
 
 Scale color & Pattern: 
 <ul>Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)</ul>
