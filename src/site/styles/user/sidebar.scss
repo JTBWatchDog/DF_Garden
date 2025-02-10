@@ -11,3 +11,10 @@
 .markdown-preview-view ol, .markdown-preview-view ul {
      line-height: 2.1em; 
 }
+
+body:not(.remove-pre-rel-lines) ul > li::before, body:not(.remove-pre-rel-lines) ol > li::before {
+    position: unset;
+}
+.toc-container li::before {
+        content: " " !important;
+}
