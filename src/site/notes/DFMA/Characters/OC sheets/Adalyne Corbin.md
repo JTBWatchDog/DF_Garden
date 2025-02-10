@@ -2,15 +2,19 @@
 {"dg-publish":true,"dg-path":"DFMA/Characters/Adalyne-Corbin.md","dg-permalink":"DFMA/Characters/Adalyne-Corbin","permalink":"/DFMA/Characters/Adalyne-Corbin/"}
 ---
 
-Age: 86 || Female || Mage Rank: A
-Sp: Dorraul Kobold || ATDF Knight (Enlistment Date: 711)
+
+| **Female, Kobold, Age**: 86 | **ATDF Knight**  |
+| --------------------------- | ---------------- |
+| **DOB**: April 19, 641      | **Mage Rank**: B |
 
 ### Appearance 
-H: 6'5/195cm || W: 198lb/90kg
-Eye C: Amber || Hair: Gold Blonde
+
+| **Height**   | **Weight**    | **Eye**: Amber        |
+| ------------ | ------------- | --------------------- |
+| 6'5<br>195cm | 198lb<br>90kg | **Hair**: Gold Blonde |
+
 Scale color & Pattern: 
 <ul>Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)</ul>
-
 Hair Pattern:
 <ul>Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.</ul>
 
