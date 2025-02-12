@@ -14,9 +14,9 @@
 | 6'5<br>195cm | 198lb<br>90kg | **Hair**: Gold Blonde<br>**Eye**: Amber |
 
 Scale color & Pattern: 
-<ul>Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)</ul>
+	Silver/Gray bicolor, Silver body with Gray front (face, front of torso, tail underside.)
 Hair Pattern:
-<ul>Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.</ul>
+	Grows across collarbone, part of the shoulders, and back of neck. Shoulders and collarbone shaved. Dreadlocks, texture 3B, 13" long.
 
 ##### Physical description
 $\quad$Adalynes form is the result of 17 years of ceaseless, fervid training. Her adherence to her diet, her commitment to the evolution of her magic, and her devotion to the cultivation of her fighting ability can only be described as zealous and frenzied. 
