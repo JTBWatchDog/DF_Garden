@@ -5,7 +5,7 @@
 
 | **Female, Human, Age:** 19 | **DFMA Freshman** |
 | -------------------------- | ----------------- |
-| **DOB**: March 14th. 712   | **Mage Rank: C**  |
+| **DOB**: March 14th. 712   | **Mage Rank:** C  |
 
 ### ✦ Appearance 
 |  **Height**   |   **Weight**    | **Hair color**: Black |
