@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"misc/Adalyne2.md","permalink":"/misc/adalyne2/","hide":true}
+{"dg-publish":true,"dg-path":"misc/Adalyne2.md","dg-permalink":"misc/Adalyne2","permalink":"/misc/Adalyne2/","hide":true}
 ---
 
 ### ✦ Magic Name: Wrath of The World
