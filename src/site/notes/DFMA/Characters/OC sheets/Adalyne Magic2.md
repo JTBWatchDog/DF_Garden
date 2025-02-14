@@ -5,7 +5,7 @@
 ### ✦ Magic Name: Wrath of The World
 Overall place in type triad: Offense 
 Elemental Properties: Strength(Earth), Speed(Water)
-> [!EXAMPLE]- Racial Perk: Dorraul Markana
+> [!example]- Racial Perk: Dorraul Markana
 >$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, developing with the mage throughout life. These markings have a metallic appearance.
 >
 >$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing black bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
@@ -23,17 +23,17 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 
 #### ¶ Techniques
 **» Strength Cloak** (Self || Strength) **2 Slots**
-	Adalyne is engulfed in a scarlet, flamelike aura flecked with golden embers, extending 2-3 inches from her body. This aura is purely visual. No physical effect on surroundings is present, but it is warm to the touch. 
-	She has perfected, and acclimated to, the elevated state: she can maintain **Strength Cloak** indefinitely without any loss in stamina.
-	$\quad$
-	Her physical strength and durability in this state cannot be overstated. Her best deadlift using **Strength Cloak** currently stands at 881kg. Adalyne *can* move quickly in a straight line, however due to the increase in muscle mass mobility is generally decreased.
-	**µ Subjugation** (Hex || Strength)
-		Adalyne strikes the ground with her poleaxe, channeling **Strength** through the earth in a wave. Every grounded enemy within 30m is immediately marked with **Subjugation**. In the case of airborne enemies, Adalyne must "lock onto them", and keep them in her line-of-sight for three turns prior to the usage of **Subjugation**. Then, once the spell is activated, a small piece of earth will fly after them. This homing projectile deals minimal damage, but will mark the enemy with **Subjugation** on contact.
-		$\quad$
-		**Subjugation** lasts 8 turns, and debuffs all movement abilities substantially. Enemies marked with **Subjugation** become incapable of flight, but may be capable of gliding at reduced speeds.
+> Adalyne is engulfed in a scarlet, flamelike aura flecked with golden embers, extending 2-3 inches from her body. This aura is purely visual. No physical effect on surroundings is present, but it is warm to the touch. 
+> She has perfected, and acclimated to, the elevated state: she can maintain **Strength Cloak** indefinitely without any loss in stamina.
+> $\quad$
+> Her physical strength and durability in this state cannot be overstated. Her best deadlift using **Strength Cloak** currently stands at 881kg. Adalyne *can* move quickly in a straight line, however due to the increase in muscle mass mobility is generally decreased.
+> **µ Subjugation** (Hex || Strength)
+> > Adalyne strikes the ground with her poleaxe, channeling **Strength** through the earth in a wave. Every grounded enemy within 30m is immediately marked with **Subjugation**. In the case of airborne enemies, Adalyne must "lock onto them", and keep them in her line-of-sight for three turns prior to the usage of **Subjugation**. Then, once the spell is activated, a small piece of earth will fly after them. This homing projectile deals minimal damage, but will mark the enemy with **Subjugation** on contact.
+> > $\quad$
+> > **Subjugation** lasts 8 turns, and debuffs all movement abilities substantially. Enemies marked with **Subjugation** become incapable of flight, but may be capable of gliding at reduced speeds.
 
 **» Artem** (Familiar || Strength) 
-	Artem is the avatar of Adalyne's **Strength**. When Artem is summoned, Adalyne loses access to **Strength**, and thus all spells requiring it. 
+Artem is the avatar of Adalyne's **Strength**. When Artem is summoned, Adalyne loses access to **Strength**, and thus all spells requiring it. 
 
 **» Speed Cloak** (Self || Speed) **2 Slots**
 	The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
