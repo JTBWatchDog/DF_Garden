@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Hawthorne-Altan.md","dg-permalink":"DFMA/Characters/Hawthorne-Altan","permalink":"/DFMA/Characters/Hawthorne-Altan/","title":"Altan Hawthorne","metatags":"description: \"Altan Hawthorne\"\r \"og:image\": \"https://imgur.com/a/ucYRibt\""}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Hawthorne-Altan.md","dg-permalink":"DFMA/Characters/Hawthorne-Altan","permalink":"/DFMA/Characters/Hawthorne-Altan/","title":"Altan Janus Hawthorne","metatags":"description: \"Altan Hawthorne\"\r \"og:image\": \"https://imgur.com/a/ucYRibt\""}
 ---
 
 
