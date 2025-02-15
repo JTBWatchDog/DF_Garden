@@ -57,33 +57,34 @@ She can form up to 4 seals per turn.
 The second most distinguishing factor of her abilities would be Zen, which she also first learned about within the Hawthorne library. Her development in the field of Zen techniques is slow, and only just beginning; The "aspect" she has chosen to identify with being the sun. 
 #### ¶ Techniques
 **» Sun Dragon's Domain** (Support/Illusion || Fire&Light) 
-	 This technique is actuated by 3 one-handed seals, often too fast to interrupt, within one turn; The effect activates the turn after.
-	 Altan spreads her magic through the air of an area (up to a 3.5 m² area), raising the temperature of the air and artificially creating heat mirages. The light magic woven into the mirages makes it appear as if a thick fog blankets the area, hiding Altan within it. This will last until it is forcefully dispelled (like through enemy wind magic,) Altan dispells it herself, or twenty minutes have passed.
+>  This technique is actuated by 3 one-handed seals, often too fast to interrupt, within one turn; The effect activates the turn after.
+>  Altan spreads her magic through the air of an area (up to a 3.5 m² area), raising the temperature of the air and artificially creating heat mirages. The light magic woven into the mirages makes it appear as if a thick fog blankets the area, hiding Altan within it. This will last until it is forcefully dispelled (like through enemy wind magic,) Altan dispells it herself, or twenty minutes have passed.
 
 **» Kiai** (Offense || Elementless)
-	This technique is actuated without hand seals.
-	Altan concentrates non-elemental mana in her fist until it's under near-painful pressure. With a shout, she punches the air, creating a blast of kinetic force with nothing but mana and sheer force of will. This blast will fly forward at very high speed for up to twenty-four feet, after which it'll unravel.
-	Being hit with this attack is extremely disorienting, fulfilling the role Altan had in mind: An anti-air attack. A flying opponent hit by this will, in the majority of cases, fall out of the air. 
-	Kiai has a very hefty mana cost, and Altan is only able to use it five times before it exhausts her stamina. In addition to this, it has a 3-turn cooldown period, as condensing mana to this degree is straining on the body.
+> This technique is actuated without hand seals.
+> Altan concentrates non-elemental mana in her fist until it's under near-painful pressure. With a shout, she punches the air, creating a blast of kinetic force with nothing but mana and sheer force of will. This blast will fly forward at very high speed for up to twenty-four feet, after which it'll unravel.
+> Being hit with this attack is extremely disorienting, fulfilling the role Altan had in mind: An anti-air attack. A flying opponent hit by this will, in the majority of cases, fall out of the air. 
+> Kiai has a very hefty mana cost, and Altan is only able to use it five times before it exhausts her stamina. In addition to this, it has a 3-turn cooldown period, as condensing mana to this degree is straining on the body.
 
 **» Flame Proficiency** (Offense || Fire)
-	Altan's primary offensive element is fire, and while skilled she's far from being an expert. Her control over fire, while adept, needs further work as her flames can harm her allies if she's not careful with its usage. She's able to create and manipulate it freely outside of proper techniques, but for several reasons (focus and control, to name two,) properly practiced techniques remain preferred. 
-	**µ Phoenix Song** (Offense || Fire)
-		 This technique can be actuated by 4 two-handed seals or 9 one-handed seals.
-		 Altan focuses fire magic within her gut, concentrating and pressurizing it before she releases it up through her throat in the form of a fire breath attack. The pressurized breath attack flies forward, blanketing a conical area up to twenty feet long, six feet wide. Altan can sustain this attack for several seconds.
-	**µ Phoenix Bullet Dance** (Offense || Fire)
-		This technique can be actuated by 6 two-handed seals. 
-		Bullet Dance operates the same way as Phoenix song, with fire magic condensed in and then released from the gut. Only this time, Altan will 'set' the target in her mind, and then release five fireballs from her mouth. While obviously not perfect, since they have weight and momentum, these fireballs will follow and track their set target. They will release small, fiery explosions when they hit something, be it their target, themselves, or anything else.
-		It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is less efficient, and has a brief cooldown period.
+> Altan's primary offensive element is fire, and while skilled she's far from being an expert. Her control over fire, while adept, needs further work as her flames can harm her allies if she's not careful with its usage. She's able to create and manipulate it freely outside of proper techniques, but for several reasons (focus and control, to name two,) properly practiced techniques remain preferred. 
+> **µ Phoenix Song** (Offense || Fire)
+> > This technique can be actuated by 4 two-handed seals or 9 one-handed seals.
+> > Altan focuses fire magic within her gut, concentrating and pressurizing it before she releases it up through her throat in the form of a fire breath attack. The pressurized breath attack flies forward, blanketing a conical area up to twenty feet long, six feet wide. Altan can sustain this attack for several seconds.
+>
+> **µ Phoenix Bullet Dance** (Offense || Fire)
+>> This technique can be actuated by 6 two-handed seals. 
+>> Bullet Dance operates the same way as Phoenix song, with fire magic condensed in and then released from the gut. Only this time, Altan will 'set' the target in her mind, and then release five fireballs from her mouth. While obviously not perfect, since they have weight and momentum, these fireballs will follow and track their set target. They will release small, fiery explosions when they hit something, be it their target, themselves, or anything else.
+>> It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is less efficient, and has a brief cooldown period.
 
 **» Spear of the Sun** (Offense || Fire&Light || **Zen**)
-	This is often the bread and butter of Altans fighting style. It is actuated without seals. 
-	Within herself, Altan fixes her understanding of the sun, and actuates this understanding upon her magic, turning the spear incorporeal. In this state, the spear will not deal wounds of the flesh.
-	Being struck will destabilize the magic, worsening an opponents control as their system must 'fight off' Altans magic like a disease. This effect takes six turns to wear off fully, but is renewed with every hit stacking the effect cumulatively; 
-	Depending on how Altans magic control stacks up against her opponents, it will take 6-8 hits before an opponents magic is disabled. 
-	The spell, if maintained for 12 turns, will consume half her mana capacity; And because she must maintain it continuously, if her spear moves farther than 3 feet away from her, the spell will immediately end and a not-insignificant amount of her mana will be wasted.
-	$\quad$
-	Against those who have extraplanar magic within them, this effect is amplified; However, if they possess elements with an advantage over either Fire or Light, the effect will only take 2-3 turns to be dispelled.
+> This is often the bread and butter of Altans fighting style. It is actuated without seals. 
+> Within herself, Altan fixes her understanding of the sun, and actuates this understanding upon her magic, turning the spear incorporeal. In this state, the spear will not deal wounds of the flesh.
+> Being struck will destabilize the magic, worsening an opponents control as their system must 'fight off' Altans magic like a disease. This effect takes six turns to wear off fully, but is renewed with every hit stacking the effect cumulatively; 
+> Depending on how Altans magic control stacks up against her opponents, it will take 6-8 hits before an opponents magic is disabled. 
+> The spell, if maintained for 12 turns, will consume half her mana capacity; And because she must maintain it continuously, if her spear moves farther than 3 feet away from her, the spell will immediately end and a not-insignificant amount of her mana will be wasted.
+> $\quad$
+> Against those who have extraplanar magic within them, this effect is amplified; However, if they possess elements with an advantage over either Fire or Light, the effect will only take 2-3 turns to be dispelled.
 ### ✦ Gear
 ##### ¶ Altan's Spear
 Owner: Altan
