@@ -11,7 +11,8 @@ Elemental Properties: Strength(Earth), Speed(Water)
 >$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing black bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
 #### ¶ Description
 Adalyne's two cloaks or "states" form the foundation of her magic and combat. She's spent 15 years shaking off rust from her retirement, bringing her (very nearly) back to her prime years prior to the founding of the ATDF. 
-Changing cloaks is instantaneous, but incurs a 6 turn cool-down. This is also a "ramp up" period: Both cloaks, when activated, require 4 turns to reach full strength.
+Changing cloaks is instantaneous, but incurs a 6 turn cool-down. This is also a "ramp up" period: Both cloaks, when activated, require 4 turns to reach full strength. 
+Changing cloaks disables ongoing spells reliant on that cloak, in most cases.
 
 It should be noted, Adalyne's manifestations of **Strength** and **Speed** require **pre-existing** physical medium to exist: Techniques such as magic constructs are impossible.
 
@@ -28,9 +29,10 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > $\quad$
 > Her physical strength and durability in this state cannot be overstated. Her best deadlift using **Strength Cloak** currently stands at 881kg. Adalyne *can* move quickly in a straight line, however due to the increase in muscle mass mobility is generally decreased.
 > **µ Subjugation** (Hex || Strength)
-> > Adalyne strikes the ground with her poleaxe, channeling **Strength** through the earth in a wave. Every grounded enemy within 30m is immediately marked with **Subjugation**. In the case of airborne enemies, Adalyne must "lock onto them", and keep them in her line-of-sight for three turns prior to the usage of **Subjugation**. Then, once the spell is activated, a small piece of earth will fly after them. This homing projectile deals minimal damage, but will mark the enemy with **Subjugation** on contact.
-> > $\quad$
-> > **Subjugation** lasts 8 turns, and debuffs all movement abilities substantially. Enemies marked with **Subjugation** become incapable of flight, but may be capable of gliding at reduced speeds.
+>> Adalyne strikes down with her poleaxe and channels **Strength** into the ground. At once, four small rocks are imbued with the element and rise into the air, and float idly around her. These projectiles deal minimal damage, but inflict the **Subjugation** hex on contact. They have two methods for usage.
+>> Adalyne has the ability to simply hit one with her poleaxe to send it flying at an enemy. However she can "lock onto" an enemy to turn it into a homing projectile by focusing on them and maintaining line-of-sight for three turns; once locked on and fired it cannot be avoided, only destroyed.
+>> **Subjugation** lasts for 8 turns. The hex debuffs movement-focused techniques substantially, and disables flying abilities if present; gliding at reduced speeds may be possible. Once used, **Subjugation** cannot be cast again for 12 turns. 
+>> Active projectiles become inert if **Strength Cloak** is deactivated; the hex, if already inflicted, will continue for its usual duration.
 
 **» Artem** (Familiar || Strength) 
 Artem is the avatar of Adalyne's **Strength**. When Artem is summoned, Adalyne loses access to **Strength**, and thus all spells requiring it. 
