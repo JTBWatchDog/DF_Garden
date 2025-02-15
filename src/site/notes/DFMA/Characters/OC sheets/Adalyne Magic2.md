@@ -35,12 +35,12 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 >> Active projectiles become inert if **Strength Cloak** is deactivated; the hex, if already inflicted, will continue for its usual duration.
 
 **» Artem** (Familiar || Strength) 
-Artem is the avatar of Adalyne's **Strength**. When Artem is summoned, Adalyne loses access to **Strength**, and thus all spells requiring it. 
+> Artem is the avatar of Adalyne's **Strength**. When Artem is summoned, Adalyne loses access to **Strength**, and thus all spells requiring it. Tanky, tail can transform into a giant fucking hand. Eats damage, then is reverse summoned to regain health. Regains health faster than Ilya.
 
 **» Speed Cloak** (Self || Speed) **2 Slots**
-	The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
-	$\quad$
-	The effect is also like the other, only while **Speed Cloak** is active, Adalyne can move at high speeds while maintaining extreme mobility. She is able to navigate tight passageways, such as alleys, and make sharp turns without slowing down. Adalyne can run 1500 meters in 0:29.55 while in **Speed Cloak**.
+> The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
+> $\quad$
+> The effect is also like the other, only while **Speed Cloak** is active, Adalyne can move at high speeds while maintaining extreme mobility. She is able to navigate tight passageways, such as alleys, and make sharp turns without slowing down. Adalyne can run 1500 meters in 0:29.55 while in **Speed Cloak**.
 
 **» Ilya** (Familiar || Speed)
-	Ilya is the avatar of Adalyne's **Speed**; when summoned, she loses access to it and all spells requiring it. 
+> Ilya is the avatar of Adalyne's **Speed**; when summoned, she loses access to it and all spells requiring it. Herds the enemy by poking them, but very squishy. 
