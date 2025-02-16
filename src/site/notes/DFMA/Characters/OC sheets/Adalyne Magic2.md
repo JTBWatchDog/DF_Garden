@@ -20,7 +20,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > The Twins, Artem and Ilya, are a pair of familiars uniquely bound to Adalyne. Their spirits fractured off from her soul sometime during her depressive episode, following Absalem's death. Being spirits of **Strength** and **Speed** which cannot exist without pre-existing physical medium, they had no physical form of their own and had to have bodies built for them.
 > Their bodies are made from a Catalystic variant of Damascus steel, crafted with the bone ash of a direwolf. They each have a shoulder height of 40" and a body length of 70".
 > When not active, their physical bodies are stored inside their respective Markana: Artem in the Red Markana on her arms, and Ilya in the Green Markana on Adalyne's legs.
-> Both familiars have their own Health pools; when defeated, they are reverse-summoned back into their respective Markana. Adalyne will lose access to the respective element for 12 turns.
+> Both familiars have their own Health pools; when defeated, they are reverse-summoned back into their respective Markana. Adalyne will lose access to the respective element for 16 turns.
 
 #### ¶ Techniques
 **» Strength Cloak** (Self || Strength) **2 Slots**
@@ -41,6 +41,28 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
 > $\quad$
 > The effect is also like the other, only while **Speed Cloak** is active, Adalyne can move at high speeds while maintaining extreme mobility. She is able to navigate tight passageways, such as alleys, and make sharp turns without slowing down. Adalyne can run 1500 meters in 0:29.55 while in **Speed Cloak**.
+> **µ Maelstrom** (Offense || Speed)
+>> Adalyne touches a pre-existing body of water with her poleaxe and channels **Speed** into it, causing some number of water orbs to float idly around her. She can create anywhere between four and twelve orbs. These act as ammunition for **Maelstrom**.
+>> Adalyne can touch any part of her poleaxe to one of the orbs to use it; to different results. Using the spike will fire a pressurized beam of water, a piercing attack with a range of 15 meters; the poleaxe blade will fire a 2m wide slash, which has a range of 9 meters.
 
 **» Ilya** (Familiar || Speed)
 > Ilya is the avatar of Adalyne's **Speed**; when summoned, she loses access to it and all spells requiring it. Herds the enemy by poking them, but very squishy. 
+
+
+### ✦ Gear
+#### ¶ BFAS
+Elemental properties: **Strength** & **Speed**
+Catalyst: **Y**
+##### µ Description
+> Adalyne's armor, titled BFAS for "Ballistic Full-plate Armor System." It consists of 4 layers, from outermost to innermost: Ceramic plates, metal full-plate, kevlar, and cloth padding. All these layers are heavily saturated with magic: the ceramic and metal plates with Earth magic, the kevlar & cloth layers with Water magic. 
+> The armor system is heavily enchanted, and each layer is equipped with its own wards. The wards can be described as buckets, which can absorb a certain amount of damage before failing and needing to be regenerated. 
+> 
+> The Ceramic layer is warded to absorb penetrative force, and heavily saturated with Earth magic to absorb Lightning based attacks. The Metal layer is also Earth saturated. The Kevlar layer is also warded to absorb penetrative force. Finally, the Cloth padding layer is warded to absorb blunt or concussive force; these two innermost layers are also saturated with Water magic, helping protect Adalyne from Fire magic & prevent her from overheating naturally. 
+> The armor system can draw on Adalyne's magic to repair itself. She also has the ability to store the armor in her Markana when not in use, and summon it into place at will.
+
+#### ¶ Poleaxe
+Elemental properties: **Strength** & **Speed**
+Catalyst: **Y**
+
+##### µ Description
+> 
