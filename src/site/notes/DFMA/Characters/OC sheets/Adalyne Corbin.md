@@ -106,100 +106,81 @@ Her son, her beautiful baby boy, would never know the darkness within those drea
 
 
 
-
-
-
-### Magic Name: Wrath of The World
-OC Using this magic: Adalyne Corbin
-Overall place in type triad: Offensive
-**Elemental Properties** 
-Strength(Earth), Speed(Water), Might(Lightning)
-> [!EXAMPLE]- Racial Perk: Dorraul Markana
->$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, growing with a mage as they age and develop. These markings have a metallic appearance.
+### ✦ Magic Name: Wrath of The World
+Overall place in type triad: Offense 
+Elemental Properties: Strength(Earth), Speed(Water)
+> [!example]- Racial Perk: Dorraul Markana
+>$\quad$Adalyne's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, developing with the mage throughout life. These markings have a metallic appearance.
 >
->$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing blue bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
->$\quad$This interfacing of biology with her Conceptual Elements has led to the creation of Boris and Ilja, which are manifestations of her Strength and Speed elements respectively. They are summons directly bound to the markana on her arms and legs. Summoning them prevents her from using their respective element entirely until they return to her and join back again to their respective tattoo, which effectively act as their housing. 
-#### Description
-Over time, Adalyne "lost" her Psychic affinity; or perhaps rather, what was once a Psychic affinity matured into a Lightning affinity as she exited retirement. Regardless, in addition to clearing her rust & re-establishing control over her base elements, Adalyne possesses control over Lightning.
+>$\quad$Adalyne has exceedingly large markana, covering extensive portions of her arms, legs, and collarbone. The markings on her arms consist of red spirals with black outlines, with a white cross on the outside of her right forearm; on her legs, interwoven emerald green bands with black outlines. The last, on her collarbone, is defined by thin flowing black bands that meet at her sternum; in the middle of them, over her sternum, there is a small portion of Adalyne's flesh that has crystallized.
+#### ¶ Description
+Adalyne's two cloaks or "states" form the foundation of her magic and combat. She's spent 15 years shaking off rust from her retirement, bringing her (very nearly) back to her prime years prior to the founding of the ATDF. 
+Changing cloaks is instantaneous, but incurs a 6 turn cool-down. This is also a "ramp up" period: Both cloaks, when activated, require 4 turns to reach full strength. 
+Changing cloaks disables ongoing spells reliant on that cloak, in most cases.
 
-$\quad$Now, much of her magic revolves around her elemental cloaks. By a specific encoding technique, she has instilled the essence of each cloak into specific techniques, empowering and simultaneously locking them behind each cloak. 
-Transforming from "base" into a Cloak is instantaneous; however, any change in state incurs a <small>**three turn cool-down**</small> before she can do so again. In addition to this if a spell bound to a Cloak is active, and she changes states, <small>**all effects of that spell will immediately end.**</small> 
+It should be noted, Adalyne's manifestations of **Strength** and **Speed** require **pre-existing** physical medium to exist: Techniques such as magic constructs are impossible.
 
-$\quad$The aspect Adalyne has chosen to embody with her (admittedly rudimentary) Zen magic is The World. 
+> [!EXAMPLE]- On the Design of the Twins
+> The Twins, Artem and Ilya, are a pair of familiars uniquely bound to Adalyne. Their spirits fractured off from her soul sometime during her depressive episode, following Absalem's death. Being spirits of **Strength** and **Speed** which cannot exist without pre-existing physical medium, they had no physical form of their own and had to have bodies built for them.
+> Their bodies are made from a Catalystic variant of Damascus steel, crafted with the bone ash of a direwolf. They each have a shoulder height of 40" and a body length of 70".
+> When not active, their physical bodies are stored inside their respective Markana: Artem in the Red Markana on her arms, and Ilya in the Green Markana on Adalyne's legs.
+> To summon either familiar, Adalyne must sacrifice access to that element for as long as they are on the field. So long as either twin is within 3m of Adalyne, they can be reverse-summoned into the Markana which houses them. 
+> If at any point they are defeated in combat, they will be immediately reverse-summoned, and Adalyne will lose access to their respective element for 24 turns.
 
-$\quad$Be aware, several spells have additional information attached to them. These include:
-- Cooldown, abbreviated "CD", before a spell can be used again
-- Effect Period, abbreviated "EP", or how long the effect of a spell lasts
-- Cast time, abbreviated "CT", or how long a spell must be charged before it can be used
-
-> [!EXAMPLE]- A note on Might
->$\quad$Over the past 17 years, Adalyne has been ceaseless in the development of her magic. She *should* have 'understood' her two Conceptual Elements as much as she could, as she had achieved the highest grade cloak with both. This would not be the case for long.
->Shortly after Blaise's hospitalization at the hands of Neloth, Adalyne comprehended something further: "Strength" and "Speed", or her understanding of both, combined to bring forth "Might", a 'second grade' Conceptual Element in that it is derived from other Conceptual Element(s) and thus literally "larger" in scope (though this does not make it inherently better.)
->$\quad$Might is the Conceptual Element of insurmountable force and change, causing uncontrollable rage in its wielders; that is, *nigh*-uncontrollable, as Adalyne asserted control over it and changed GOMA's definition of the element. 
->Adalyne is the only currently known Might user who has done this.
-
-#### Techniques
-> [!TIP]+ Tome of Strength
-><small>**[Boris] (Summon | Strength)**</small> 
->$\quad$Boris is the first of Adalyne's two summons. Housed within the markana on her arms, Boris is the manifestation of her Strength element; When he is on the field, she loses all access to it. However, Boris may be on the field while Adalyne is in a different cloak. 
->If Boris is defeated in battle, he will instantly return to Adalyne's body and she will lose all access to Strength magic for 24 hours, which is the time it takes for Boris to recover his strength,
->$\quad$Boris's appearance is like that of a direwolf, constructed of scarlet energy, with a shoulder height of 4'8" and a body length of 10' 8".
->$\quad$
->$\quad$In addition to, and because of, his sheer size Boris's physical prowess is immense. His jaws are capable of ripping through solid steel, and his headbutt is able to deform actively charged, high-grade catalyst alloys. His tail is able to be used as a club or as a shield.
->$\quad$On top of his destructive capabilities Boris is deceptively mobile; he *is* physically fast, but it goes much further than that. Boris is capable of rapid forward and backward movement thanks to a technique of his own invention, *Makhnami*, which allows him to close or create even vast distances before immediately going on the offensive or defensive. 
->$\quad$It should be noted, he can only do this forward and backward, and is vulnerable if caught unaware in the middle of it.
+#### ¶ Techniques
+**» Strength Cloak** (Self || Strength) **2 Slots**
+> Adalyne is engulfed in a scarlet, flamelike aura flecked with golden embers, extending 2-3 inches from her body. This aura is purely visual. No physical effect on surroundings is present, but it is warm to the touch. 
+> She has perfected, and acclimated to, the elevated state: she can maintain **Strength Cloak** indefinitely without any loss in stamina.
 > $\quad$
-> <small>**[Cloak of Strength] (State Transformation | Strength) {Perfect Grade}**</small>
-> $\quad$Upon activation Adalyne is enveloped in a flamelike aura of scarlet, flecked with <small>**golden embers**</small>. This aura hovers 2-3 inches from her body, and itself has no apparent effect on surroundings (including attackers.) 
-> $\quad$Adalyne, after much hard work and many hours of meditation, her body has acclimated to the elevated state, and can maintain it indefinitely without any loss in stamina. It should be noted that this is exclusive to [Cloak of Strength]. Because of that, she has dubbed this "Perfect Grade." 
+> Her physical strength and durability in this state cannot be overstated. Her best deadlift using **Strength Cloak** currently stands at 901kg. Adalyne *can* move quickly in a straight line, however due to the increase in muscle mass mobility is generally decreased.
+> **µ Subjugation** (Hex || Strength)
+>> Adalyne strikes down with her poleaxe and channels **Strength** into the ground. At once, four small rocks are imbued with the element and rise into the air, and float idly around her. These projectiles deal minimal damage, but inflict the **Subjugation** hex on contact. They have two methods for usage.
+>> Adalyne has the ability to simply hit one with her poleaxe to send it flying at an enemy. However she can "lock onto" an enemy to turn it into a homing projectile by focusing on them and maintaining line-of-sight for three turns; once locked on and fired it cannot be avoided, only destroyed.
+>> **Subjugation** lasts for 8 turns. The hex debuffs movement-focused techniques substantially, and disables flying abilities if present; gliding at reduced speeds may be possible. Once used, **Subjugation** cannot be cast again for 12 turns. 
+>> Active projectiles become inert if **Strength Cloak** is deactivated; the hex, if already inflicted, will continue for its usual duration.
+
+**» Artem** (Summon || Strength) 
+> As the avatar of **Strength**, Artem is incredibly durable. His role is to absorb damage intended for his allies and he has two abilities to fulfill it.
+> He also possesses a tertiary ability allowing him to manipulate the size and shape of his tail, which can be used offensively or defensively. 
+> µ Overshield (Defense || Strength.)
+>> The first ability is **Overshield**, allowing him to increase his physical defense through two methods. Every turn he spends on the field, Artem will passively absorb a trickle of energy from the surroundings to bolster his defense. The second method is found in his fangs; when he bites down on an opponent, he will leach magic from them. Only a certain amount of magic can be stolen with each attack. Stolen energy is immediately committed to his defense in the same turn.
+> µ Vortex (Passive || Strength)
+>> His second ability is **Vortex**. It's a passive ability with a range of 30m centered around him. All attacks considered to be projectiles, when intended for his allies, will be pulled toward Artem instead.
+
+**» Speed Cloak** (Self || Speed) **2 Slots**
+> The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
 > $\quad$
-> $\quad$While in this state, Adalyne's physical strength is vastly increased. Her deadlifting PB (with her magic suppressed) is 520 pounds; with [Cloak of Strength] however, her deadlifting PB (simulated with VAKTOVIA[^3]) currently sits at ~1,915 pounds. However this state incurs an expansion of muscle mass, and thus, decreased mobility when it comes to larger movements.
-> Considering this, [Cloak of Strength] sees the most usage whenever Adalyne needs to hold down a specific area. 
-> $\quad$ Spells requiring this to be active will be marked with <small>**{STR}**</small>.
->
-> <small>**[Crushing Mass] (Hex | Strength&Earth) {CD: 12 turns | EP: 8 turns} STR}**</small>
-> $\quad$Adalyne strikes the spiked butt of her poleaxe into the ground, generating a shockwave of magic that travels 15 meters in all directions; every entity hit by this shockwave that Adalyne deems an enemy will then be inflicted with [Crushing Mass]. This shockwave ignores physical obstacles that may be in the way, but arcane barriers can stop it. The effects are three-fold:
-> - Any entity capable of flight (through any means) inflicted with [Crushing Mass] will immediately lose the ability to do so. Those currently in flight will fall out of the sky.
-> - The effect of enemy movement-focused abilities are (mildly) reduced.
-> - At the point Adalyne strikes the ground, an Anchor of congealed Strength magic is formed. All entities inflicted with [Crushing Mass], as well as Adalyne, are bound to a 15 meter diameter sphere around this spike. Because the initial casting range is larger than this, anyone who is caught outside of this range will be immediately (and violently) pulled into it. 
- > This specific effect can be dispelled by destroying the Anchor; [Crushing Mass] itself will remain until it expires or is forcibly cleansed from a target. The anchor cannot be reformed outside of a full re-cast. <small>**There is a maximum force that the Anchor can put on any single entity;**</small> if this force is exceeded, the Anchor's hold on that entity will break and they will no longer be bound.
-> $\quad$
-> <small>**[Foundation] (Passive | Earth) {STR}**</small>
-> $\quad$While [Cloak of Strength] is active Adalyne has an innate, arcane connection to the ground beneath her feet. While she's grounded it's much harder for an opponent to do things such as move her or destabilize her. Generally, if she wants to stay in a position, she's *going* to stay in that position.
-> $\quad$Adalyne also has far more control over surrounding terrain thanks to this connection, be it dirt, rock, cement, or brick. Earthen constructs will generally be more durable.
->- <small>**[Hold the Line] (Buff | Earth) {CD: None | EP: None} {STR}**</small>
-> $\quad$Adalyne bangs a fist on her chest and roars. Her magic resonates with allies within 20 meters, extending to them a lesser version of its stabilization. If any affected allies have Earth, or an Earth-based element, they will receive [Foundation]'s full effects.
-> $\quad$This effect will last as long as Adalyne maintains [Cloak of Strength].
-> $\quad$
-> <small>**[Resonant Redirection] (Def. | STR}) {CT: 1 tr | CD: 8 tr | EP: 4 tr} {ZEN}**</small>
-> $\quad$Resonant Redirection must be charged and prepared a turn before use, and can be held for 4 turns before it expires. Adalyne focuses magic into her poleaxe, causing it to shine red for a few seconds. With correct timing, Adalyne blocks an attack and releases the charge.
-> $\quad$The kinetic energy of the attack will be perfectly redirected. In the case of a projectile, this will cause it to be sent back to its source with the exact same speed. The type of the attack being redirected is very important: Some, for example beam attacks, cannot be redirected at all. 
-> $\quad$If it is imbued with extraplanar magic weak to her Earth element, the redirected attack will never miss and entirely ignore her opponents elemental resistances. If it is instead resistant, redirection will fail entirely.
+> The effect is also like the other, only while **Speed Cloak** is active, Adalyne can move at high speeds while maintaining extreme mobility. She is able to navigate tight passageways, such as alleys, and make sharp turns without slowing down. Adalyne can run 1500 meters in 0:27.55 while in **Speed Cloak**.
+> **µ Maelstrom** (Offense || Speed)
+>> Adalyne touches a pre-existing body of water with her poleaxe and channels **Speed** into it, causing some number of water orbs to float idly around her. She can create anywhere between four and twelve orbs. These act as ammunition for **Maelstrom**.
+>> Adalyne can touch any part of her poleaxe to one of the orbs to use it; to different results. Using the spike will fire a pressurized beam of water, a piercing attack with a range of 15 meters; the poleaxe blade will fire a 2m wide slash, which has a range of 9 meters.
 
-> [!TIP]+ Tome of Speed
-> **<small>[Ilya] (Summon | Speed)</small>**
->$\quad$
->**<small>[Speed Cloak] (State Transformation | Speed) 3rd Grade</small>**
->$\quad$Upon activation, Adalyne is engulfed in a verdant flame-like aura, extending four to five inches from her body. This aura is purely visual, a by-product Adalyne hasn't taken the time to stamp out. 
->$\quad$This state heightens Adalyne's mobility considerably including her overall speed as well as dexterity, allowing her to be at the right place, at the right time, all the time. 
->In testing, on flat ground in a straight line, Adalyne has a 0-to-96 KPH time of eight seconds; her sprint PB rests at 10 km in three-and-a-half minutes, with her highest speed at 165 KPH. 
->While not able to maintain such high speeds at all times, testing on standardized agility courses shows high levels of maneuverability.
->$\quad$
-><small>**[Blade of Volos] (Attack | Water) {CD: 2 tr} {SPD}**</small>
->$\quad$While [Speed Cloak] is active, Adalyne has the ability to fire projectiles of water from her polearm; the shape of the projectile, and its properties, depend on which part they originate from. 
->$\quad$The axhead of her poleaxe will fire blades of water (obvious enough,) which have a limited range (8m); the spike at the top will fire beams of water, which have less power but greater range (12m); the hammer/beak will fire short range (4m) spikes of water which are better for breaking through defenses, arcane and mundane.
->
-><small>**[](Defense | Speed) {SPD}**</small>
->
-### Gear
+**» Ilya** (Familiar || Speed)
+>  As the avatar of **Speed**, Ilya's role is to harass the enemy and control area. While she is incredibly fast, her physical defense pales in comparison to her brother Artem's; combined with her low direct damage, she will fold if too much attention is directed her way.
+>  **µ Venomous Touch** (Hex || Speed)
+>> Any damage dealt to an enemy via **physical contact** with Ilya inflicts this hex. This includes bites from her fangs, scratches from her claws, or blunt damage from her body.
+>> **Venomous Touch** lasts for 3 turns. For its duration, the magic control of the afflicted is dampened; spells become more expensive and less precise. For its duration, the afflicted's concentration is disrupted. Spells **requiring concentration** become impossible until the effect clears.
+> **µ Corrupted Ground** (Hex || Speed)
+>> Once every 7 turns, Ilya can corrupt up to a 15m² area with her **Venomous Touch**. This effect will endure until: she is defeated, or reverse-summoned; the area is moved by her, or is forcibly cleansed by another character. Remaining in area controlled by **Corrupted Ground** will prevent the hex from clearing or being cleansed, but the duration (upon leaving Corrupted Ground) will not exceed 3 turns.
 
 
+### ✦ Gear
+#### ¶ BFAS
+Elemental properties: **Strength** & **Speed**
+Catalyst: **Y**
+##### µ Functional Description
+> Adalyne's armor, titled BFAS for "Ballistic Full-plate Armor System." It consists of 4 layers, from outermost to innermost: Ceramic plates, metal full-plate, kevlar, and cloth padding. All these layers are heavily saturated with magic: the ceramic and metal plates with Earth magic, the kevlar & cloth layers with Water magic. 
+> The armor system is heavily enchanted, and each layer is equipped with its own wards. The wards can be described as buckets, which can absorb a certain amount of damage before failing and needing to be regenerated. 
+> 
+> The Ceramic layer is warded to absorb penetrative force, and heavily saturated with Earth magic to absorb Lightning based attacks. The Metal layer is also Earth saturated. The Kevlar layer is also warded to absorb penetrative force. Finally, the Cloth padding layer is warded to absorb blunt or concussive force; these two innermost layers are also saturated with Water magic, helping protect Adalyne from Fire magic & prevent her from overheating naturally. 
+> The armor system can draw on Adalyne's magic to repair itself. She also has the ability to store the armor in her Markana when not in use, and summon it into place at will.
+##### µ Physical Description
+> BFAS does not sport much ornamentation, only a bare minimum required to represent the ATDF Suit which she is part of: the chest is magically dyed with the logo of the ATDF, and the helmet is dyed with some yellow accents.
+> The helmet does not appear to have holes for her to see, but it is enchanted to be see-through from the inside. Her voice is also magically carried, causing a slight amplified echo effect. Air management is also handled magically.
 
+#### ¶ Poleaxe
+Elemental properties: **Strength** & **Speed**
+Catalyst: **Y**
 
-
-
-
-
-[^1]:These wargames are exactly what they sound like: Standardized combat designed to settle disputes between several notoriously squabbly factions and regions, developed to make sure they weren't annihilated by a (then) recently formed United Mainland Federation.
-[^2]:This is in reference to a group which existed prior to the ATDF's inception, whose purpose was to track down and detain dangerous magi within and around Acuria — But, primarily, those who have crossed borders.
-[^3]:Variable Arcane Kinetic Training, Overweight Verticality, and Iterative Addon
+##### µ Description
+> Can be stored in Adalyne's Markana and summoned at will.
