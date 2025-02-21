@@ -144,6 +144,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > He also possesses a tertiary ability allowing him to manipulate the size and shape of his tail, which can be used offensively or defensively. 
 > µ Overshield (Defense || Strength.)
 >> The first ability is **Overshield**, allowing him to increase his physical defense through two methods. Every turn he spends on the field, Artem will passively absorb a trickle of energy from the surroundings to bolster his defense. The second method is found in his fangs; when he bites down on an opponent, he will leach magic from them. Only a certain amount of magic can be stolen with each attack. Stolen energy is immediately committed to his defense in the same turn.
+> 
 > µ Vortex (Passive || Strength)
 >> His second ability is **Vortex**. It's a passive ability with a range of 30m centered around him. All attacks considered to be projectiles, when intended for his allies, will be pulled toward Artem instead.
 
@@ -160,6 +161,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 >  **µ Venomous Touch** (Hex || Speed)
 >> Any damage dealt to an enemy via **physical contact** with Ilya inflicts this hex. This includes bites from her fangs, scratches from her claws, or blunt damage from her body.
 >> **Venomous Touch** lasts for 3 turns. For its duration, the magic control of the afflicted is dampened; spells become more expensive and less precise. For its duration, the afflicted's concentration is disrupted. Spells **requiring concentration** become impossible until the effect clears.
+>
 > **µ Corrupted Ground** (Hex || Speed)
 >> Once every 7 turns, Ilya can corrupt up to a 15m² area with her **Venomous Touch**. This effect will endure until: she is defeated, or reverse-summoned; the area is moved by her, or is forcibly cleansed by another character. Remaining in area controlled by **Corrupted Ground** will prevent the hex from clearing or being cleansed, but the duration (upon leaving Corrupted Ground) will not exceed 3 turns.
 
