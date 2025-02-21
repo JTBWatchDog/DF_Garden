@@ -128,7 +128,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > If at any point they are defeated in combat, they will be immediately reverse-summoned, and Adalyne will lose access to their respective element for 24 turns.
 
 #### ¶ Techniques
-**» Strength Cloak** (Self || Strength) **2 Slots**
+**» Strength Cloak** (Self || Strength) 
 > Adalyne is engulfed in a scarlet, flamelike aura flecked with golden embers, extending 2-3 inches from her body. This aura is purely visual. No physical effect on surroundings is present, but it is warm to the touch. 
 > She has perfected, and acclimated to, the elevated state: she can maintain **Strength Cloak** indefinitely without any loss in stamina.
 > $\quad$
@@ -148,7 +148,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 > **µ Vortex** (Passive || Strength)
 >> His second ability is **Vortex**. It's a passive ability with a range of 30m centered around him. All attacks considered to be projectiles, when intended for his allies, will be pulled toward Artem instead.
 
-**» Speed Cloak** (Self || Speed) **2 Slots**
+**» Speed Cloak** (Self || Speed)
 > The physical appearance is identical to **Strength Cloak**, only it is verdant instead of scarlet. Also unlike **Strength Cloak**, it cannot be maintained indefinitely without loss in stamina.
 > $\quad$
 > The effect is also like the other, only while **Speed Cloak** is active, Adalyne can move at high speeds while maintaining extreme mobility. She is able to navigate tight passageways, such as alleys, and make sharp turns without slowing down. Adalyne can run 1500 meters in 0:27.55 while in **Speed Cloak**.
