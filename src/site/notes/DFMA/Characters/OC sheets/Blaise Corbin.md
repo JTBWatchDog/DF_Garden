@@ -37,20 +37,17 @@ Elemental Properties: Metal, Wind, Spirit
 
 
 #### ¶Techniques
-» Contract of Muni (Passive | Spirit | **Zen**)
-	Blaise took a vow 
+**» Zavet Lovaca** (Passive || Spirit || **Zen**)
+> *The Hunter's Vow* is an integral part of Blaise's **Zen** magic; without it, her Zen magic as it is now would cease to function.
+> Blaise cannot consume any meat which she has not killed herself. In addition, all of her kills must be made without magic. Her kills must be made in a certain way, according respect to the animals she kills.
+> *The Hunter's Vow* forms the foundation of all Zen magic used by Blaise, amplifying their strength.
+> **µ Praznina**, or **Null** (Self || N/E)
+>> Null is the sole exception to the "no magic" clause of **Zavet Lovaca**. This ability allows Blaise to completely close off her magic system, trapping 100% of her magic in her body. In this state, she is invisible to most magic sensory techniques. Combined with her hunting experience, Blaise has considerable stealth ability in this state at the cost of being unable to use other techniques.
 
-» Key of Solomon (Offense | N/E | **Single Use**)
-	There is a three-dimensional runic spell formula bound to both of Blaise's arms. This formula structure appears to consume the entirety of her arms, from deltoid to wrist, below the hypodermis; uncertainty clouds it. The formula structure cannot be viewed. 
-	Means both mundane and arcane have all failed to scan the structure.
-	It cannot be seen or read by any means.
-	This technique can only be used on Neloth.
-	.
-	Blaise *must* place her hands on two points of Neloth's host body. Her left hand *must* be placed on the Ru Zhong pressure point, the Anahata chakra, on the sternum; Her right hand *must* be placed on the Yin Tang pressure point, the Ajna chakra, between the medial ends of the eyebrows.
-	When, and only when, she does this can she use **Key of Solomon**.
-	With **Key of Solomon**, Blaise holds the power to erase any seal. There could be an infinite amount of power behind the seal; it will be erased regardless.
-	Once **Key of Solomon** is used, it will be lost forever. 
-	It cannot be recreated by any means.
+**» Hunter's Discipline** (Offense || Spirit, Metal)
+> 
+
+
 #### ¶Gear
 » Wand
 	A
