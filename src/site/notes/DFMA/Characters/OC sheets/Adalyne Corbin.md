@@ -142,10 +142,10 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 **» Artem** (Summon || Strength) 
 > As the avatar of **Strength**, Artem is incredibly durable. His role is to absorb damage intended for his allies and he has two abilities to fulfill it.
 > He also possesses a tertiary ability allowing him to manipulate the size and shape of his tail, which can be used offensively or defensively. 
-> µ Overshield (Defense || Strength.)
+> **µ Overshield** (Defense || Strength.)
 >> The first ability is **Overshield**, allowing him to increase his physical defense through two methods. Every turn he spends on the field, Artem will passively absorb a trickle of energy from the surroundings to bolster his defense. The second method is found in his fangs; when he bites down on an opponent, he will leach magic from them. Only a certain amount of magic can be stolen with each attack. Stolen energy is immediately committed to his defense in the same turn.
 > 
-> µ Vortex (Passive || Strength)
+> **µ Vortex** (Passive || Strength)
 >> His second ability is **Vortex**. It's a passive ability with a range of 30m centered around him. All attacks considered to be projectiles, when intended for his allies, will be pulled toward Artem instead.
 
 **» Speed Cloak** (Self || Speed) **2 Slots**
