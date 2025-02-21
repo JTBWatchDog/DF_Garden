@@ -17,7 +17,7 @@
 
 ### ✦ Info
 **Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be really fucking goofy. He's good at knowing the right time to crack a joke.
-**Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee.
+**Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee. Is really into civil engineering.
 
 #### ¶ Backstory
 
