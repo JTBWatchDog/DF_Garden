@@ -139,7 +139,7 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 >> **Subjugation** lasts for 8 turns. The hex debuffs movement-focused techniques substantially, and disables flying abilities if present; gliding at reduced speeds may be possible. Once used, **Subjugation** cannot be cast again for 12 turns. 
 >> Active projectiles become inert if **Strength Cloak** is deactivated; the hex, if already inflicted, will continue for its usual duration.
 
-**» Artem** (Summon || Strength) 
+**» Artem** (Defense || Strength) 
 > As the avatar of **Strength**, Artem is incredibly durable. His role is to absorb damage intended for his allies and he has two abilities to fulfill it.
 > He also possesses a tertiary ability allowing him to manipulate the size and shape of his tail, which can be used offensively or defensively. 
 > **µ Overshield** (Defense || Strength.)
@@ -156,13 +156,13 @@ It should be noted, Adalyne's manifestations of **Strength** and **Speed** requi
 >> Adalyne touches a pre-existing body of water with her poleaxe and channels **Speed** into it, causing some number of water orbs to float idly around her. She can create anywhere between four and twelve orbs. These act as ammunition for **Maelstrom**.
 >> Adalyne can touch any part of her poleaxe to one of the orbs to use it; to different results. Using the spike will fire a pressurized beam of water, a piercing attack with a range of 15 meters; the poleaxe blade will fire a 2m wide slash, which has a range of 9 meters.
 
-**» Ilya** (Familiar || Speed)
+**» Ilya** (Support || Speed)
 >  As the avatar of **Speed**, Ilya's role is to harass the enemy and control area. While she is incredibly fast, her physical defense pales in comparison to her brother Artem's; combined with her low direct damage, she will fold if too much attention is directed her way.
->  **µ Venomous Touch** (Hex || Speed)
+>  **µ Venomous Touch** (Support || Speed)
 >> Any damage dealt to an enemy via **physical contact** with Ilya inflicts this hex. This includes bites from her fangs, scratches from her claws, or blunt damage from her body.
 >> **Venomous Touch** lasts for 3 turns. For its duration, the magic control of the afflicted is dampened; spells become more expensive and less precise. For its duration, the afflicted's concentration is disrupted. Spells **requiring concentration** become impossible until the effect clears.
 >
-> **µ Corrupted Ground** (Hex || Speed)
+> **µ Corrupted Ground** (Support || Speed)
 >> Once every 7 turns, Ilya can corrupt up to a 15m² area with her **Venomous Touch**. This effect will endure until: she is defeated, or reverse-summoned; the area is moved by her, or is forcibly cleansed by another character. Remaining in area controlled by **Corrupted Ground** will prevent the hex from clearing or being cleansed, but the duration (upon leaving Corrupted Ground) will not exceed 3 turns.
 
 
