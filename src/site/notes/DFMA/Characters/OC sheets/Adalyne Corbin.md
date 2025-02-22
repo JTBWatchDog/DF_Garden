@@ -3,7 +3,7 @@
 ---
 
 
-| **Female, Kobold, Age**: 86 | **ATDF Knight**  |
+| **Female, Kobold, Age**: 86 | **ATDF Bishop**  |
 | --------------------------- | ---------------- |
 | **DOB**: April 19th, 641    | **Mage Rank**: B |
 
