@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Bokuo-Tuur.md","dg-permalink":"DFMA/Characters/Bokuo-tuur","permalink":"/DFMA/Characters/Bokuo-tuur/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Bokuo-Tuur.md","dg-permalink":"DFMA/Characters/Bokuo-Tuur","permalink":"/DFMA/Characters/Bokuo-Tuur/"}
 ---
 
 
