@@ -6,7 +6,7 @@
 
 | **Male Akerr Drake, Age:** 27 | **Dragonfall Freshman** |
 | :---------------------------- | :---------------------- |
-| **DOB**: July 10th, AE704     | **Mage Rank**: C        |
+| **DOB**: July 10th, AE700     | **Mage Rank**: C        |
 
 ### ✦ Appearance 
 
