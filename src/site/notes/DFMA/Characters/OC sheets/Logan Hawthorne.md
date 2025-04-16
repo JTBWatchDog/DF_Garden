@@ -9,20 +9,27 @@
 
 ### ✦ Appearance 
 
-| **Height**   | **Weight**    | **Hair Color**: Ash Brown |
-| ------------ | ------------- | ------------------------- |
-| 6'3<br>193cm | 170lb<br>77kg | **Eye color**: Brown      |
+| **Height**    | **Weight**    | **Hair Color**: Ash Brown |
+| ------------- | ------------- | ------------------------- |
+| 5'11<br>180cm | 198lb<br>89kg | **Eye color**: Silver     |
 
-
+Logan is very stocky with thick, powerful but not fully lean musculature. He also has a small forehead. His eyes are sharp and piercing, when not offset by a more pleasant expression. He often keeps his mid-back length hair in a french braid.
 
 ### ✦ Info
-**Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be really fucking goofy. He's good at knowing the right time to crack a joke.
+**Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be really fucking goofy. He's good at knowing the right time to crack a joke. He holds himself to the highest standard, but at the same time at least tries to avoid working himself to death. He knows very well what he is and isn't capable of; he just worries about the eventuality of him not being enough. Who wouldn't?
 **Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee. Is really into civil engineering.
 
 #### ¶ Backstory
+His twin sister Avabella was the only Hawthorne kid of their generation that matched him in intellect; prodigal twins, of equal level. Each displayed an affinity for magic early on, Logan to electricity and Ava to fire. 
+What Logan also displayed was an uncanny skill of perception. Sometimes he bordered on clairvoyant, knowing things he had no business knowing: It would be years until it could be explained, by Logan himself.
+After evaluation at the age of 9, the clan described his sensory talent as a "once in a generation" ability. So acute was his ability to feel magic, he could feel the residue of a mage's presence in an area, five hours after they left; without sensory training.
 
+He enrolled at DFMA at the age of 17: At 24, he graduated from a dual degree program with a Bachelor's in the Combat Prowess Program and a PHD in Runic System Theory. His professors, on some occasions, urged him to "take it easy," something which seemed ridiculous to him at the time. 
+In the present, he kinda wishes he had, but it's not that big of a deal.
+Soon after graduating, in AE694 he joined the ATDF. 
 
-
+Soon afterward he transferred to a Diagonal which had jurisdiction over the cultural region of Acuria, for a particular reason: He'd heard of a particular mystic group, through the grapevine; rumor said they could rewire the senses.
+It was fascinating enough that he had to investigate. He spent several years in the region — This is how he learned the *One True Sense* technique — before he transferred back to Dragonfall in AE702.
 
 
 ### ✦ Magic Name: Gulthan Ūle
