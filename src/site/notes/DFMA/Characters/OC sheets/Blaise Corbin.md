@@ -72,7 +72,14 @@ Elemental Properties: Metal, Wind, Spirit
 > Howl of Devanna has a seven turn cooldown, and a three turn charge time in which Blaise cannot cast other spells but is free to move. As it charges she will develop an increasingly brilliant silver aura.
 > Upon casting, Blaise will howl at the sky. At the moment of casting, a wave of magic spreads from Blaise in a 12m radius, ensnaring all things it catches. Everyone caught will see the world as if it were midnight for six turns, with an abnormally large and bright full moon directly overhead.
 > 
-> Enemies ensnared by this hex will begin to hallucinate, believing they are fighting more opponents than they are in reality. Randomly, any of Blaise's allies (or Blaise herself) may appear to be one of these phantoms, or any of these phantoms may appear to be one of Blaise's allies. When one of these phantoms are hit, they will disappear and not return. 
+> Enemies ensnared by this hex will begin to hallucinate, believing they are fighting more opponents than they are in reality. Randomly, any of Blaise's allies (or Blaise herself) may appear to be one of these phantoms, or any of these phantoms may appear to be one of Blaise's allies. When one of these phantoms are hit, they will disappear and not return.
+
+> Sactuary (Defense | Spirit, Metal | **Zen**)
+> 
+> Initializing Sanctuary requires her war scythe and a calm mind. On the turn it is activated, Blaise creates a subtle aura of Spirit magic around her. On the first turn this aura extends in a 1m radius around her, and will expand another meter every turn until it reaches a 4m radius on the fourth turn. This aura allows her to respond to any threat entering it's range with extreme speed and accuracy. This is Sanctuary's first function.
+> The second function is found in her war scythe which, as Sanctuary endures, gains greater and greater defensiveg power until the fourth turn, upon which it gains the power to unravel B-rank Extraplanar Light, Dark, and Fire attacks on contact. For as long as Sanctuary endures, Blaise is critically weak to Extraplanar Psychic or Lightning attacks. This weakness takes priority in mixed-element matchups.
+> 
+> The aura of Sanctuary becomes stationary after enduring for 4 turns, and will dissolve if Blaise leaves it.
 
 
 #### ¶Gear
