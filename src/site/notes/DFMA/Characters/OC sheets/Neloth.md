@@ -2,12 +2,16 @@
 {"dg-publish":true,"dg-path":"DFMA/Characters/Neloth.md","dg-permalink":"DFMA/Characters/Neloth","permalink":"/DFMA/Characters/Neloth/"}
 ---
 
-**(Bio) Age:** 97|| **Sex**: M|| **Rank**: A
-Race: Kobold || Nationality: Akerr 
+
+| **Male Akerr Draconian, Possessed**      | **Mage Rank**: B          |
+| ---------------------------------------- | ------------------------- |
+| **Bio. Age**: 97, DOB: AE630, April 11th | **No known Affiliations** |
 
 ### Appearance 
-**Weight**: 140 lb||**Height:** 5'8|| **Shape Shifter type: Limited**
-**Eye Color:** Red
+
+| **Weight** | **Height** | **Shapeshifter Type**: Limited |
+| ---------- | ---------- | ------------------------------ |
+| 140ob      | 5'8"       | **Eye Color**: Red             |
 
 Neloth possesses shapeshifting abilities. These abilities are bounded by what is naturally possible for a kobold to look like, with one exception: He cannot alter his eyes.
 When they're disabled, willingly or not, he will assume his normal appearance.
@@ -15,8 +19,8 @@ When they're disabled, willingly or not, he will assume his normal appearance.
 His scales are a solid silvery gray. Neloth's build is, strangely, reminiscent of an otter; slim and lithe with large eyes, framed by heavy ridged eyebrows. Tahr-type horns, short and thick, curve backwards from above small bat-like ears. 
 ### Info
 
-Personality: 
-Likes/Dislikes:
+Personality: Neloth is full of paradoxical traits. Childish in some ways, mature in others; his real personality rarely sees the light of day, often disguised with a mask for one reason or another; seemingly so open and eager to speak his mind, seemingly so closed off. The line between illusion and reality has long been lost. He is the mask and the wearer. Is there an end to the masks? Is there a mask at all?
+Likes/Dislikes: Does not appear to have real, meaningful likes or dislikes outside of fundamental, animalistic traits - like the need for food and freedom - or childish tendencies.
 
 #### Backstory
 Neloth was born without form, without thought, and without a name to call his own.
@@ -40,7 +44,7 @@ After his escape, he wandered without direction. Maybe, to anyone on the outside
 
 
 ### ✦ Magic Name: Chasing Eternity
-Overall place in type triad: Undefined
+Overall place in type triad: Defense
 #### ¶ Elemental Properties: 
 Dark || Bone (Earth) || **Underworld** 
 **Obdurate** (Conceptual, Earth & Underworld)
@@ -53,13 +57,28 @@ Neloth's expression of Obdurate is bounded by several rules:
   If the spell is interrupted and fails, the channeled mana is lost.
 - Spells using Obdurate cannot be "dismissed" or ended prematurely.
   Spells with a continuous drain are impossible because they would kill the user.
+- Obdurate shares the same Planar Elemental matchups as **Underworld**, as it composes part of Obdurate.
 > [!EXAMPLE]- ¶ Racial Perk: Aizura
 The Aizura are a form of magesight specific to the Akerr, rare and nearly extinct.
 When the Aizura are activated, the sclera and iris of the eye are overrun by a fractal-esque pattern unique to the user, the primary color of which is usually the same as the normal eye color.
 While active, the user gains the ability to see magic as well as a greatly enhanced field of view. Regardless of activation, Akerr with the Aizura are able to see extensive portions of the UV and infrared spectrums at all times.
 #### ¶ Techniques
+**» Meshokyo** (Self || Dark) 
+> Translated literally as "Presence Erasure", this technique has been closely protected by the Akerr government for many, many generations. Now it's in the hands of a demon.
+> Meshokyo has two forms, "Primary" (this one), and "Major". Primary Meshokyo functions as such: Neloth can hide his magical presence from B+, borderline A- rank sensory abilities. This effect is so potent he can maintain it while using other magics; this depends on how much energy it expends. Subtle magics will avoid disrupting the effect, while more grandiose acts will dispel it entirely.
+> **µ Meshokyo: Major** (Self || Dark, Earth)
+>> 
+
+
+
 **» Immolation** (Self||Bone)
-	Neloth's ability to create and manipulate bone. It is most potent when using his own skeletal structure as a catalyst, however, he can create bone from the earth itself if he so chooses. The manipulation of foreign living skeletal structure is impossible, because the latent mana within rejects his control. 
-	Foreign dead bones do not share this, but hold the most power when used within the context of ritual magic.
-		**µ ** 
+> Neloth's ability to create and manipulate bone. It is most potent when using his own skeletal structure as a catalyst, however, he can create bone from the earth itself if he so chooses. Both manipulation and creation have a maximum range of 12 meters, in a radius around his heart. The manipulation of foreign living skeletal structure is impossible, because the latent mana within rejects his control. 
+> Foreign dead bones do not share this, but hold the most power when used within the context of ritual magic.
+> **µ Dead Devil Barrier** (Defense || Bone, **Obdurate**)
+>> Neloth concentrates for three turns before stomping and channeling **Obdurate** into the ground. Six bone spikes rise from the ground in a circle, covered in runes. The resulting barrier is cylindrical, up to 9 meters in diameter and 9 meters tall, with a roof but no floor. There are two possible configurations: whatever side of the barrier the spikes are on is considered the "hard" side.
+>> The hard side is the protective side. The opposite, "soft" side is permeable to magic and physical objects alike.
+>> The barrier is indestructible so long as all six, relatively fragile, bone spikes persist, weakening with each destroyed spike. So long as 5 or less spikes remain, the barrier is destructible. When all 6 are destroyed, the barrier will cease to exist; if the barrier is destroyed directly, any remaining spikes will turn to dust. 
+>> If the barrier is allowed to remain, it will crumble by itself after 8 turns.
+>
+> **µ **
 ### Gear
