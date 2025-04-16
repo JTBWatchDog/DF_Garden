@@ -13,7 +13,7 @@
 | 5'4<br>162 cm | 140 lb<br>63 kg | **Eye Color**: Black  |
 
 Altan is mesomorphic & toned by exercise from the time she was eight, with a heart-shaped face and eyes that are only slightly larger than they should be. Her jet black hair, one of her greatest prides that she's taken great care of from her youth, reaches down to her waist— It's so dark that it often looks like a hole in the world. Her eyes are the same way: It can actually be hard to see where her pupil starts unless you're really close.
-She is also extremely pale, almost disturbingly so, in direct contrast to her extremely dark hair.
+She is also extremely pale, almost disturbingly so, in direct contrast to her extremely dark hair. 
 ### ✦ Info
 
 **Personality**: She almost always wears a mask of however she's "supposed" to feel at any given moment, but just how "effective" that mask is, is up for debate. She can seem obtuse, distant, and cold because of this, even when she's *trying* to be genuine.
