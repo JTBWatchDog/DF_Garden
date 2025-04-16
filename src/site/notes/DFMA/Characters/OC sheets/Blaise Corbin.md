@@ -59,6 +59,7 @@ Elemental Properties: Metal, Wind, Spirit
 > - Creation of medical implements using metal magic, such as splints, scalpels, sutures, and others
 > - Anti-infection or sterilization charms
 > - Charms for controlling bleeding, airway management, resuscitation, and immobilization in case of head or spinal injury
+>   
 > **µ Physician Spirit** (Support || Spirit)
 >> Blaise sets a spirit under her command to watch over one of her allies. This can only be applied to one person, and will grant that person passive healing for 9 turns. While Blaise has to be within 2 meters to apply the spirit, after application there is no limitation to range as the spirit will follow its charge. 
 >> Except for techniques specially tailored to target spirits, the Physician Spirit cannot be disturbed. After usage, the spirit is exhausted and cannot be used again in the same fight.
