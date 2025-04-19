@@ -29,7 +29,9 @@ In the present, he kinda wishes he had, but it's not that big of a deal.
 Soon after graduating, in AE694 he joined the ATDF. 
 
 Soon afterward he transferred to a Diagonal which had jurisdiction over the cultural region of Acuria, for a particular reason: He'd heard of a particular mystic group, through the grapevine; rumor said they could rewire the senses.
-It was fascinating enough that he had to investigate. He spent several years in the region — This is how he learned the *One True Sense* technique — before he transferred back to Dragonfall in AE702.
+It was fascinating enough that he had to investigate. He spent several years in the region — This is how he learned the *One True Sense* technique — before he transferred back to Dragonfall in AE702 as a Knight under Alessia Gataki. 
+
+
 
 
 ### ✦ Magic Name: Gulthan Ūle
