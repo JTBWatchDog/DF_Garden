@@ -33,16 +33,23 @@ Elemental Properties: Metal, Wind, Spirit
 #### ¶ Description
 
 > [!EXAMPLE]- ¶ Racial Perk: Dorraul Markana
-> $\quad$Blaise's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, developing with the mage throughout life. These markings have a metallic appearance.
+> Blaise's arcane tattoos. Kobold magi of several specific species can be born with them. They are a direct interface between magic and biology, developing with the mage throughout life. These markings have a metallic appearance.
+> Blaise's Markana cover the entirety of her back and tail, but also stretch across her arms, shoulders, and collarbone. Despite being covered by feathers, Blaise's Markana remain easy to see: They (translucently) project themselves around her body, 3-4 inches above their actual location.
+> 
+> Blaise's spine and shoulder blades are covered by a cobalt blue cross, which is wrapped in white-blue vines and surrounded by dense, white-silver foliage which covers the rest of her back. Beside the cross, over the foliage, are two pairs of white wings. 
+> Vines similarly trail across her arms, shoulders, and tail. The rest of her tail, underneath the vines, is also covered by dense white-silver foliage.
 
 
-#### ¶Techniques
+#### ¶ Techniques
 **» Zavet Lovaca** (Passive || Spirit || **Zen**)
 > *The Hunter's Vow* is an integral part of Blaise's **Zen** magic; without it, her Zen magic as it is now would cease to function.
-> Blaise cannot consume any meat which she has not killed herself. In addition, all of her kills must be made without magic. Her kills must be made in a certain way, according respect to the animals she kills.
+> Blaise cannot consume any meat which she has not killed herself. In addition, all of her kills must be made without magic. Her kills must be made in a certain way, according respect to the animals she kills. 
 > *The Hunter's Vow* forms the foundation of all Zen magic used by Blaise, amplifying their strength.
-> **µ Praznina**, or **Null** (Self || N/E)
+> **µ Praznina**, or **Void** (Self || N/E)
 >> Null is the sole exception to the "no magic" clause of **Zavet Lovaca**. This ability allows Blaise to completely close off her magic system, trapping 100% of her magic in her body. In this state, she is invisible to most magic sensory techniques. Combined with her hunting experience, Blaise has considerable stealth ability in this state at the cost of being unable to use other techniques.
+>  
+> **¶ Whisper** (Self || Spirit)
+>> Blaise's ability to commune with the spirits of nature. With enough time Blaise can rouse and speak with the spirit of even the humblest pebble, however if it has anything worth listening to is a different matter entirely. This is a purely non-combative spell, as Blaise has no command over these spirits. In most cases, they're not useful in combat anyway. What they are useful for is information: In the cases Blaise can make sense of it, what they have to say can be useful in even the least expected of ways.
 
 **» Paramedic Discipline** (Support || N/E OR Metal)
 > This is the foundation of Blaises medical ability.
@@ -74,18 +81,19 @@ Elemental Properties: Metal, Wind, Spirit
 > 
 > Enemies ensnared by this hex will begin to hallucinate, believing they are fighting more opponents than they are in reality. Randomly, any of Blaise's allies (or Blaise herself) may appear to be one of these phantoms, or any of these phantoms may appear to be one of Blaise's allies. When one of these phantoms are hit, they will disappear and not return.
 
-> Sactuary (Defense | Spirit, Metal | **Zen**)
+> **» Sactuary** (Defense | Spirit, Metal | **Zen**)
 > 
 > Initializing Sanctuary requires her war scythe and a calm mind. On the turn it is activated, Blaise creates a subtle aura of Spirit magic around her. On the first turn this aura extends in a 1m radius around her, and will expand another meter every turn until it reaches a 4m radius on the fourth turn. This aura allows her to respond to any threat entering it's range with extreme speed and accuracy. This is Sanctuary's first function.
-> The second function is found in her war scythe which, as Sanctuary endures, gains greater and greater defensiveg power until the fourth turn, upon which it gains the power to unravel B-rank Extraplanar Light, Dark, and Fire attacks on contact. For as long as Sanctuary endures, Blaise is critically weak to Extraplanar Psychic or Lightning attacks. This weakness takes priority in mixed-element matchups.
+> The second function is found in her war scythe which, as Sanctuary endures, gains greater and greater defensive power until the fourth turn, upon which it gains the power to unravel B-rank Extraplanar Light, Dark, and Fire attacks on contact. For as long as Sanctuary endures, Blaise is critically weak to Extraplanar Psychic or Lightning attacks. This weakness takes priority in mixed-element matchups.
 > 
 > The aura of Sanctuary becomes stationary after enduring for 4 turns, and will dissolve if Blaise leaves it.
 
 
 #### ¶Gear
-» Wand
-	A
+» Focal Wand
+> This wand is Blaise's tool of choice for the healing arts. 
+> To create it Blaise, after slaying a direwolf, took one of its femurs and carved it into a wand, before engraving it with runes of the Sadyarushk series. Its entire surface is covered in 453 runes.
+> This is a tool of incredible precision, allowing Blaise to perform the most delicate of medical procedures.
+
 » War Scythe
-	A
-» Bow
-	A
+>  Blaise's weapon of choice. The curved blade is a unique steel blend, infused with the blood and powderized bone of the same direwolf which provided her wand. 
