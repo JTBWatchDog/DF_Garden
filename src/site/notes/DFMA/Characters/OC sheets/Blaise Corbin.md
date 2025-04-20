@@ -13,7 +13,8 @@
 | 5'9"<br>175cm | 135lb<br>61kg | **Prim. Wingspan:** 14'<br>**Sec. Wingspan:** 9' |
 
 Following her metamorphosis, Blaise has taken on an *extremely* avian appearance. Feathers cover most of her body, with scales only visible in a few key areas; around the face, her hands and wrists, among others. The sclera of her eyes have become a shockingly vibrant red with a blue iris. 
-The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip.
+The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip. 
+She possesses two pairs of wings, with the second growing from just above her tail.
 
 Her body coloration is divided into two cohesive regions: "underside" or "inner" areas, which are cerulean with white undertones which include the insides of her wings and underside of her tail but also the front of her torso, her legs, arms, and neck; and "topside" or "outer" areas, which include the outerside of her wings and topside of her tail, but also her back, shoulders, and collarbone.
 ### ✦Info
@@ -38,6 +39,7 @@ Elemental Properties: Metal, Wind, Spirit
 > 
 > Blaise's spine and shoulder blades are covered by a cobalt blue cross, which is wrapped in white-blue vines and surrounded by dense, white-silver foliage which covers the rest of her back. Beside the cross, over the foliage, are two pairs of white wings. 
 > Vines similarly trail across her arms, shoulders, and tail. The rest of her tail, underneath the vines, is also covered by dense white-silver foliage.
+> These tattoos are responsible for her metamorphosis and transition, and are what originally gave her wings.
 
 
 #### ¶ Techniques
@@ -82,7 +84,6 @@ Elemental Properties: Metal, Wind, Spirit
 > Enemies ensnared by this hex will begin to hallucinate, believing they are fighting more opponents than they are in reality. Randomly, any of Blaise's allies (or Blaise herself) may appear to be one of these phantoms, or any of these phantoms may appear to be one of Blaise's allies. When one of these phantoms are hit, they will disappear and not return.
 
 > **» Sactuary** (Defense | Spirit, Metal | **Zen**)
-> 
 > Initializing Sanctuary requires her war scythe and a calm mind. On the turn it is activated, Blaise creates a subtle aura of Spirit magic around her. On the first turn this aura extends in a 1m radius around her, and will expand another meter every turn until it reaches a 4m radius on the fourth turn. This aura allows her to respond to any threat entering it's range with extreme speed and accuracy. This is Sanctuary's first function.
 > The second function is found in her war scythe which, as Sanctuary endures, gains greater and greater defensive power until the fourth turn, upon which it gains the power to unravel B-rank Extraplanar Light, Dark, and Fire attacks on contact. For as long as Sanctuary endures, Blaise is critically weak to Extraplanar Psychic or Lightning attacks. This weakness takes priority in mixed-element matchups.
 > 
