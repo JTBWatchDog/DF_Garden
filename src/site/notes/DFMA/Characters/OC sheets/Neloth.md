@@ -65,10 +65,17 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 #### ¶ Techniques
 **» Meshokyo** (Self || Dark) 
 > Translated literally as "Presence Erasure", this technique has been closely protected by the Akerr government for many, many generations. Now it's in the hands of a demon.
-> Meshokyo has two forms, "Primary" (this one), and "Major". Primary Meshokyo functions as such: Neloth can hide his magical presence from B+, borderline A- rank sensory abilities. This effect is so potent he can maintain it while using other magics; this depends on how much energy it expends. Subtle magics will avoid disrupting the effect, while more grandiose acts will dispel it entirely.
-> **µ Meshokyo: Major** (Self || Dark, Earth)
->> 
-
+> Meshokyo has multiple forms the first of which is Primary. First Form Meshokyo functions as such: Neloth can hide his magical presence from B+, borderline A- rank sensory abilities. This effect is so potent he can maintain it while using other magics; this depends on how much energy it expends. Subtle magics will avoid disrupting the effect, while more grandiose acts will dispel it entirely.
+> Neloth has the ability to extend the effect of Meshokyo & its subspells to up to 2 willing others.
+> **µ Meshokyo: Major** (Self || **Underworld**)
+>> *Major Presence Erasure* grants Neloth the ability to disappear entirely from the perception of others. It is quite possibly the most advanced *Meshokyo* developed in many generations of Akerr magicians.
+>> Activating it requires him to become completely motionless for 3 turns.
+>> For as long as this technique is active, Neloth cannot move quickly. His movement speed is capped at a relaxed walking pace. Any use of magic will disrupt it; as will physical contact with any person. He cannot attack during it, nor use any magic for four turns after stopping it. For as long as it is active, he has the defenses of a nonmagi. 
+>> However, for as long as *Meshokyo Major* remains active, Neloth cannot be perceived by any living thing. All senses fail before this technique.
+>
+> **µ Meshokyo: Second Form** ((Self || Dark, Bone(Earth)))
+>> After remaining still for three turns, Neloth can camouflage himself to his surroundings. He can do this through two ways: Enshrouding himself in shadows, or mimicking his surroundings like a chameleon. These methods are not mutually exclusive.
+>> Meshokyo: Second Form also benefits from the powers of First Form and Major but compromises on their effectiveness, most heavily on the latter. Neloth becomes much harder to sense while Enshrouded by Second Form, maintaining his ability to work lesser magics, and minorly harder to notice. However in turn, Second Form is the most taxing of the Meshokyo forms. At maximum, Neloth can maintain Second Form for 16 turns. Maintaining it for 4 turns will consume a quarter of his max mana.
 
 
 **» Immolation** (Self||Bone)
@@ -80,5 +87,54 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 >> The barrier is indestructible so long as all six, relatively fragile, bone spikes persist, weakening with each destroyed spike. So long as 5 or less spikes remain, the barrier is destructible. When all 6 are destroyed, the barrier will cease to exist; if the barrier is destroyed directly, any remaining spikes will turn to dust. 
 >> If the barrier is allowed to remain, it will crumble by itself after 8 turns.
 >
-> **µ **
+> **µ Carapace** (Defense || Bone)
+>> Neloth must remain motionless for three turns and direct considerable focus to the spell. Over the course of these three turns, Neloth will develop a defensive exoskeleton, and once it is finished the resulting carapace requires no continuous upkeep.
+>> While Carapace provides incredible, all-purpose defensive utility, it is a costly ability — it requires a quarter of his maximum mana to create. Once it is destroyed, Neloth will usually not be able to create it again within the same fight: due to the demanding cost, and if not, the setup time. 
+
+**» Wardcraft** (Defense || Earth, Dark)
+> Neloth's warding skills rely on physically written runic systems, meaning these skills require extensive time to deploy. However, if Neloth has the chance to decide where a fight happens ahead of time, they can be incredibly powerful. How far the script extends depends on the ward; generally, the *more* script there is, the more powerful the ward. However, more script also requires longer to set up and can be more susceptible to damage, which means *even more* time is needed to build in failsafes and safety measures.
+> 
+> - **Reinforcing Wards**
+> Used to fortify pre-existing structures. Will typically be able to defend against six or eight Mid-B level attacks before the wards fail. Undisturbed wards, unpowered by a Wardstone, will typically last a week without upkeep before they begin to unravel.
+> The inclusion of a Wardstone vastly upgrades their defensive capabilities. When powered by a Wardstone, they become a **permanent structure** and will not unravel over time. The Wardstone also allows them to gradually recharge over the course of a day or two; they can now also defend against eight or ten Mid-B level attacks.
+> <br>
+> - **Obfuscation Wards**
+> Used to prevent a location or structure from being found by unwanted guests. This doesn't hide the location or structure from sight, rather, it prevents the location from being *noticed*. A building hidden by an Obfuscation ward will appear entirely normal, and *just* unnotable enough to not warrant investigation. Though not impenetrable, Neloth knows how to avoid making them obvious.
+> 
+> **µ Wardstone Creation** (Defense || Earth, Dark)
+>> The art of Wardstone Creation is equal parts Witchcraft and magical formula. 
+>> Wardstones grant permanence to ward structures by acting as a conduit, battery, and mana generator simultaneously. By acting as a central conduit, the maximum complexity of a ward structure is increased; by acting as a battery, the ward is better able to endure spikes in mana drain; by acting as a generator, wards are allowed to endure and regenerate.
+>> 
+>> Balancing the power of Wardstone Creation is its complexity and cost. A simple stone requires minimum one week to plan and craft; as complexity increases, the time requirement rises exponentially. Material cost will also rise exponentially with quality.
+>> 
+>> A completed Wardstone, until destroyed or otherwise removed, **becomes a permanent feature of its location.** A quality wards can last anywhere from 6 months to multiple years.
+
+
+**» Dance with the Devil** (Offense || **Underworld**)
+> This spell occupies two slots.
+> At any time Neloth can choose to unleash his demonic power, which is usually curtailed by the seal binding him to his current host. When he uses **Dance with the Devil** to unleash his full power, Neloth changes from a Defense type to an Offense type. With the activation of the Dance, he gains access to its subspells.
+> 
+> So long as **Dance with the Devil** is maintained, Neloth experiences the following effects:
+> - Lowered base arcane defense (+4 turns post Dance)
+> - Damage to health over time (1/16th per turn)
+> - Mana loss due to seal leakage (1/16th per turn)
+> - Damage to seal over time (may lead to negative effects)
+> - Loss of access to Meshokyo & it's forms (+4 turns post Dance)
+> - Increase in physical strength and speed (by roughly one third)
+>
+> **µ Ablation of Limitation** (Offense || Bone, **Underworld**)
+>> Neloth's power over his bones increases dramatically during **Dance with the Devil**. Increases in the following can be noted: rate of production, physical strength, and range at which he can manipulate it. Range has increased to a 15m radius.
+>> Neloth can utilize his own skeletal structure such that his every limb becomes a bladed implement. Spikes and bullets of bone may emerge from any point of his body, at any time, at incredible speed. 
+>> 
+>> Neloth has, debatably, developed a unique martial art using this ability. Anyone entering CQC will find that this chaotic style will often make increased numbers employed against him a disadvantage.
+>
+> **µ Dissolution** (Offense || Dark, **Obdurate**)
+>> Dissolution must be prepared three turns before Neloth is struck by an attack. Once prepared, it may be held for two turns. When Dissolution is prepared and Neloth is struck by an attack, Neloth will explode into a cloud of black shards, negating the attack's damage. These black shard will strike the attacker at nearly imperceptible speeds, pass through them dealing internal damage, and then reform into Neloth. Dissolution will cause Zen attacks to fail, regardless of element.
+>> 
+>> Any Heaven attack will cause Dissolution to fail before initiation. However, any mage utilizing Zen techniques when hit by Dissolution's shards will take increased damage. Dissolution has a 6 turn cooldown.
+>
+> **µ Devastation** (Offense || Dark, **Underworld**)
+>> Devastation may be used at any time without preparation but only once a day. Once activated, Devastation remains active for 4 turns.
+>> Neloth's left hand becomes enshrouded in a black flame, extending onto his weapon. While Devastation remains active, any Defense spell hit by his hand or sword will become disabled for 4 turns. 
+>> Neloth may throw his sword to use this, but may only affect one Defense spell through this method. After impact his sword will lose the power of Devastation.
 ### Gear
