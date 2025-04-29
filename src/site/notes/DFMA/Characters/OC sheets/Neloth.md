@@ -135,6 +135,5 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 >
 > **µ Devastation** (Offense || Dark, **Underworld**)
 >> Devastation may be used at any time without preparation but only once a day. Once activated, Devastation remains active for 4 turns.
->> Neloth's left hand becomes enshrouded in a black flame, extending onto his weapon. While Devastation remains active, any Defense spell hit by his hand or sword will become disabled for 4 turns. 
->> Neloth may throw his sword to use this, but may only affect one Defense spell through this method. After impact his sword will lose the power of Devastation.
+>>Neloth's left hand becomes enshrouded in a black flame, extending onto his weapon. The black flames of Devastation corrupt and corrode everything they touch, "burning" for 6 turns. They cannot be removed except by Holy techniques. The flames of Devastation will corrode and eat through Shield-type defensive techniques, poking holes through them which rapidly expand. When touching flesh these flames will only burn for three turns. When "burning" people, their magic control will become frayed and all spells become more expensive. 
 ### Gear
