@@ -16,15 +16,14 @@ Following her metamorphosis, Blaise has taken on an *extremely* avian appearance
 The way her mouth and nose are arranged has become profoundly beak-like. Her horns have also grown, now 33 cm long, gently curving backward with a ridge spiraling from base to tip. 
 She possesses two pairs of wings, with the second growing from just above her tail.
 
-Her body coloration is divided into two cohesive regions: "underside" or "inner" areas, which are cerulean with white undertones which include the insides of her wings and underside of her tail but also the front of her torso, her legs, arms, and neck; and "topside" or "outer" areas, which include the outerside of her wings and topside of her tail, but also her back, shoulders, and collarbone.
+Her body coloration is divided into two cohesive regions: "underside" or "inner" areas, which are cerulean with white undertones which include the insides of her wings and underside of her tail but also the front of her torso, her legs, arms, and neck; and "topside" or "outer" areas, which are an almost black shade of blue and include the outerside of her wings and topside of her tail, but also her back, shoulders, and collarbone.
 ### ✦Info
 
 Personality: 
 Likes/Dislikes:
 
 #### ¶ Backstory
-
-
+Blaise's parents moved to Dragonfall shortly before she was born. 
 
 
 
