@@ -58,12 +58,12 @@ Neloth's expression of Obdurate is bounded by several rules:
 - Spells using Obdurate cannot be "dismissed" or ended prematurely.
   Spells with a continuous drain are impossible because they would kill the user.
 - Obdurate shares the same Planar Elemental matchups as **Underworld**, as it composes part of Obdurate.
-> [!EXAMPLE]- ✦ Racial Perk: Aizura
+> [!EXAMPLE]- Racial Perk: Aizura
 The Aizura are a form of magesight specific to the Akerr, rare and nearly extinct.
 When the Aizura are activated, the sclera and iris of the eye are overrun by a fractal-esque pattern unique to the user, the primary color of which is usually the same as the normal eye color.
 While active, the user gains the ability to see magic as well as a greatly enhanced field of view. Regardless of activation, Akerr with the Aizura are able to see extensive portions of the UV and infrared spectrums at all times.
 
-> [!EXAMPLE]- µ Malediction of Absalem
+> [!EXAMPLE]- Malediction of Absalem
 > Neloth lost his right arm in a fight with Adalyne and Blaise Corbin in AE709. During the fight Blaise Corbin, 17 at the time, converted a very large portion of her body mass directly into energy, then used that energy to almost completely vaporize Neloth's right arm up to the shoulder. 
 > That is when the spirit of Absalem Corbin manifested itself.
 > Binding him in chains, Absalem was able to partially pull his soul away from his body and attack it directly. Absalem cut off a portion of his soul, connected to his right arm. 
