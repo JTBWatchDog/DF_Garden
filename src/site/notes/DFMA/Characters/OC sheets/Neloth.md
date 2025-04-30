@@ -58,10 +58,17 @@ Neloth's expression of Obdurate is bounded by several rules:
 - Spells using Obdurate cannot be "dismissed" or ended prematurely.
   Spells with a continuous drain are impossible because they would kill the user.
 - Obdurate shares the same Planar Elemental matchups as **Underworld**, as it composes part of Obdurate.
-> [!EXAMPLE]- ¶ Racial Perk: Aizura
+> [!EXAMPLE]- ✦ Racial Perk: Aizura
 The Aizura are a form of magesight specific to the Akerr, rare and nearly extinct.
 When the Aizura are activated, the sclera and iris of the eye are overrun by a fractal-esque pattern unique to the user, the primary color of which is usually the same as the normal eye color.
 While active, the user gains the ability to see magic as well as a greatly enhanced field of view. Regardless of activation, Akerr with the Aizura are able to see extensive portions of the UV and infrared spectrums at all times.
+
+> [!EXAMPLE]- µ Malediction of Absalem
+> Neloth lost his right arm in a fight with Adalyne and Blaise Corbin in AE709. During the fight Blaise Corbin, 17 at the time, converted a very large portion of her body mass directly into energy, then used that energy to almost completely vaporize Neloth's right arm up to the shoulder. 
+> That is when the spirit of Absalem Corbin manifested itself.
+> Binding him in chains, Absalem was able to partially pull his soul away from his body and attack it directly. Absalem cut off a portion of his soul, connected to his right arm. 
+> 
+> This cursed wound cannot be healed by any means currently available to Neloth. The curse also makes it so that Neloth cannot use magic via any prosthetic, though this does not prevent his current prosthetic from working as a nonmagical arm.
 #### ¶ Techniques
 **» Meshokyo** (Self || Dark) 
 > Translated literally as "Presence Erasure", this technique has been closely protected by the Akerr government for many, many generations. Now it's in the hands of a demon.
@@ -81,6 +88,7 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 **» Immolation** (Self||Bone)
 > Neloth's ability to create and manipulate bone. It is most potent when using his own skeletal structure as a catalyst, however, he can create bone from the earth itself if he so chooses. Both manipulation and creation have a maximum range of 12 meters, in a radius around his heart. The manipulation of foreign living skeletal structure is impossible, because the latent mana within rejects his control. 
 > Foreign dead bones do not share this, but hold the most power when used within the context of ritual magic.
+> 
 > **µ Dead Devil Barrier** (Defense || Bone, **Obdurate**)
 >> Neloth concentrates for three turns before stomping and channeling **Obdurate** into the ground. Six bone spikes rise from the ground in a circle, covered in runes. The resulting barrier is cylindrical, up to 9 meters in diameter and 9 meters tall, with a roof but no floor. There are two possible configurations: whatever side of the barrier the spikes are on is considered the "hard" side.
 >> The hard side is the protective side. The opposite, "soft" side is permeable to magic and physical objects alike.
@@ -109,6 +117,20 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 >> 
 >> A completed Wardstone, until destroyed or otherwise removed, **becomes a permanent feature of its location.** A quality wards can last anywhere from 6 months to multiple years.
 
+» Earthworks (Self || Earth)
+> Neloth's ability to bend soil, rock, and cement to his will. This is tied to his physical ability: to move the earth he must move his body. He can manipulate earth consistently within 3m of himself. Any increase in distance beyond this will increase the required effort exponentially. While using Earthworks Neloth cannot concentrate on other spells. 
+> 
+> While he can suspend earth in the air this can, very quickly, become quite taxing on his body and his mana reserves. Re-shaped earth may be affected by the wards and spell formula at Neloth's disposal.
+> It should also be noted Neloth's proficiency with this ability can be described as "below average"; even C rank Earth magi may be able to wrest away control of his Earthworks.
+
+» Formula Expertise (Self || N/E)
+> Neloth's experience with spell formula is not to be trifled with. Though they take time to deploy these magic formula allow him to shape the battle to his whim. On the other hand, these formula can be easy to disrupt; safeguards and redundancies may be deployed, but take vastly more time.
+> 
+> - Creation of Storage seals 
+> Allows Neloth to store items, even arcane ones, inside storage scrolls or singular tags. The weight of these items while sealed is ignored, but only things up to a certain mass may be stored. The largest singular thing Neloth can seal is 80lb. The only things which cannot be sealed are items including other spell formula.
+> 
+> - Explosive tags
+> Allows Neloth to create paper bombs. The strength limit of these is still untested, but magic demand increases. Complexity and size, and thus the time required to create, increase in exponential steps. Paper bombs become easier to sense the larger they are. May be detonated remotely up to a range of 20m, or created with a timed fuse.
 
 **» Dance with the Devil** (Offense || **Underworld**)
 > This spell occupies two slots.
@@ -135,5 +157,5 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 >
 > **µ Devastation** (Offense || Dark, **Underworld**)
 >> Devastation may be used at any time without preparation but only once a day. Once activated, Devastation remains active for 4 turns.
->>Neloth's left hand becomes enshrouded in a black flame, extending onto his weapon. The black flames of Devastation corrupt and corrode everything they touch, "burning" for 6 turns. They cannot be removed except by Holy techniques. The flames of Devastation will corrode and eat through Shield-type defensive techniques, poking holes through them which rapidly expand. When touching flesh these flames will only burn for three turns. When "burning" people, their magic control will become frayed and all spells become more expensive. 
+>> Neloth's left hand becomes enshrouded in a black flame, extending onto his weapon. The black flames of Devastation corrupt and corrode everything they touch, "burning" for 6 turns. They cannot be removed except by Holy techniques. The flames of Devastation will corrode and eat through Shield-type defensive techniques, poking holes through them which rapidly expand. When touching flesh these flames will only burn for three turns. When "burning" people, their magic control will become frayed and all spells become more expensive. 
 ### Gear
