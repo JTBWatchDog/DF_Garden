@@ -57,7 +57,7 @@ Neloth's expression of Obdurate is bounded by several rules:
   If the spell is interrupted and fails, the channeled mana is lost.
 - Spells using Obdurate cannot be "dismissed" or ended prematurely.
   Spells with a continuous drain are impossible because they would kill the user.
-- Obdurate shares the same Planar Elemental matchups as **Underworld**, as it composes part of Obdurate.
+- Obdurate shares the same Planar Elemental matchups as **Underworld**, as it composes part of Obdurate. 
 > [!EXAMPLE]- Racial Perk: Aizura
 The Aizura are a form of magesight specific to the Akerr, rare and nearly extinct.
 When the Aizura are activated, the sclera and iris of the eye are overrun by a fractal-esque pattern unique to the user, the primary color of which is usually the same as the normal eye color.
@@ -103,8 +103,8 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 > Neloth's warding skills rely on physically written runic systems, meaning these skills require extensive time to deploy. However, if Neloth has the chance to decide where a fight happens ahead of time, they can be incredibly powerful. How far the script extends depends on the ward; generally, the *more* script there is, the more powerful the ward. However, more script also requires longer to set up and can be more susceptible to damage, which means *even more* time is needed to build in failsafes and safety measures.
 > 
 > - **Reinforcing Wards**
-> Used to fortify pre-existing structures. Will typically be able to defend against six or eight Mid-B level attacks before the wards fail. Undisturbed wards, unpowered by a Wardstone, will typically last a week without upkeep before they begin to unravel.
-> The inclusion of a Wardstone vastly upgrades their defensive capabilities. When powered by a Wardstone, they become a **permanent structure** and will not unravel over time. The Wardstone also allows them to gradually recharge over the course of a day or two; they can now also defend against eight or ten Mid-B level attacks.
+> Used to fortify pre-existing structures. Will typically be able to defend against four to six Mid-B level attacks before the wards fail. Undisturbed wards, unpowered by a Wardstone, will typically last a week without upkeep before they begin to unravel.
+> The inclusion of a Wardstone vastly upgrades their defensive capabilities. When powered by a Wardstone, they become a **permanent structure** and will not unravel over time. The Wardstone also allows them to gradually recharge over the course of a day or two; they can now also defend against six to eight Mid-B level attacks.
 > <br>
 > - **Obfuscation Wards**
 > Used to prevent a location or structure from being found by unwanted guests. This doesn't hide the location or structure from sight, rather, it prevents the location from being *noticed*. A building hidden by an Obfuscation ward will appear entirely normal, and *just* unnotable enough to not warrant investigation. Though not impenetrable, Neloth knows how to avoid making them obvious.
@@ -144,7 +144,7 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 > - Loss of access to Meshokyo & it's forms (+4 turns post Dance)
 > - Increase in physical strength and speed (by roughly one third)
 >
-> **µ Ablation of Limitation** (Offense || Bone, **Underworld**)
+> **µ Ablation of Limitation** (Offense, Passive || Bone, **Underworld**)
 >> Neloth's power over his bones increases dramatically during **Dance with the Devil**. Increases in the following can be noted: rate of production, physical strength, and range at which he can manipulate it. Range has increased to a 15m radius.
 >> Neloth can utilize his own skeletal structure such that his every limb becomes a bladed implement. Spikes and bullets of bone may emerge from any point of his body, at any time, at incredible speed. 
 >> 
