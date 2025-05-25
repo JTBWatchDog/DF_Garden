@@ -117,13 +117,13 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 >> 
 >> A completed Wardstone, until destroyed or otherwise removed, **becomes a permanent feature of its location.** A quality wards can last anywhere from 6 months to multiple years.
 
-» Earthworks (Self || Earth)
+**» Earthworks** (Self || Earth)
 > Neloth's ability to bend soil, rock, and cement to his will. This is tied to his physical ability: to move the earth he must move his body. He can manipulate earth consistently within 3m of himself. Any increase in distance beyond this will increase the required effort exponentially. While using Earthworks Neloth cannot concentrate on other spells. 
 > 
 > While he can suspend earth in the air this can, very quickly, become quite taxing on his body and his mana reserves. Re-shaped earth may be affected by the wards and spell formula at Neloth's disposal.
 > It should also be noted Neloth's proficiency with this ability can be described as "below average"; even C rank Earth magi may be able to wrest away control of his Earthworks.
 
-» Formula Expertise (Self || N/E)
+**» Formula Expertise** (Self || N/E)
 > Neloth's experience with spell formula is not to be trifled with. Though they take time to deploy these magic formula allow him to shape the battle to his whim. On the other hand, these formula can be easy to disrupt; safeguards and redundancies may be deployed, but take vastly more time.
 > 
 > - Creation of Storage seals 
@@ -131,6 +131,14 @@ While active, the user gains the ability to see magic as well as a greatly enhan
 > 
 > - Explosive tags
 > Allows Neloth to create paper bombs. The strength limit of these is still untested, but magic demand increases. Complexity and size, and thus the time required to create, increase in exponential steps. Paper bombs become easier to sense the larger they are. May be detonated remotely up to a range of 20m, or created with a timed fuse.
+> **µ Hellish Rites** (Support || N/E)
+>> A collection of rituals which Neloth can perform. These can only be used outside of combat. 
+>> 
+>>- Scry
+>>  Neloth prepares a basin whose rim is marked with a magic circle before filling it with water. Once a basin is made it can be used repeatedly. With the correct incantation, Neloth can remotely view any location or person he has already seen; persons or locations which he has not seen will appear gray and featureless. This is, however, the weakest form of scrying for two reasons: It is easy for most magi to sense, and easy for any even remotely capable magi to block. With the inclusion of a DNA sample of the target person, it becomes harder to detect and block. The strength of the sample matters. The strongest sample is blood.
+>>- Sealing Pact
+>>  Neloth has the ability to make arcane pact with others. When doing such, he must verbally state the terms of the deal, and all other parties must verbally agree. This is sealed by a black flame enveloping his left hand before all parties shake. 
+>>  This Pact is magically binding, and all parties will be compelled to uphold their side of the deal. This compulsion is impossible for B rank magi and below to overcome without specialized abilities designed to erase such a condition. However when the Pact is broken, it *will* have consequences even under the best of circumstances. The best outcome is that the offending party's magic becomes hindered for 3-7 days, but may cause penalties as severe as debilitating sickness. (This relies on the character's author to determine a proper backlash.) 
 
 **» Dance with the Devil** (Offense || **Underworld**)
 > This spell occupies two slots.
