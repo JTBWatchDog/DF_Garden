@@ -35,7 +35,7 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 > As arcane Pressure increases, her aura will increase in intensity until it burns white at level 12. Extends .3m around her body passively.
 > 
 > **µ Kickstart** (Self | Fire)
->> This can only be used when she first activates Arcana Augere. Upon activating Augere, she can choose whether or not to use "Kickstart". This allows her to begin with level 4 Pressure instantly, at the cost of instantly creating 5 levels of Heat. 
+>> This can only be used when she first activates Arcana Augere. Upon activating Augere, she can choose whether or not to use **Kickstart**. This allows her to begin with level 4 Pressure instantly, at the cost of instantly creating 5 levels of Heat. 
 >
 > **µ Envelopment** (Support | Fire)
 >> Reguires level 4 Pressure to activate, consumes 2 per turn. Can be activated for as much time as Ava desires, including being pulsed. No matter how briefly, it will always consume 2 levels on activation.
