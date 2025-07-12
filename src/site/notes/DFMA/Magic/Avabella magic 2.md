@@ -30,7 +30,7 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 #### ¶ Techniques
 
 **» Blazing Aura** (Defense, Passive | Fire)
-> Occupies two mainline slots.
+> **Occupies three mainline slots.**
 > **Blazing aura** is an adaptation of Arcana Augere developed by Avabella. The aura is transmuted into fire. This acts as a passive layer of defense of course, but improves the efficiency of her spells by allowing her to use the aura as a fire source. By adding this onto her excellent **Regulation**, she has made the passive mana loss of Augere irrelevant. In this aspect, she has perfected Augere magic.
 > As arcane Pressure increases, her aura will increase in intensity until it burns white at level 12. Extends .3m around her body passively.
 > 
@@ -38,7 +38,7 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 >> This can only be used when she first activates Arcana Augere. Upon activating Augere, she can choose whether or not to use **Kickstart**. This allows her to begin with level 4 Pressure instantly, at the cost of instantly creating 5 levels of Heat. 
 >
 > **µ Envelopment** (Support | Fire)
->> Reguires level 4 Pressure to activate, consumes 2 per turn. Can be activated for as much time as Ava desires, including being pulsed. No matter how briefly, it will always consume 2 levels on activation.
+>> Requires level 4 Pressure to activate, consumes 2 per turn. Can be activated for as much time as Ava desires, including being pulsed. No matter how briefly, it will always consume 2 levels on activation.
 >> Forgoes the passive defense and offensive-efficiency utility her aura normally provides to, instead, spread it into a 6m diameter sphere around her. Being spread so thin, it can't burn anything. Instead, Ava can sense any magical thing within the bounds of the sphere so long as **Envelopment** is active.
 >
 > **µ Feohte wiþ þone Dracan** (Offense, Passive | Fire) (or "Fight with the Dragon")
@@ -50,11 +50,16 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 >> Creates a spiraling beam of fire 1m in diameter, which pursues the target relentlessly until it either hits or is destroyed.
 >
 > **µ Phoenix Flower Burst** (Offense | Fire)
->> Requires 4 levels of Pressure, consumes 4.
+>> Requires level 4 Pressure, consumes 4.
 >> Using her aura as the source she creates 4 fireballs, each the size of a basketball. They'll spin around her idly, where she can fire them at will. Upon coming within 1m of an enemy target or hitting a surface, they'll explode with a radius of 2m. Only four may exist at a time.
 >
 > **µ Phoenix Song** (Offense | Fire)
->> Requires 2 levels of Pressure, consumes 2.
+>> Requires level 2 Pressure, consumes 2.
 >> Combining **Suppression** and **Enhancement**, Ava concentrates her aura into her lungs. The aura will disappear externally, as all of it is instead forced into her lungs. Her chest will visibly expand, before she unleashes a fire breath attack. She can focus it as she wills, either attacking a large area (6m long, 6m wide cone) or creating a highly pressurized stream of fire (10m long, 1m wide cone.) 
 >> This attack can be used multiple times in rapid succession, but will be disabled for 3 turns after she stops concentrating her aura into her lungs.
-
+>
+>**µ Phoenix Power: Deflect** (Defense | Fire) 
+>> Requires level 6 Pressure, consumes 2. Creates an extra level of Heat on use. Disabled for 4 turns after use.
+>> Combining **Suppression** and **Enhancement**, Ava seals her aura within before releasing it from one of her limbs, creating an explosion. She can use this to deflect most attacks, regardless of type or element; though element *will* still be a factor generally, because of the sheer concussive force produced, it plays less of a role. It should be noted, **Deflect** has strict timing requirements on its use. If timed even slightly wrong it has the chance to fail. 
+>
+>
