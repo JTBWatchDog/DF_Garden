@@ -61,5 +61,3 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 >**µ Phoenix Power: Deflect** (Defense | Fire) 
 >> Requires level 6 Pressure, consumes 2. Creates an extra level of Heat on use. Disabled for 4 turns after use.
 >> Combining **Suppression** and **Enhancement**, Ava seals her aura within before releasing it from one of her limbs, creating an explosion. She can use this to deflect most attacks, regardless of type or element; though element *will* still be a factor generally, because of the sheer concussive force produced, it plays less of a role. It should be noted, **Deflect** has strict timing requirements on its use. If timed even slightly wrong it has the chance to fail. 
->
->
