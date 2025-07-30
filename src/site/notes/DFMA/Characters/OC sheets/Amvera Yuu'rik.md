@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Amvera-Yuurik.md","dg-permalink":"DFMA/Characters/Amvera-Yuurik","permalink":"/DFMA/Characters/Amvera-Yuurik/","title":"Amvera Yuurik"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Yuurik-Amvera.md","dg-permalink":"DFMA/Characters/Yuurik-Amvera","permalink":"/DFMA/Characters/Yuurik-Amvera/","title":"Amvera Yuurik"}
 ---
 
 |      Name      |      Age       | Sex |          Species          | Mage Rank | Affiliations & Rank |
@@ -34,14 +34,21 @@ $\quad$She can't say how much sleep she and Afuro both lost. (Logan went on bein
 $\quad$
 
 
-### Magic Name:
-Overall place in type triad:
-Elemental Properties:
-OC Using this magic:
-#### Description
+### ✦ Magic Name:
+Overall place in type triad: Offense 
+Elemental Properties: Fire, Wood(Earth), Wind || **Underworld**
+#### ¶ Description
 
 
-#### Techniques
+On Wildfyre:
+> Wildfyre is a variant of Fiendfyre unique to Amvera. After college, in long hours of meditation she was transported to another plane; here, she awakened Fiendfyre within her. Amvera took that flame, beyond control, and bent it to heel. Thus Wildfyre was born.
+> Wildfyre, while easier to control, creates a byproduct of "daemonic flux" when used; this is a type of mana that is corrosive, and cannot be used in regular spellcasting. Amvera can hold 4 charges of flux before taking damage over time, increasing exponentially with each charge. Expelling a charge of flux takes one turn, and takes part of her attention away from other spellcasting.
+
+#### ¶ Techniques
 
 
-### Gear
+### ✦ Gear
+#### ¶ Shiva
+Elemental properties: 
+Catalyst: **Y**
+> 
