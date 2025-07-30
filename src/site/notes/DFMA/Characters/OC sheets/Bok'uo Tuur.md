@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Bokuo-Tuur.md","dg-permalink":"DFMA/Characters/Bokuo-Tuur","permalink":"/DFMA/Characters/Bokuo-Tuur/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Tuur-Bokuo.md","dg-permalink":"DFMA/Characters/Tuur-Bokuo","permalink":"/DFMA/Characters/Tuur-Bokuo/"}
 ---
 
-
+Test 
 
 | **Male Akerr Drake, Age:** 27 | **Dragonfall Freshman** |
 | :---------------------------- | :---------------------- |
