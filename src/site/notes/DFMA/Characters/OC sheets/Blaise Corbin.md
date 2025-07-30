@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Blaise-Corbin.md","dg-permalink":"DFMA/Characters/Blaise-Corbin","permalink":"/DFMA/Characters/Blaise-Corbin/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Corbin-Blaise.md","dg-permalink":"DFMA/Characters/Corbin-Blaise","permalink":"/DFMA/Characters/Corbin-Blaise/"}
 ---
 
 
