@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"DFMA/Characters/Avabella-Hawthorne.md","dg-permalink":"DFMA/Characters/Hawthorne-Avabella","permalink":"/DFMA/Characters/Hawthorne-Avabella/"}
+{"dg-publish":true,"dg-path":"DFMA/Characters/Hawthorne-Avabella.md","dg-permalink":"DFMA/Characters/Hawthorne-Avabella","permalink":"/DFMA/Characters/Hawthorne-Avabella/"}
 ---
 
 
