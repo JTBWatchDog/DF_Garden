@@ -13,6 +13,7 @@
 | **Height**    | **Weight**    | **Hair Color**: [Spanish Red](https://en.wikipedia.org/wiki/Shades_of_red#Spanish_red) |
 | ------------- | ------------- | -------------------------------------------------------------------------------------- |
 | 5'10<br>178cm | 172lb<br>78kg | **Eye color**: [Old Rose](https://en.wikipedia.org/wiki/Shades_of_red#Old_rose)        |
+
 The left side of Avabella's face is covered in scars, old wounds dealt by a cursed blade which can never be healed. They have to be cleaned every day. They still burn. The scars also trail down the left side of her neck, parts of her left shoulder, and a small area on the left side of her chest. 
 She wears a white halfmask and neck covering to hide the scars. 
 
