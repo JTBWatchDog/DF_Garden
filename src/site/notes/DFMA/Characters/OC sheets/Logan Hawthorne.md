@@ -31,14 +31,16 @@ Soon after graduating, in AE694 he joined the ATDF.
 Soon afterward he transferred to a Diagonal which had jurisdiction over the cultural region of Acuria, for a particular reason: He'd heard of a particular mystic group, through the grapevine; rumor said they could rewire the senses.
 It was fascinating enough that he had to investigate. He spent several years in the region — This is how he learned the *One True Sense* technique — before he transferred back to Dragonfall in AE702 as a Knight under Alessia Gataki. This was 7 years before Ignis Alston's attack on Dragonfall.
 
-Logan remembers exactly where he was that day. 
+Logan doesn't remember exactly where he was that day, but he knew he was off duty. He felt it long before it happened. He remembers sprinting outside, screaming, and overloading his spell "Thundael Protects" just enough that he barely prevented the buildings behind and around him from being obliterated.
+His memory stops being coherent after he reconnects with his diagonal. The only thing he can remember clearly is pain from mana over-exhaustion; when he ran out of mana, his body began consuming itself to continue powering his spells. He was told, after the fact, that he only collapsed once everything was over. 
+It took him two months to fully recover. 
 
-
+Despite his misgivings Alessia eventually chose Logan to succeed her.  
 ### ✦ Magic Name: Gulthan Ūle
 Overall place in type triad: Defense 
 Elemental Properties: Lightning, Psychic
 #### ¶ Description
-Logan's expertise in Runic systems, namely Sadyarushk, is one of his greatest assets as a Rook. Theoretically, if left to his devices for long enough, Logan could create a runic matrix to solve any situation; in reality, not so much.
+Logan's expertise in Runic systems, namely Sadyarushk, is one of his greatest assets as a Rook. Theoretically, if left to his devices for long enough, Logan could create a runic matrix to solve any situation; in reality, maybe not.
 *One True Sense* and his runic expertise mesh together exceptionally well, allowing him to discern the functionality of enemy enchantments so as to counter them. 
 His defensive capabilities, combined with his enhanced mobility, enable him to make sure everyone comes home alive.
 #### ¶ Techniques
@@ -75,7 +77,7 @@ $\quad$
 > Logan has several techniques in his arsenal under this umbrella term. All of them use rune matrices in some way. 
 > The first and simplest of these is "Thundael Protects" —
 > Logan points Thundael forward and channels his psionic might through the blade, while simultaneously, a well memorized runic circle is carved into the air. A concave circular shield is created from the blades tip. 
-> Thundael as a catalyst and the stance of pointing it forward as a somatic component are the only requirements. While it is incredibly quick to engage and cheap to use, it is not notably powerful.
+> Thundael as a catalyst and the stance of pointing it forward as a somatic component are the only requirements. While it is incredibly quick to engage and cheap to use, it is not notably powerful. Technically speaking though, there is no limit to the power he can pour into it.
 > $\quad$
 > **µ Nexal Reinforcement** (Defense || Psy, Lightning)
 >> Logan can reinforce pre-existing structures by applying to it a rune matrix with a diameter the size of his fully spread hand. Logan must keep his hand on the structure for 6 turns to do so, as the matrix is incredibly dense. Cost scales with strength. While it can technically endure for a very long time, it cannot be recharged and only has a certain storage capacity. This is most effective against energy-based attacks, allowing structures (like critical infrastructure) to endure an attack that would actually just vaporize them.
