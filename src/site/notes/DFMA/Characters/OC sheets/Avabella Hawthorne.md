@@ -22,7 +22,7 @@ She wears a white halfmask and neck covering to hide the bandages.
 
 Personality: 
 Avabella has grown quieter over the years, the brashness of youth having gave way to shrewdness, transformed by the weathering sands of time. Yet she's still not very patient. Yet she's still loud. Yet her spirit still burns fiercely, unquenchable; Yet, she is wounded.
-Avabella likes to keep people at arm's length; despite this, what she wants most is to prevent that which happened to her.
+Avabella likes to keep people at arm's length; more than this though, what she wants most is to prevent that which happened to her.
 Likes/Dislikes:
 Nowadays she can be alone without being uncomfortable, sometimes she prefers privacy to company, if not all the time. Nowadays her social battery is just smaller. Once upon a time she wanted to have company 24/7, but not anymore. She hates being clingy people and being rushed. She can't stand people pleasers. 
 
@@ -69,7 +69,7 @@ The demons voice was like the wind, not quite sound, whispering across barren sa
 And the word of the demon was desolation. 
 She fell to her knees. What it said to her, she would not ever be able to recall. 
 
-It lunged. Ensnared by the demon as they were, nobody moved to help her, not even Logan. Not even Logan, the one person who should've been able to.
+It lunged. Ensnared by the demon as they were, nobody moved to help her, not even Logan. Not even Logan, the *only* one of them she was supposed to be able to rely on in that moment. When everyone else was frozen, *he* should've been able to do something. But he didn't.
 The only person who saved her, was herself. She barely moved in time to save her life, but every day she still feels where Flauros' claws ran through her face. Every day, she still must tend and clean the wounds which refuse to heal. 
 
 Ava spent a year in the hospital. She refused to see Logan. Every healing attempt failed. Immediately upon leaving the hospital, she resigned from the ATDF. She hasn't spoken to Logan since then.
