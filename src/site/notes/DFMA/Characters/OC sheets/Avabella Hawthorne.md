@@ -72,7 +72,7 @@ She fell to her knees. What it said to her, she would not ever be able to recall
 It lunged. Ensnared by the demon as they were, nobody moved to help her, not even Logan. Not even Logan, the one person who should've been able to.
 The only person who saved her, was herself. She barely moved in time to save her life, but every day she still feels where Flauros' claws ran through her face. Every day, she still must tend and clean the wounds which refuse to heal. 
 
-Ava spent a year in the hospital. She refused to see Logan. Every healing attempt failed. Immediately upon leaving the hospital, she resigned from the ATDF.
+Ava spent a year in the hospital. She refused to see Logan. Every healing attempt failed. Immediately upon leaving the hospital, she resigned from the ATDF. She hasn't spoken to Logan since then.
 Not very long after, she started seeking to become a Professor at DFMA.
 ### ✦ Magic Name: White Phoenix 
 Overall place in type triad: Offense
