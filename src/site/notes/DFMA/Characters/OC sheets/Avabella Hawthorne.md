@@ -4,9 +4,9 @@
 
 
 
-| **Female, Human, Age**: 57 | **DFMA Combat Instructor** |
-| -------------------------- | -------------------------- |
-| **DOB**: March 16th, 670   | **Mage Rank**: B           |
+| **Female, Human, Age**: 57 | **DFMA Combat Prowess Professor** |
+| -------------------------- | --------------------------------- |
+| **DOB**: March 16th, 670   | **Mage Rank**: B                  |
 
 ### ✦ Appearance 
 
@@ -14,17 +14,17 @@
 | ------------- | ------------- | -------------------------------------------------------------------------------------- |
 | 5'10<br>178cm | 172lb<br>78kg | **Eye color**: [Old Rose](https://en.wikipedia.org/wiki/Shades_of_red#Old_rose)        |
 
-The left side of Avabella's face is covered in scars, old wounds dealt by a cursed blade which can never be healed. They have to be cleaned every day. They still burn. The scars also trail down the left side of her neck, parts of her left shoulder, and a small area on the left side of her chest. 
-She wears a white halfmask and neck covering to hide the scars. 
+The left side of Avabella's face is covered in wounds which can never be healed. They have to be cleaned every day. They still burn. They trail down the left side of her neck, parts of her left shoulder, and a small area on the left side of her chest. 
+She wears a white halfmask and neck covering to hide the bandages.
 
 
 ### ✦ Info
 
 Personality: 
 Avabella has grown quieter over the years, the brashness of youth having gave way to shrewdness, transformed by the weathering sands of time. Yet she's still not very patient. Yet she's still loud. Yet her spirit still burns fiercely, unquenchable; Yet, she is wounded.
-Avabella likes to keep people at arm's length.
+Avabella likes to keep people at arm's length; despite this, what she wants most is to prevent that which happened to her.
 Likes/Dislikes:
-Nowadays she can be alone without being uncomfortable, sometimes she prefers privacy to company but not all the time. Nowadays her social battery is just smaller. Once upon a time she wanted to have company 24/7, but not anymore. She hates being clingy people and being rushed. She can't stand people pleasers. 
+Nowadays she can be alone without being uncomfortable, sometimes she prefers privacy to company, if not all the time. Nowadays her social battery is just smaller. Once upon a time she wanted to have company 24/7, but not anymore. She hates being clingy people and being rushed. She can't stand people pleasers. 
 
 #### ¶ Backstory
 Her twin brother Logan was the only Hawthorne kid of their generation that matched her in intellect; prodigal twins, of equal level. Each displayed an affinity for magic early on, Ava to fire and Logan to electricity. 
@@ -44,10 +44,36 @@ Fast forward almost seventeen years. You aren't missing much. It's Winter of AE7
 Avabella is now a Bishop of his diagonal. He always was better at strategy, she at tactics, and she was fine with that. She was fine with that at the time, anyway. She's getting ahead of herself. It's December 15th, the coldest day Dragonfall had seen that year. 
 For the past two months, the city had been plagued by the plot of some demonic cult. At the time, they estimated it had anywhere between ten and thirty members. Disappearances, ritualistic murders, among other gruesome crimes. The bodies could best be described as corrupted and defiled. It was not a sight for anyone with a weak stomach. Hazmat teams were the only ones cleared to go within six feet of a discovered case; it didn't *seem* to spread, but that wasn't a chance anyone wanted to take least of all Logan, who was still quite a recently appointed Rook. The cult's capabilities still weren't truly known.
 
-Last week, they had narrowed down the cult's base of operations to four possible locations. Yesterday, they had narrowed it down to one. Surveillance began. It's still not known how, but the cult caught on. Somehow, the cult knew they were watching. At 4 in the morning, some 30 people entered the base; this was more than enough to raise alarms. By 5, none of them had left.
+Last week, they had narrowed down the cult's base of operations to four possible locations. Yesterday, they had narrowed it down to one. Surveillance began. It's still not known how, but the cult caught on. Somehow, the cult knew they were watching. At 4 in the morning, some 30 people entered the base; this was more than enough to raise alarms. Even an hour later, nobody had come out of the building.
 So, at 6 in the morning, Logan and his diagonal struck.
 
+The operation started out fine. A lot of the cultists weren't magi, wielding (presumably) enchanted weapons that still couldn't penetrate their armor. Those that were, were C or D rank. Nothing unexpected; threats like these always folded when they met direct opposition. Logan believed, justifiably so, this would be the limit of the threat. They proceeded under this supposition.
+As for the base, it was nothing unprecedented. Stereotypical, really, until they got deeper in.
+They had dug beneath the foundation of the building. Beneath it, Logan said he couldn't sense anything: it was a complete null zone. There wasn't time to neutralize it, he said. After all, they were clearly up to something. It would be safer to stop it sooner rather than later, he said.
+However, without his sensory abilities, Logan decided it would be best if he didn't take point going into the null zone, and Ava should take point instead. 
 
+That was their first mistake, and it's on both of them really. He was shaken by it, being blind, not able to be three steps ahead like he always was. Even if she didn't recognize it back then, seeing him like that unsettled her too. It wasn't really the time or place to question him either; that was her thinking at the time.
+It was a disaster.
+
+A spiraling stairwell carved down through the foundation and the earth, barely large enough at any point for one person, for fifty feet maybe. At the bottom, it opened into a large chamber.
+Contained therein; surrounded by the cult, and half of them dead; was a demon.
+
+There was no way they could have known what lied in wait for them.
+There in the center of the chamber, was an incomplete but unbound manifestation of the greater demon Flauros.
+
+It took a form like a humanoid leopard, made of flames the color of malachite. Its limbs were long and and thin. Its claws — and the eyes likewise — burned white, iridescent like an oily film, hissing and bubbling with alchemical fire. With its wings like the brittle leaves of a dead tree it covered its narrow and starved abdomen. 
+
+It looked to her. It spoke to her. 
+
+The demons voice was like the wind, not quite sound, whispering across barren salted soil. 
+And the word of the demon was desolation. 
+She fell to her knees. What it said to her, she would not ever be able to recall. 
+
+It lunged. Ensnared by the demon as they were, nobody moved to help her, not even Logan. Not even Logan, the one person who should've been able to.
+The only person who saved her, was herself. She barely moved in time to save her life, but every day she still feels where Flauros' claws ran through her face. Every day, she still must tend and clean the wounds which refuse to heal. 
+
+Ava spent a year in the hospital. She refused to see Logan. Every healing attempt failed. Immediately upon leaving the hospital, she resigned from the ATDF.
+Not very long after, she started seeking to become a Professor at DFMA.
 ### ✦ Magic Name: White Phoenix 
 Overall place in type triad: Offense
 Elemental Properties: Fire
