@@ -22,7 +22,7 @@ She wears a white halfmask and neck covering to hide the bandages.
 
 Personality: 
 Avabella has grown quieter over the years, the brashness of youth having gave way to shrewdness, transformed by the weathering sands of time. Yet she's still not very patient. Yet she's still loud. Yet her spirit still burns fiercely, unquenchable; Yet, she is wounded.
-Avabella likes to keep people at arm's length; more than this though, what she wants most is to prevent that which happened to her.
+Avabella likes to keep people at arm's length; more than this though, what she wants most is to prevent that which happened to her from happening to others.
 Likes/Dislikes:
 Nowadays she can be alone without being uncomfortable, sometimes she prefers privacy to company, if not all the time. Nowadays her social battery is just smaller. Once upon a time she wanted to have company 24/7, but not anymore. She hates being clingy people and being rushed. She can't stand people pleasers. 
 
