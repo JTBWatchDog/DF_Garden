@@ -70,7 +70,8 @@ And the word of the demon was desolation.
 She fell to her knees. What it said to her, she would not ever be able to recall. 
 
 It lunged. Ensnared by the demon as they were, nobody moved to help her, not even Logan. Not even Logan, the *only* one of them she was supposed to be able to rely on in that moment. When everyone else was frozen, *he* should've been able to do something. But he didn't.
-The only person who saved her, was herself. She barely moved in time to save her life, but every day she still feels where Flauros' claws ran through her face. Every day, she still must tend to and clean the wounds which refuse to heal. 
+The only person who saved her, was herself. She barely moved in time to save her life, but every day she still feels where Flauros' claws ran through her face. Every day, she still must tend to and clean the wounds which refuse to heal.
+She doesn't remember much more of that day.
 
 Ava spent a year in the hospital. She refused to see Logan. Every healing attempt failed. Immediately upon leaving the hospital, she resigned from the ATDF. She hasn't spoken to Logan since then.
 Not very long after, she started seeking to become a Professor at DFMA.
