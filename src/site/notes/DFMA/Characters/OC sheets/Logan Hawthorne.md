@@ -75,7 +75,7 @@ He had her extracted while he and his diagonal held back the demon, retreating b
 Logan could never get Avabella to see him or talk to him again, after that. Even while she was in the hospital, she refused to see him.
 He doesn't blame her.
 
-Logan's grown better into his position since then. He had to; it was the only way he could possibly go on living.
+Logan's grown better into his position since then. He had to obviously; it was the only way he could possibly go on living, let alone keep his position.
 
 ### ✦ Magic Name: Gulthan Ūle
 Overall place in type triad: Defense 
