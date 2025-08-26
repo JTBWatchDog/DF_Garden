@@ -16,8 +16,9 @@
 Logan is very stocky with thick, powerful but not fully lean musculature. He also has a small forehead. His eyes are sharp and piercing, when not offset by a more pleasant expression. He often keeps his mid-back length hair in a french braid.
 
 ### ✦ Info
-**Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be really fucking goofy. He's good at knowing the right time to crack a joke. He holds himself to the highest standard, but at the same time at least tries to avoid working himself to death. He knows very well what he is and isn't capable of; he just worries about the eventuality of him not being enough. Who wouldn't?
-**Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee. Is really into civil engineering.
+**Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be goofy. Sometimes, it's a mask. He's good at knowing the right time to crack a joke. He holds himself to the highest standard, but at the same time at least tries to avoid working himself to death. He now knows very well what he is and isn't capable of; he has to. Any doubts or flaws he had before, as a fresh Rook, he had to kill with all vehemence. 
+It was the only way he could go forward. 
+**Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee. Is really into civil engineering. 
 
 #### ¶ Backstory
 His twin sister Avabella was the only Hawthorne kid of their generation that matched him in intellect; prodigal twins, of equal level. Each displayed an affinity for magic early on, Logan to electricity and Ava to fire. 
@@ -36,9 +37,9 @@ His memory stops being coherent after he reconnects with his diagonal. The only 
 It took him a month to fully recover. 
 
 Despite his misgivings Alessia eventually chose Logan to succeed her.
-Going forward, thinking back on it, maybe he should've listened to his gut instinct. Maybe he should've waited. He didn't feel ready in the slightest for such a massive responsibility, even months later; but that just came with the mantle, he supposed. He didn't know what was in store for them.
+Going forward, thinking back on it, maybe he should've listened to his gut instinct. Maybe he should've waited. He didn't feel ready in the slightest for such a massive responsibility; but that just came with the mantle, he supposed. He didn't know what was in store for them.
 
-AE710, a two months after Ignis' attack, signs of a cult began popping up; it had been brewing for even longer, almost certainly, but for one reason or another it only started picking up steam after the attack. First it was disappearances, then they got bolder. They began performing ritualistic murders, leaving behind bodies that could only be described as "desecrated, befouled, and corrupted".
+AE710, two months after Ignis' attack, signs of a cult began popping up; it had been brewing for even longer, almost certainly, but for one reason or another it only started picking up steam after the attack. First it was disappearances, then they got bolder. They began performing ritualistic murders, leaving behind bodies that could only be described as "desecrated, befouled, and corrupted".
 It was possible — unlikely, *highly* unlikely even, but possible — that the desecrated bodies were hazardous, or toxic, or whatever. It made him uneasy. He declared every case of these ritualistic murders had to be handled by hazmat teams; even when evidence started to point to the unlikelihood of the corruption being contagious, he didn't want to take the risk. 
 It made them slower than they would've been otherwise, if he'd lifted the quarantine. It's very likely they could've made more progress, sooner. 
 That was the first of his many mistakes in this case. But the worst was yet to come.
@@ -54,7 +55,27 @@ They'd narrowed the cult's possible base locations down to one. But those bastar
 By 4 in the morning, some thirty people had entered the base location. Everyone was roused immediately, once the tenth person had entered. By 5, no one had left the location. He should've been more cautious; it was fucking weird. More than anyone else, Logan, *Logan* should have seen it: They figure out where the base is, then, *suddenly*, the whole cult convenes. With a clearer mind, he *would* have seen it for what it was. Of course, this is hindsight again.
 At 6 in the morning, they attacked the cult's base.
 
+At the start, for the most part, everything was fine. Most of the members were nonmagi, wielding enchanted weapons not advanced enough to deal with the strength of a diagonal. This was to be expected. What was not expected, as they cleared through the base, was a tunnel. The cult had dug beneath the foundations of the building.
+Underneath, Logan couldn't sense anything. It was a complete arcane sensory null zone. They didn't have time to dismantle it; the cult could be preparing anything down there, and they had to stop whatever it was. Without his ace, his sensory prowess, it made sense to Logan to put Avabella in front, in what would usually be his place. 
+In truth, he was scared; but this also is hindsight. Back then, as a fresh Rook, he didn't offer himself such luxuries as "fear". Another mistake for the pile, this one almost the worst.
 
+A spiraling stairwell carved down through the foundation and the earth, barely large enough at any point for one person, for fifty feet maybe. At the bottom, it opened into a large chamber.
+Contained therein — surrounded by the cult, and half of them dead — was a demon.
+
+Its body was semi-amorphous, made of green fire but taking the vague shape of a humanoid leopard. Its limbs were gangling and angular. The surface of the flames glistened, as if covered in oil. When it moved, the light of the flames bent and refracted, casting dizzying green patterns across its surroundings. 
+Its presence alone almost made him vomit, cutting through the sensory null field now that he was "closer"; "closer" being relative, they were some twenty feet away. Even that far away, and with the suffocating blanket of the null field... He almost ran.
+
+Then it turned. Its eyes were white beneath the miasmatic film. With its wings, wings thin and brittle like dead bramble, it covered its gaunt abdomen. Later, it would be identified as the greater demon Flauros.
+
+It spoke to him, in a voice like the dying gasp of a man. It was his own voice. 
+And the word of the demon was desolation. What it said, he would never be able to recall. Even in its absence, brain refusing to remember, the wounds of the word are forever.
+
+Despite everything, Logan should've done more. Out of everyone there, he's the one who shouldn't have froze. He was terrified, and in the worst possible moment, he froze; and for that Ava almost died. His fuck up got her grievously injured and almost killed. His fuck up.
+He had her extracted while he and his diagonal held back the demon, retreating back up the staircase. With time and backup, they were able to defeat it.
+Logan could never get Avabella to see him or talk to him again, after that. Even while she was in the hospital, she refused to see him.
+He doesn't blame her.
+
+Logan's grown better into his position since then. He had to; it was the only way he could possibly go on living.
 
 ### ✦ Magic Name: Gulthan Ūle
 Overall place in type triad: Defense 
