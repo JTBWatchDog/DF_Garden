@@ -33,12 +33,12 @@ It was fascinating enough that he had to investigate. He spent several years in 
 
 Logan doesn't remember exactly where he was that day, but he knew he was off duty. He felt it long before it happened. He remembers sprinting outside, screaming, and overloading his magic just enough that he barely prevented the buildings behind and around him from being obliterated.
 His memory stops being coherent after he reconnects with his diagonal. The only thing he can remember clearly is pain from mana over-exhaustion; when he ran out of mana, his body began consuming itself to continue powering his spells. He was told, after the fact, that he only collapsed once everything was over. 
-It took him two months to fully recover. 
+It took him a month to fully recover. 
 
 Despite his misgivings Alessia eventually chose Logan to succeed her.
 Going forward, thinking back on it, maybe he should've listened to his gut instinct. Maybe he should've waited. He didn't feel ready in the slightest for such a massive responsibility, even months later; but that just came with the mantle, he supposed. He didn't know what was in store for them.
 
-AE710, a month or two after Ignis' attack, signs of a cult began popping up; it had been brewing for even longer, almost certainly, but for one reason or another it only started picking up steam after the attack. First it was disappearances, then they got bolder. They began performing ritualistic murders, leaving behind bodies that could only be described as "desecrated, befouled, and corrupted".
+AE710, a two months after Ignis' attack, signs of a cult began popping up; it had been brewing for even longer, almost certainly, but for one reason or another it only started picking up steam after the attack. First it was disappearances, then they got bolder. They began performing ritualistic murders, leaving behind bodies that could only be described as "desecrated, befouled, and corrupted".
 It was possible — unlikely, *highly* unlikely even, but possible — that the desecrated bodies were hazardous, or toxic, or whatever. It made him uneasy. He declared every case of these ritualistic murders had to be handled by hazmat teams; even when evidence started to point to the unlikelihood of the corruption being contagious, he didn't want to take the risk. 
 It made them slower than they would've been otherwise, if he'd lifted the quarantine. It's very likely they could've made more progress, sooner. 
 That was the first of his many mistakes in this case. But the worst was yet to come.
