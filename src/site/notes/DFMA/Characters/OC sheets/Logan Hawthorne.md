@@ -104,7 +104,7 @@ His defensive capabilities, combined with his enhanced mobility, enable him to m
 $\quad$
 > **µ Friction Control** (Self || Psy, Lightning)
 >> Allows Logan to control his friction with any and every surface individually. He can disable all friction with the ground while increasing friction with his sword, making it impossible for it to be knocked from his grasp. Thanks to ceaseless practice, this technique uses little mana.
->> Friction Control enabled Logan to move and reposition in ways that look comical, but are dangerously effective.
+>> Friction Control enables Logan to move and reposition in ways that look comical, but are dangerously effective.
 $\quad$
 > **µ Cicruit Break Riposte** (Defense || Psy, Lightning)
 >> Logan creates an electric circuit between him and his blade before taking up a defensive stance. When blocking an attack while Circuit Break is active, the electric circuit is disturbed. Logan must initiate Circuit Break one turn before it activates, and can maintain this defensive stance for up to two turns.
@@ -126,9 +126,10 @@ $\quad$
 >
 > **µ Brid's Emplacement** (Defense, Offense || Psy, Lightning)
 >> This is Logan's strongest ability. Logan creates a crystal lattice matrix of mana made physical, which acts as a temporary or "ghost" wardstone.  Creating **Brid's Emplacement** requires Logan's complete attention for six turns, during which any distraction will negate his progress. The matrix's construction will consume half of his total mana, and will take immediate effect after completion. 
->> The wardstone is intimately and wholly connected to his magic system: Logan is put into a state where he is rooted to where he stands, and all of his senses are greatly enhanced. His physical body becomes dormant. His feet cannot be removed from the ground. Around him is a faint blue barrier, 15m in diameter.
+>> The wardstone is intimately and wholly connected to his magic system: Logan is put into a state where he is rooted to where he stands, and all of his senses are greatly enhanced. His physical body becomes dormant. His feet cannot be removed from the ground. Around him is a thin, intangible blue barrier, 15m in diameter.
 >> Anywhere within the space of the barrier, Logan can manifest an electric avatar to either attack or defend; any damage dealt to the avatar is transferred directly to the Wardstone, in reduced amounts. The Wardstone will be destroyed immediately if attacked directly. If it's destroyed, Logan will be stunned and the spell will immediately end.
 >> It should be noted, the avatar is closer to the idea of puppet magic than astral projection — hence the range limitation. This is a well-kept secret, however.
+>> Since the avatar can manifest anywhere within the bounds of the barrier at any time, it can be considered to teleport; however, it can only ever be in one spot at once.
 
 **» Ward Creation** (Defense || Psy, Lightning)
 > Logan draws a runic circle in the air around an intended, usually friendly, target. A singular damage type to be protected against is specified, and an amount of mana is allocated to the spell. Then the Ward is finished.
