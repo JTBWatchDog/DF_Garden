@@ -17,7 +17,7 @@ Logan is very stocky with thick, powerful but not fully lean musculature. He als
 
 ### ✦ Info
 **Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be goofy. Sometimes, it's a mask. He's good at knowing the right time to crack a joke. He holds himself to the highest standard, but at the same time at least tries to avoid working himself to death. He now knows very well what he is and isn't capable of; he has to. Any doubts or flaws he had before, as a fresh Rook, he had to kill with all vehemence. 
-It was the only way he could go forward. 
+It was the only way forward. 
 **Likes/Dislikes**: Likes candy and sugary foods; enjoys a hobby of making candy. Hates coffee. Is really into civil engineering. 
 
 #### ¶ Backstory
@@ -75,7 +75,7 @@ He had her extracted while he and his diagonal held back the demon, retreating b
 Logan could never get Avabella to see him or talk to him again, after that. Even while she was in the hospital, she refused to see him.
 He doesn't blame her.
 
-Logan's grown better into his position since then. He had to obviously; it was the only way he could possibly go on living, let alone keep his position.
+Logan's grown better into his position since then. He had to obviously; it was the only way he could possibly go on living, let alone keep his position. 
 
 ### ✦ Magic Name: Gulthan Ūle
 Overall place in type triad: Defense 
@@ -128,6 +128,7 @@ $\quad$
 >> This is Logan's strongest ability. Logan creates a crystal lattice matrix of mana made physical, which acts as a temporary or "ghost" wardstone.  Creating **Brid's Emplacement** requires Logan's complete attention for six turns, during which any distraction will negate his progress. The matrix's construction will consume half of his total mana, and will take immediate effect after completion. 
 >> The wardstone is intimately and wholly connected to his magic system: Logan is put into a state where he is rooted to where he stands, and all of his senses are greatly enhanced. His physical body becomes dormant. His feet cannot be removed from the ground. Around him is a faint blue barrier, 15m in diameter.
 >> Anywhere within the space of the barrier, Logan can manifest an electric avatar to either attack or defend; any damage dealt to the avatar is transferred directly to the Wardstone, in reduced amounts. The Wardstone will be destroyed immediately if attacked directly. If it's destroyed, Logan will be stunned and the spell will immediately end.
+>> It should be noted, the avatar is closer to the idea of puppet magic than astral projection — hence the range limitation. This is a well-kept secret, however.
 
 **» Ward Creation** (Defense || Psy, Lightning)
 > Logan draws a runic circle in the air around an intended, usually friendly, target. A singular damage type to be protected against is specified, and an amount of mana is allocated to the spell. Then the Ward is finished.
