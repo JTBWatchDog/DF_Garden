@@ -13,8 +13,8 @@
 | ------------ | ------------- | ----------------------------------------------------------------------------- |
 | 5'5<br>165cm | 130lb<br>59kg | **Eye color**: [Maroon](https://en.wikipedia.org/wiki/Shades_of_brown#Maroon) |
 
-| **Fox Animalian**, blind, with natural red markings on the inside of his ears. These completely cover the insides of his ears, seeming to be fashioned after sacred geometry. He carries a staff at all times.  His eyes are complemented by rust red markings on his eyebrows and framed by his waist-length onyx black hair, the same color as his fur. He often braids it with magic, or keeps it in a bun using a simple **hair stick**.<br> | ![[il_570xN.png\|160]] |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| **Fox Animalian**, blind, with natural red markings on the inside of his ears. These completely cover the insides of his ears, seeming to be fashioned after sacred geometry. He carries a staff at all times.  His eyes are complemented by rust red markings on his eyebrows and framed by his waist-length onyx black hair, the same color as his fur. He often braids it with magic, or keeps it in a bun using a simple **hair stick**.<br> | ![il_570xN.png](/img/user/DFMA/Characters/OC%20sheets/il_570xN.png) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
 
 
 ### ✦ Info
