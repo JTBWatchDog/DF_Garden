@@ -67,7 +67,7 @@ If Avabella reaches a Heat level of 10, she will be immediately incapacitated as
 > This technique is not without consequences: After **Pyra** ends, she will be exhausted on a spiritual level and it cannot be used again for fourteen days. During this period, her max mana capacity will be reduced by one fourth and she can only produce a maximum Pressure level of 10. The maximum Heat level she can endure drops to 8. In addition, for 48 hours, healing magic will be half as effective on her. 
 > 
 > **µ Rupture (Offense | Fire)**
->> Requires level 4 Pressure, consumes 1 per use. 
+>> Requires level 6 Pressure, consumes 1 per use. 
 >> Avabella creates and throws a hyper-condensed "spark" of mana. This spark travels 2 meters per second and, upon making contact with anything, explodes into a column of fire 2m in diameter and 10m tall. This pillar will endure for one full turn. She can use it up to 3 times per turn in this manner. 
 >> It's also possible to hit one spark with a faster one. The resulting explosion is strong enough that a deafening shockwave will hit right before the primary blast, both with a radius of 10m.
 >> Instead of throwing it, she may choose to crush the spark in her hand instead, with a similar result only the blast extends from her hand in front of her in a cone rather than a pillar. She can only use this variation once per turn.
@@ -77,4 +77,4 @@ If Avabella reaches a Heat level of 10, she will be immediately incapacitated as
 > **✦ A CLOAK TO FOOL THE WORLD** 
 >> Resets Pressure to 0 and ends **Pyra** immediately after use. 
 >> Ava erases any distinction between herself and her aura. For a brief moment, her body is transformed into pure heat energy and, in this state, her movement speed skyrockets. 
->> Once the Mystery of the Brilliant Flame is activated, Avabella can intercept any "singular" attack and destroy it. In the case of melee, the attacker is knocked back with unimaginable force.
+>> Once the Mystery of the Brilliant Flame is activated, Avabella can intercept any "singular" attack and destroy it. In the case of melee, the attacker is knocked back with unimaginable force. 
