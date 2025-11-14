@@ -13,7 +13,7 @@
 | ------------- | ------------- | ------------------------- |
 | 5'11<br>180cm | 198lb<br>89kg | **Eye color**: Silver     |
 
-Logan is very stocky with thick, powerful but not fully lean musculature. He also has a small forehead. His eyes are sharp and piercing, when not offset by a more pleasant expression. He often keeps his mid-back length hair in a french braid.
+Logan is very stocky with thick, powerful but not fully lean musculature. He also has a small forehead. His eyes are sharp and piercing, when not offset by a more pleasant expression. He often keeps his mid-back length hair in a simple braid.
 
 ### ✦ Info
 **Personality**: Logan is pragmatic and patient. However, when he gets the chance, he can be goofy. Sometimes, it's a mask. He's good at knowing the right time to crack a joke. He holds himself to the highest standard, but at the same time at least tries to avoid working himself to death. He now knows very well what he is and isn't capable of; he has to. Any doubts or flaws he had before, as a fresh Rook, he had to kill with all vehemence. 
@@ -120,10 +120,6 @@ $\quad$
 > Logan points his current weapon forward and channels his psionic might through the blade, while simultaneously, a well memorized runic circle is carved into the air. A concave circular shield is created from the blades tip. 
 > His blade as a catalyst and the stance of pointing it forward as a somatic component are the only requirements. While it is incredibly quick to engage and cheap to use, it is not notably powerful. Technically speaking though, there is no limit to the mana he can pour into it.
 > $\quad$
-> **µ Nexal Reinforcement** (Defense || Psy, Lightning)
->> This can only be used outside of combat. Logan can press his magic onto various surfaces to create long-lasting imprints of dense matrices, reinforcing whatever physical structure they're placed on. This is most effective against energy-based attacks. These nexus points can then be linked together, with a maximum range of 30 meters, and these **Nexal Reinforcement Systems** will grow stronger as they are expanded.
->> It should be noted however these take time to set up: 5-10 minutes per point, cost scaling with strength. Logan can make 1-3 of these per day, if he wants to remain battle ready, or 4-5 if he's willing to fully commit. Nexal points are immutable once made; they cannot be empowered any further, nor recharged. Points and Systems have a maximum lifespan of 21 days.
->
 > **µ Brid's Emplacement** (Defense, Offense || Psy, Lightning)
 >> This is Logan's strongest ability. Logan creates a crystal lattice matrix of mana made physical, which acts as a temporary or "ghost" wardstone.  Creating **Brid's Emplacement** requires Logan's complete attention for six turns, during which any distraction will negate his progress. The matrix's construction will consume half of his total mana, and will take immediate effect after completion. 
 >> The wardstone is intimately and wholly connected to his magic system: Logan is put into a state where he is rooted to where he stands, and all of his senses are greatly enhanced. His physical body becomes dormant. His feet cannot be removed from the ground. Around him is a thin, intangible blue barrier, 15m in diameter.
@@ -135,6 +131,11 @@ $\quad$
 > Logan draws a runic circle in the air around an intended, usually friendly, target. A singular damage type to be protected against is specified, and an amount of mana is allocated to the spell. Then the Ward is finished.
 > Wards act as shields with a battery, that being the amount of mana allocated to them, against the specified damage type. They can be visualized as a bubble closely hugging the body of the target, absorbing attacks of the specified type and consuming mana from their battery to do so. The ward can block anywhere between 1-8 attacks, depending on attack strength and the power allotted to the ward, before unravelling and ceasing to exist.
 > Available damage types: Bludgeoning, Piercing, and Slashing. Requires the target to remain within five meters of Logan for three turns.
+> 
+> **µ Nexal Reinforcement** (Defense || Psy, Lightning)
+>> This can only be used outside of combat. Logan can press his magic onto various surfaces to create long-lasting imprints of dense matrices, reinforcing whatever physical structure they're placed on. This is most effective against energy-based attacks. These nexus points can then be linked together, with a maximum range of 30 meters, and these **Nexal Reinforcement Systems** will grow stronger as they are expanded.
+>> It should be noted however these take time to set up: 5-10 minutes per point, cost scaling with strength. Logan can make 1-3 of these per day, if he wants to remain battle ready, or 4-5 if he's willing to fully commit. Nexal points are immutable once made; they cannot be empowered any further, nor recharged. Points and Systems have a maximum lifespan of 21 days. 
+
 ### ✦ Gear
 #### ¶ Bealkadā
 Elemental properties: **Psy, Lightning**
@@ -152,7 +153,7 @@ Elemental properties: **Psy, Lightning**
 Catalyst: **Y**
 
 ##### µ Physical Description
-Logan's sidearm Thundael, a bastard sword. It has an overall length of 49" and a blade length of 38". Unlike Bealkadā, the crossguard is accompanied by side rings. However, like Bealkadā, Thundael's blade is the purest ivory white.
+Logan's secondary weapon Thundael, a bastard sword. It has an overall length of 49" and a blade length of 38". Unlike Bealkadā, the crossguard is accompanied by side rings. However, like Bealkadā, Thundael's blade is the purest ivory white.
 
 ##### µ Functional Description
 Thundael's creation mirrors that of its twin sister. Like his montante, Logan can call it to his side from any distance and tell where it is at all times.
