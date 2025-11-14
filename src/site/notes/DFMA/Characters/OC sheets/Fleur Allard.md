@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"DFMA/Characters/Allard-Fleur.md","dg-permalink":"DFMA/Characters/Allard-Fleur","permalink":"/DFMA/Characters/Allard-Fleur/"}
 ---
 
-
+  
 | **Male, Animalian, Age**: 32 | **Dragonfall Charms Professor** |
 | ---------------------------- | ------------------------------- |
 | **DOB**: June 11th, AE695    | **Mage Rank**: B                |
@@ -19,19 +19,21 @@
 ### ✦ Info
 
 #### ¶ Personality:
+Fleur is a certain way.
 
-**Likes/Dislikes**:
+Fleur is best described as a very social guy, he likes being around people all the time. He's confident
 
+**Likes/Dislikes**: 
+Fluer likes the sound of people; laughing, talking, even just existing. 
 #### ¶ Backstory
 
 
 
 
 
-### ✦ Magic Name:
-Overall place in type triad:
-Elemental Properties:
-OC Using this magic:
+### ✦ Magic Name: Breath Binds Spirit and Bone
+Overall place in type triad: Defense
+Elemental Properties: Wind
 #### ¶ Description
 
 
