@@ -108,7 +108,7 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 > As arcane Pressure increases, her aura will increase in intensity until it burns white at level 12. Extends .3m around her body passively.
 > 
 > **µ Kickstart** (Self | Fire)
->> This can only be used when she first activates Arcana Augere. Upon activating Augere, she can choose whether or not to use **Kickstart**. This allows her to begin with level 4 Pressure instantly, at the cost of instantly creating 5 levels of Heat. 
+>> This can only be used when she first activates Arcana Augere. Upon activating Augere, she can choose whether or not to use **Kickstart**. This allows her to begin with level 4 Pressure instantly, at the cost of instantly creating 5 levels of Heat. Automatically puts her in Gear 2.
 >
 > **µ Envelopment** (Support | Fire)
 >> Requires level 4 Pressure to activate, consumes 2 per turn. Can be activated for as much time as Ava desires, including being pulsed. No matter how briefly, it will always consume 2 levels on activation.
@@ -129,7 +129,7 @@ While above Gear 1, Avabella will generate a certain amount of Heat. This is an 
 > **µ Phoenix Song** (Offense | Fire)
 >> Requires level 2 Pressure, consumes 2.
 >> Combining **Suppression** and **Enhancement**, Ava concentrates her aura into her lungs. The aura will disappear externally, as all of it is instead forced into her lungs. Her chest will visibly expand, before she unleashes a fire breath attack. She can focus it as she wills, either attacking a large area (6m long, 6m wide cone) or creating a highly pressurized stream of fire (10m long, 1m wide cone.) 
->> This attack can be used multiple times in rapid succession, but will be disabled for 3 turns after she stops concentrating her aura into her lungs.
+>> This attack can be used multiple times in rapid succession, but will be disabled for 3 turns after she stops concentrating her aura into her lungs. If used to create a continuous stream of fire, it will consume an extra level of Pressure for every additional turn.
 >
 >**µ Phoenix Power: Deflect** (Defense | Fire) 
 >> Requires level 6 Pressure, consumes 2. Creates an extra level of Heat on use. Disabled for 4 turns after use.
