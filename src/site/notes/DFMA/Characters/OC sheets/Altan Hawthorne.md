@@ -75,16 +75,7 @@ The second most distinguishing factor of her abilities would be Zen, which she a
 > **µ Phoenix Bullet Dance** (Offense || Fire)
 >> This technique can be actuated by 6 two-handed seals. 
 >> Bullet Dance operates the same way as Phoenix song, with fire magic condensed in and then released from the gut. Only this time, Altan will 'set' the target in her mind, and then release five fireballs from her mouth. While obviously not perfect, since they have weight and momentum, these fireballs will follow and track their set target. They will release small, fiery explosions when they hit something, be it their target, themselves, or anything else.
->> It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is less efficient, and has a brief cooldown period.
-
-**» Spear of the Sun** (Offense || Fire&Light || **Zen**) 
-> Altan actuates her Zen aspect onto her magic, and turns the spear incorporeal. In this state, the spear will not deal wounds of the flesh.
-> Being struck will destabilize the magic, worsening an opponents control as their system must 'fight off' Altans magic like a disease. This effect takes six turns to wear off fully.
-> Depending on how Altans magic control stacks up against her opponents, it will take 6-8 hits before an opponents magic is disabled. 
-> The spell, if maintained for 6 turns, will consume her total mana capacity; And because she must maintain it continuously, if her spear moves farther than 3 feet away from her, the spell will immediately end and a not-insignificant amount of her mana will be wasted.
-> $\quad$
-> Against those who have extraplanar magic within them, this effect is amplified; However, if they possess elements with an advantage over either Fire or Light, the effect will only take 2-3 turns to be dispelled.
-
+>> It should be noted, Altan can perform a 'lesser variation' of Bullet Dance without seals. This lesser variation involves only a single fireball, is more expensive, and has a cooldown period of two turns.
 
 **» Spear of the Sun** (Offense || Fire&Light || **Zen**)
 > Altan actuates her Zen aspect onto her magic, and turns the spear incorporeal. In this state, the spear will not deal traditional wounds of the flesh, but rather Viral damage.
