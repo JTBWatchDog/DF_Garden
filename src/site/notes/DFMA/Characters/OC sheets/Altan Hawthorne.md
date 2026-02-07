@@ -79,11 +79,24 @@ The second most distinguishing factor of her abilities would be Zen, which she a
 
 **» Spear of the Sun** (Offense || Fire&Light || **Zen**) 
 > Altan actuates her Zen aspect onto her magic, and turns the spear incorporeal. In this state, the spear will not deal wounds of the flesh.
-> Being struck will destabilize the magic, worsening an opponents control as their system must 'fight off' Altans magic like a disease. This effect takes six turns to wear off fully, but is renewed with every hit stacking the effect cumulatively.
+> Being struck will destabilize the magic, worsening an opponents control as their system must 'fight off' Altans magic like a disease. This effect takes six turns to wear off fully.
 > Depending on how Altans magic control stacks up against her opponents, it will take 6-8 hits before an opponents magic is disabled. 
-> The spell, if maintained for 12 turns, will consume half her mana capacity; And because she must maintain it continuously, if her spear moves farther than 3 feet away from her, the spell will immediately end and a not-insignificant amount of her mana will be wasted.
+> The spell, if maintained for 6 turns, will consume her total mana capacity; And because she must maintain it continuously, if her spear moves farther than 3 feet away from her, the spell will immediately end and a not-insignificant amount of her mana will be wasted.
 > $\quad$
 > Against those who have extraplanar magic within them, this effect is amplified; However, if they possess elements with an advantage over either Fire or Light, the effect will only take 2-3 turns to be dispelled.
+
+
+**» Spear of the Sun** (Offense || Fire&Light || **Zen**)
+> Altan actuates her Zen aspect onto her magic, and turns the spear incorporeal. In this state, the spear will not deal traditional wounds of the flesh, but rather Viral damage.
+> Each hit injects her magic into the opponent, consuming mana. 
+> Altan can only maintain this transformation for six turns. As it requires continuous focus, if she loses her spear and exceeds a distance of 3m, the technique will immediately end and part of her mana will be wasted.
+>  
+> Upon first hit, the Solar Damage status effect is applied to the enemy, and each successive hit will increase the viral load of Solar Damage. This effect only lasts for six turns after initial application, and upon cessation of the effect, the viral load will be lost.
+> This will have no effect until a high enough viral load is reached. The number of required hits to reach this depends on how the opponent's magic control compares to hers, but against an opponent of equal skill it will generally take 6-8 hits to reach a critical viral load. 
+> The required number of hits is decreased if the opponent is an Extraplanar mage weak to her Fire & Light elements, but increased if the opponent is resistant to her Fire & Light elements. If the opponent's skill far surpasses hers, the number of required hits also increases accordingly.
+>  
+> Once a critical Solar Damage viral load is reached the effect will go from dormant to active. Once the effect is active, the opponent's magic control will weaken and worsen, increasing the cost of their techniques by 10% each turn, until it reaches a maximum effect of 50% on turn 5. Active Solar Damage will naturally cease on turn 8 after activation.
+
 ### ✦ Gear
 ##### ¶ Altan's Spear
 Owner: Altan
